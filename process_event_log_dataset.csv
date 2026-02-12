@@ -1,0 +1,3501 @@
+Case_ID,Activity,Timestamp,Resource
+1,Order Created,2024-02-10 15:00:00,System
+1,Order Approved,2024-02-12 03:00:00,Finance Team
+1,Credit Check,2024-02-13 08:00:00,Finance Team
+1,Payment Processed,2024-02-13 22:00:00,Manager
+1,Order Packed,2024-02-14 10:00:00,Manager
+1,Order Shipped,2024-02-16 17:00:00,System
+1,Order Delivered,2024-02-16 21:00:00,System
+2,Order Created,2024-01-15 06:00:00,Manager
+2,Order Approved,2024-01-15 10:00:00,Manager
+2,Credit Check,2024-01-16 12:00:00,Manager
+2,Payment Processed,2024-01-18 18:00:00,Finance Team
+2,Order Packed,2024-01-21 04:00:00,Manager
+2,Order Shipped,2024-01-22 16:00:00,System
+2,Order Delivered,2024-01-23 13:00:00,Logistics
+3,Order Created,2024-01-23 12:00:00,Finance Team
+3,Order Approved,2024-01-24 16:00:00,Warehouse
+3,Credit Check,2024-01-25 06:00:00,System
+3,Payment Processed,2024-01-27 07:00:00,System
+3,Order Packed,2024-01-29 05:00:00,Warehouse
+3,Order Shipped,2024-01-30 15:00:00,System
+3,Order Delivered,2024-02-02 02:00:00,Manager
+4,Order Created,2024-01-10 01:00:00,System
+4,Order Approved,2024-01-13 00:00:00,Warehouse
+4,Credit Check,2024-01-14 23:00:00,Manager
+4,Payment Processed,2024-01-16 00:00:00,System
+4,Order Packed,2024-01-16 06:00:00,Finance Team
+4,Order Shipped,2024-01-17 20:00:00,System
+4,Order Delivered,2024-01-19 02:00:00,System
+5,Order Created,2024-01-26 12:00:00,Logistics
+5,Order Approved,2024-01-28 11:00:00,Finance Team
+5,Credit Check,2024-01-30 11:00:00,Warehouse
+5,Payment Processed,2024-01-31 14:00:00,Warehouse
+5,Order Packed,2024-02-01 00:00:00,Manager
+5,Order Shipped,2024-02-01 22:00:00,Manager
+5,Order Delivered,2024-02-03 06:00:00,Finance Team
+6,Order Created,2024-02-01 01:00:00,Warehouse
+6,Order Approved,2024-02-04 01:00:00,Finance Team
+6,Credit Check,2024-02-05 19:00:00,System
+6,Payment Processed,2024-02-07 01:00:00,System
+6,Order Packed,2024-02-08 18:00:00,Logistics
+6,Order Shipped,2024-02-10 05:00:00,System
+6,Order Delivered,2024-02-11 09:00:00,Manager
+7,Order Created,2024-02-27 17:00:00,Finance Team
+7,Order Approved,2024-03-01 09:00:00,Logistics
+7,Credit Check,2024-03-03 20:00:00,Finance Team
+7,Payment Processed,2024-03-05 06:00:00,Finance Team
+7,Order Packed,2024-03-06 14:00:00,Manager
+7,Order Shipped,2024-03-09 11:00:00,Warehouse
+7,Order Delivered,2024-03-11 18:00:00,Manager
+8,Order Created,2024-01-27 23:00:00,Finance Team
+8,Order Approved,2024-01-28 17:00:00,Manager
+8,Credit Check,2024-01-31 09:00:00,System
+8,Payment Processed,2024-01-31 16:00:00,System
+8,Order Packed,2024-02-01 12:00:00,Finance Team
+8,Order Shipped,2024-02-03 19:00:00,Manager
+8,Order Delivered,2024-02-04 04:00:00,Logistics
+9,Order Created,2024-01-27 12:00:00,Manager
+9,Order Approved,2024-01-28 21:00:00,Manager
+9,Credit Check,2024-01-28 23:00:00,System
+9,Payment Processed,2024-01-31 20:00:00,Warehouse
+9,Order Packed,2024-02-02 16:00:00,System
+9,Order Shipped,2024-02-04 06:00:00,Logistics
+9,Order Delivered,2024-02-05 03:00:00,Logistics
+10,Order Created,2024-01-02 10:00:00,Manager
+10,Order Approved,2024-01-03 09:00:00,Manager
+10,Credit Check,2024-01-03 23:00:00,Warehouse
+10,Payment Processed,2024-01-06 16:00:00,Manager
+10,Order Packed,2024-01-07 18:00:00,Finance Team
+10,Order Shipped,2024-01-09 18:00:00,Finance Team
+10,Order Delivered,2024-01-12 16:00:00,Manager
+11,Order Created,2024-02-28 01:00:00,Manager
+11,Order Approved,2024-02-29 19:00:00,Logistics
+11,Credit Check,2024-02-29 22:00:00,System
+11,Payment Processed,2024-03-02 21:00:00,Warehouse
+11,Order Packed,2024-03-04 04:00:00,System
+11,Order Shipped,2024-03-05 11:00:00,Manager
+11,Order Delivered,2024-03-05 22:00:00,System
+12,Order Created,2024-02-18 15:00:00,System
+12,Order Approved,2024-02-21 12:00:00,Finance Team
+12,Credit Check,2024-02-22 05:00:00,Logistics
+12,Payment Processed,2024-02-25 04:00:00,Finance Team
+12,Order Packed,2024-02-26 14:00:00,Manager
+12,Order Shipped,2024-02-28 21:00:00,Finance Team
+12,Order Delivered,2024-03-02 19:00:00,Finance Team
+13,Order Created,2024-02-16 16:00:00,Logistics
+13,Order Approved,2024-02-18 16:00:00,Logistics
+13,Credit Check,2024-02-21 11:00:00,Logistics
+13,Payment Processed,2024-02-22 03:00:00,Finance Team
+13,Order Packed,2024-02-23 08:00:00,System
+13,Order Shipped,2024-02-25 04:00:00,System
+13,Order Delivered,2024-02-28 03:00:00,Finance Team
+14,Order Created,2024-02-08 05:00:00,System
+14,Order Approved,2024-02-08 15:00:00,System
+14,Credit Check,2024-02-09 21:00:00,System
+14,Payment Processed,2024-02-10 02:00:00,Warehouse
+14,Order Packed,2024-02-10 12:00:00,Manager
+14,Order Shipped,2024-02-11 19:00:00,Warehouse
+14,Order Delivered,2024-02-14 10:00:00,Finance Team
+15,Order Created,2024-02-04 17:00:00,Manager
+15,Order Approved,2024-02-07 06:00:00,Finance Team
+15,Credit Check,2024-02-09 19:00:00,Logistics
+15,Payment Processed,2024-02-10 20:00:00,System
+15,Order Packed,2024-02-11 09:00:00,Logistics
+15,Order Shipped,2024-02-13 07:00:00,Logistics
+15,Order Delivered,2024-02-15 12:00:00,Logistics
+16,Order Created,2024-02-25 07:00:00,System
+16,Order Approved,2024-02-25 15:00:00,Logistics
+16,Credit Check,2024-02-27 11:00:00,System
+16,Payment Processed,2024-02-28 19:00:00,Finance Team
+16,Order Packed,2024-02-29 20:00:00,Manager
+16,Order Shipped,2024-03-03 06:00:00,Finance Team
+16,Order Delivered,2024-03-05 13:00:00,Finance Team
+17,Order Created,2024-01-20 12:00:00,Finance Team
+17,Order Approved,2024-01-20 22:00:00,Logistics
+17,Credit Check,2024-01-23 21:00:00,System
+17,Payment Processed,2024-01-24 04:00:00,Manager
+17,Order Packed,2024-01-24 06:00:00,System
+17,Order Shipped,2024-01-25 13:00:00,Finance Team
+17,Order Delivered,2024-01-27 18:00:00,Logistics
+18,Order Created,2024-02-01 04:00:00,Logistics
+18,Order Approved,2024-02-01 12:00:00,Finance Team
+18,Credit Check,2024-02-03 13:00:00,System
+18,Payment Processed,2024-02-05 15:00:00,Warehouse
+18,Order Packed,2024-02-08 02:00:00,Warehouse
+18,Order Shipped,2024-02-10 09:00:00,Manager
+18,Order Delivered,2024-02-13 00:00:00,Finance Team
+19,Order Created,2024-01-14 14:00:00,Finance Team
+19,Order Approved,2024-01-14 22:00:00,Manager
+19,Credit Check,2024-01-17 20:00:00,System
+19,Payment Processed,2024-01-19 13:00:00,System
+19,Order Packed,2024-01-19 20:00:00,Manager
+19,Order Shipped,2024-01-22 10:00:00,Manager
+19,Order Delivered,2024-01-25 06:00:00,Finance Team
+20,Order Created,2024-01-06 18:00:00,System
+20,Order Approved,2024-01-07 18:00:00,System
+20,Credit Check,2024-01-08 03:00:00,Finance Team
+20,Payment Processed,2024-01-10 07:00:00,System
+20,Order Packed,2024-01-11 15:00:00,Manager
+20,Order Shipped,2024-01-11 21:00:00,Manager
+20,Order Delivered,2024-01-12 08:00:00,Logistics
+21,Order Created,2024-02-14 19:00:00,Warehouse
+21,Order Approved,2024-02-16 05:00:00,Finance Team
+21,Credit Check,2024-02-17 22:00:00,Finance Team
+21,Payment Processed,2024-02-19 08:00:00,Logistics
+21,Order Packed,2024-02-20 01:00:00,Warehouse
+21,Order Shipped,2024-02-22 12:00:00,Warehouse
+21,Order Delivered,2024-02-22 22:00:00,System
+22,Order Created,2024-01-30 13:00:00,System
+22,Order Approved,2024-02-02 10:00:00,Finance Team
+22,Credit Check,2024-02-05 03:00:00,Warehouse
+22,Payment Processed,2024-02-05 20:00:00,Warehouse
+22,Order Packed,2024-02-06 05:00:00,Finance Team
+22,Order Shipped,2024-02-08 05:00:00,Warehouse
+22,Order Delivered,2024-02-09 02:00:00,Logistics
+23,Order Created,2024-02-25 22:00:00,Warehouse
+23,Order Approved,2024-02-28 18:00:00,System
+23,Credit Check,2024-03-02 17:00:00,Warehouse
+23,Payment Processed,2024-03-03 07:00:00,Finance Team
+23,Order Packed,2024-03-04 17:00:00,System
+23,Order Shipped,2024-03-05 07:00:00,Manager
+23,Order Delivered,2024-03-06 03:00:00,Warehouse
+24,Order Created,2024-01-20 03:00:00,Warehouse
+24,Order Approved,2024-01-21 06:00:00,Warehouse
+24,Credit Check,2024-01-23 23:00:00,Logistics
+24,Payment Processed,2024-01-25 08:00:00,System
+24,Order Packed,2024-01-25 20:00:00,Logistics
+24,Order Shipped,2024-01-27 08:00:00,System
+24,Order Delivered,2024-01-27 09:00:00,Warehouse
+25,Order Created,2024-02-19 17:00:00,Warehouse
+25,Order Approved,2024-02-20 14:00:00,Logistics
+25,Credit Check,2024-02-23 13:00:00,Logistics
+25,Payment Processed,2024-02-26 13:00:00,System
+25,Order Packed,2024-02-27 04:00:00,System
+25,Order Shipped,2024-02-28 00:00:00,Manager
+25,Order Delivered,2024-02-28 05:00:00,Warehouse
+26,Order Created,2024-02-09 23:00:00,Finance Team
+26,Order Approved,2024-02-12 07:00:00,Finance Team
+26,Credit Check,2024-02-12 13:00:00,Warehouse
+26,Payment Processed,2024-02-14 12:00:00,System
+26,Order Packed,2024-02-16 10:00:00,Finance Team
+26,Order Shipped,2024-02-17 18:00:00,System
+26,Order Delivered,2024-02-19 16:00:00,Manager
+27,Order Created,2024-02-28 05:00:00,Manager
+27,Order Approved,2024-02-29 01:00:00,Finance Team
+27,Credit Check,2024-02-29 22:00:00,Finance Team
+27,Payment Processed,2024-03-03 03:00:00,System
+27,Order Packed,2024-03-04 02:00:00,Warehouse
+27,Order Shipped,2024-03-06 07:00:00,Finance Team
+27,Order Delivered,2024-03-07 18:00:00,Finance Team
+28,Order Created,2024-02-20 14:00:00,Logistics
+28,Order Approved,2024-02-20 19:00:00,Logistics
+28,Credit Check,2024-02-22 00:00:00,Finance Team
+28,Payment Processed,2024-02-24 11:00:00,Warehouse
+28,Order Packed,2024-02-26 03:00:00,Finance Team
+28,Order Shipped,2024-02-27 08:00:00,System
+28,Order Delivered,2024-02-28 09:00:00,Logistics
+29,Order Created,2024-01-23 12:00:00,System
+29,Order Approved,2024-01-25 00:00:00,Warehouse
+29,Credit Check,2024-01-27 18:00:00,Logistics
+29,Payment Processed,2024-01-30 15:00:00,Warehouse
+29,Order Packed,2024-01-30 19:00:00,System
+29,Order Shipped,2024-02-01 05:00:00,Finance Team
+29,Order Delivered,2024-02-02 15:00:00,System
+30,Order Created,2024-01-09 08:00:00,Warehouse
+30,Order Approved,2024-01-11 01:00:00,Logistics
+30,Credit Check,2024-01-13 19:00:00,System
+30,Payment Processed,2024-01-15 21:00:00,Manager
+30,Order Packed,2024-01-16 22:00:00,Warehouse
+30,Order Shipped,2024-01-17 04:00:00,Logistics
+30,Order Delivered,2024-01-17 05:00:00,Manager
+31,Order Created,2024-03-02 21:00:00,Finance Team
+31,Order Approved,2024-03-04 20:00:00,Logistics
+31,Credit Check,2024-03-05 05:00:00,Warehouse
+31,Payment Processed,2024-03-06 22:00:00,System
+31,Order Packed,2024-03-08 13:00:00,Manager
+31,Order Shipped,2024-03-10 05:00:00,Logistics
+31,Order Delivered,2024-03-11 23:00:00,Logistics
+32,Order Created,2024-02-15 14:00:00,Manager
+32,Order Approved,2024-02-16 07:00:00,Finance Team
+32,Credit Check,2024-02-18 13:00:00,Logistics
+32,Payment Processed,2024-02-19 12:00:00,Manager
+32,Order Packed,2024-02-21 03:00:00,Logistics
+32,Order Shipped,2024-02-24 02:00:00,System
+32,Order Delivered,2024-02-25 17:00:00,Warehouse
+33,Order Created,2024-01-16 08:00:00,Manager
+33,Order Approved,2024-01-18 02:00:00,Logistics
+33,Credit Check,2024-01-20 11:00:00,Logistics
+33,Payment Processed,2024-01-21 15:00:00,Manager
+33,Order Packed,2024-01-24 04:00:00,Finance Team
+33,Order Shipped,2024-01-24 15:00:00,Warehouse
+33,Order Delivered,2024-01-27 09:00:00,Manager
+34,Order Created,2024-01-22 12:00:00,Finance Team
+34,Order Approved,2024-01-24 04:00:00,Finance Team
+34,Credit Check,2024-01-25 06:00:00,Finance Team
+34,Payment Processed,2024-01-25 10:00:00,System
+34,Order Packed,2024-01-26 18:00:00,Logistics
+34,Order Shipped,2024-01-27 04:00:00,Logistics
+34,Order Delivered,2024-01-29 10:00:00,Manager
+35,Order Created,2024-01-15 02:00:00,Logistics
+35,Order Approved,2024-01-17 06:00:00,Finance Team
+35,Credit Check,2024-01-18 01:00:00,System
+35,Payment Processed,2024-01-18 15:00:00,Logistics
+35,Order Packed,2024-01-19 20:00:00,Finance Team
+35,Order Shipped,2024-01-22 15:00:00,Logistics
+35,Order Delivered,2024-01-22 22:00:00,Manager
+36,Order Created,2024-01-16 16:00:00,Logistics
+36,Order Approved,2024-01-17 10:00:00,Logistics
+36,Credit Check,2024-01-20 06:00:00,Manager
+36,Payment Processed,2024-01-21 23:00:00,Logistics
+36,Order Packed,2024-01-24 16:00:00,Logistics
+36,Order Shipped,2024-01-27 15:00:00,Logistics
+36,Order Delivered,2024-01-28 12:00:00,Logistics
+37,Order Created,2024-01-30 10:00:00,Finance Team
+37,Order Approved,2024-01-31 22:00:00,Manager
+37,Credit Check,2024-02-03 13:00:00,Finance Team
+37,Payment Processed,2024-02-05 01:00:00,Logistics
+37,Order Packed,2024-02-05 11:00:00,Warehouse
+37,Order Shipped,2024-02-06 18:00:00,Warehouse
+37,Order Delivered,2024-02-08 13:00:00,Warehouse
+38,Order Created,2024-02-29 22:00:00,System
+38,Order Approved,2024-03-01 16:00:00,Finance Team
+38,Credit Check,2024-03-02 22:00:00,Logistics
+38,Payment Processed,2024-03-03 18:00:00,Finance Team
+38,Order Packed,2024-03-04 03:00:00,Logistics
+38,Order Shipped,2024-03-06 08:00:00,Warehouse
+38,Order Delivered,2024-03-09 06:00:00,Logistics
+39,Order Created,2024-01-27 08:00:00,Finance Team
+39,Order Approved,2024-01-29 14:00:00,Logistics
+39,Credit Check,2024-01-29 17:00:00,Manager
+39,Payment Processed,2024-01-31 18:00:00,Logistics
+39,Order Packed,2024-01-31 19:00:00,Warehouse
+39,Order Shipped,2024-02-02 10:00:00,Logistics
+39,Order Delivered,2024-02-04 16:00:00,Manager
+40,Order Created,2024-02-19 22:00:00,Manager
+40,Order Approved,2024-02-21 03:00:00,Logistics
+40,Credit Check,2024-02-22 08:00:00,Warehouse
+40,Payment Processed,2024-02-24 16:00:00,Logistics
+40,Order Packed,2024-02-24 20:00:00,Logistics
+40,Order Shipped,2024-02-26 16:00:00,Logistics
+40,Order Delivered,2024-02-27 14:00:00,Logistics
+41,Order Created,2024-02-28 17:00:00,Manager
+41,Order Approved,2024-03-02 14:00:00,System
+41,Credit Check,2024-03-04 17:00:00,Manager
+41,Payment Processed,2024-03-04 21:00:00,System
+41,Order Packed,2024-03-07 04:00:00,Finance Team
+41,Order Shipped,2024-03-09 16:00:00,Finance Team
+41,Order Delivered,2024-03-09 23:00:00,Warehouse
+42,Order Created,2024-01-26 18:00:00,Finance Team
+42,Order Approved,2024-01-29 05:00:00,Warehouse
+42,Credit Check,2024-01-31 01:00:00,Logistics
+42,Payment Processed,2024-02-01 13:00:00,Logistics
+42,Order Packed,2024-02-02 22:00:00,System
+42,Order Shipped,2024-02-05 11:00:00,System
+42,Order Delivered,2024-02-08 09:00:00,System
+43,Order Created,2024-03-02 21:00:00,Finance Team
+43,Order Approved,2024-03-03 06:00:00,System
+43,Credit Check,2024-03-03 10:00:00,Finance Team
+43,Payment Processed,2024-03-04 12:00:00,System
+43,Order Packed,2024-03-05 08:00:00,Finance Team
+43,Order Shipped,2024-03-06 01:00:00,Logistics
+43,Order Delivered,2024-03-06 16:00:00,Manager
+44,Order Created,2024-03-02 04:00:00,Logistics
+44,Order Approved,2024-03-03 13:00:00,Warehouse
+44,Credit Check,2024-03-04 11:00:00,Manager
+44,Payment Processed,2024-03-05 02:00:00,Finance Team
+44,Order Packed,2024-03-06 18:00:00,System
+44,Order Shipped,2024-03-06 22:00:00,Warehouse
+44,Order Delivered,2024-03-08 23:00:00,Logistics
+45,Order Created,2024-03-02 02:00:00,System
+45,Order Approved,2024-03-03 10:00:00,System
+45,Credit Check,2024-03-05 01:00:00,Manager
+45,Payment Processed,2024-03-05 17:00:00,Manager
+45,Order Packed,2024-03-05 23:00:00,Warehouse
+45,Order Shipped,2024-03-08 20:00:00,Logistics
+45,Order Delivered,2024-03-10 20:00:00,System
+46,Order Created,2024-02-03 20:00:00,System
+46,Order Approved,2024-02-06 02:00:00,Logistics
+46,Credit Check,2024-02-06 16:00:00,Logistics
+46,Payment Processed,2024-02-08 15:00:00,Logistics
+46,Order Packed,2024-02-09 11:00:00,Logistics
+46,Order Shipped,2024-02-10 10:00:00,Manager
+46,Order Delivered,2024-02-11 21:00:00,Manager
+47,Order Created,2024-02-23 21:00:00,Logistics
+47,Order Approved,2024-02-26 09:00:00,Logistics
+47,Credit Check,2024-02-27 20:00:00,Warehouse
+47,Payment Processed,2024-02-29 04:00:00,System
+47,Order Packed,2024-03-01 16:00:00,Logistics
+47,Order Shipped,2024-03-03 00:00:00,Logistics
+47,Order Delivered,2024-03-05 01:00:00,Warehouse
+48,Order Created,2024-01-04 16:00:00,Warehouse
+48,Order Approved,2024-01-05 16:00:00,Logistics
+48,Credit Check,2024-01-06 20:00:00,Warehouse
+48,Payment Processed,2024-01-08 06:00:00,Warehouse
+48,Order Packed,2024-01-09 18:00:00,Manager
+48,Order Shipped,2024-01-11 06:00:00,Manager
+48,Order Delivered,2024-01-11 08:00:00,Manager
+49,Order Created,2024-03-02 01:00:00,System
+49,Order Approved,2024-03-03 08:00:00,Logistics
+49,Credit Check,2024-03-05 23:00:00,Manager
+49,Payment Processed,2024-03-07 06:00:00,Logistics
+49,Order Packed,2024-03-09 21:00:00,Logistics
+49,Order Shipped,2024-03-10 00:00:00,System
+49,Order Delivered,2024-03-11 14:00:00,Finance Team
+50,Order Created,2024-01-27 08:00:00,Warehouse
+50,Order Approved,2024-01-29 08:00:00,Logistics
+50,Credit Check,2024-02-01 07:00:00,Manager
+50,Payment Processed,2024-02-03 04:00:00,Logistics
+50,Order Packed,2024-02-06 03:00:00,Warehouse
+50,Order Shipped,2024-02-08 01:00:00,Logistics
+50,Order Delivered,2024-02-09 12:00:00,Warehouse
+51,Order Created,2024-01-18 06:00:00,System
+51,Order Approved,2024-01-19 07:00:00,Warehouse
+51,Credit Check,2024-01-19 23:00:00,Manager
+51,Payment Processed,2024-01-20 23:00:00,Finance Team
+51,Order Packed,2024-01-22 03:00:00,Logistics
+51,Order Shipped,2024-01-23 15:00:00,Manager
+51,Order Delivered,2024-01-26 11:00:00,Manager
+52,Order Created,2024-01-19 13:00:00,Finance Team
+52,Order Approved,2024-01-21 03:00:00,Finance Team
+52,Credit Check,2024-01-23 02:00:00,Finance Team
+52,Payment Processed,2024-01-24 17:00:00,System
+52,Order Packed,2024-01-27 14:00:00,Finance Team
+52,Order Shipped,2024-01-29 02:00:00,System
+52,Order Delivered,2024-01-29 09:00:00,Manager
+53,Order Created,2024-01-19 17:00:00,Logistics
+53,Order Approved,2024-01-20 07:00:00,System
+53,Credit Check,2024-01-21 20:00:00,Logistics
+53,Payment Processed,2024-01-24 10:00:00,Logistics
+53,Order Packed,2024-01-26 06:00:00,Finance Team
+53,Order Shipped,2024-01-26 13:00:00,Warehouse
+53,Order Delivered,2024-01-29 03:00:00,System
+54,Order Created,2024-02-22 09:00:00,Logistics
+54,Order Approved,2024-02-25 00:00:00,System
+54,Credit Check,2024-02-25 07:00:00,Finance Team
+54,Payment Processed,2024-02-26 03:00:00,Manager
+54,Order Packed,2024-02-27 18:00:00,System
+54,Order Shipped,2024-02-29 02:00:00,System
+54,Order Delivered,2024-03-03 02:00:00,Logistics
+55,Order Created,2024-02-09 05:00:00,Manager
+55,Order Approved,2024-02-11 06:00:00,Logistics
+55,Credit Check,2024-02-13 15:00:00,Warehouse
+55,Payment Processed,2024-02-15 22:00:00,Warehouse
+55,Order Packed,2024-02-16 06:00:00,Manager
+55,Order Shipped,2024-02-16 19:00:00,Finance Team
+55,Order Delivered,2024-02-17 23:00:00,Warehouse
+56,Order Created,2024-02-12 11:00:00,Finance Team
+56,Order Approved,2024-02-13 18:00:00,Finance Team
+56,Credit Check,2024-02-16 17:00:00,System
+56,Payment Processed,2024-02-17 14:00:00,System
+56,Order Packed,2024-02-19 19:00:00,Logistics
+56,Order Shipped,2024-02-22 08:00:00,Warehouse
+56,Order Delivered,2024-02-22 13:00:00,Finance Team
+57,Order Created,2024-01-20 13:00:00,Logistics
+57,Order Approved,2024-01-20 23:00:00,Finance Team
+57,Credit Check,2024-01-22 09:00:00,Manager
+57,Payment Processed,2024-01-23 11:00:00,Logistics
+57,Order Packed,2024-01-24 02:00:00,Manager
+57,Order Shipped,2024-01-25 07:00:00,Finance Team
+57,Order Delivered,2024-01-26 18:00:00,Finance Team
+58,Order Created,2024-01-05 08:00:00,Finance Team
+58,Order Approved,2024-01-07 00:00:00,Manager
+58,Credit Check,2024-01-08 13:00:00,Logistics
+58,Payment Processed,2024-01-09 05:00:00,Logistics
+58,Order Packed,2024-01-10 20:00:00,Logistics
+58,Order Shipped,2024-01-12 07:00:00,Manager
+58,Order Delivered,2024-01-15 05:00:00,Logistics
+59,Order Created,2024-01-29 11:00:00,Manager
+59,Order Approved,2024-01-29 17:00:00,Logistics
+59,Credit Check,2024-01-31 11:00:00,Manager
+59,Payment Processed,2024-02-01 20:00:00,System
+59,Order Packed,2024-02-02 08:00:00,Finance Team
+59,Order Shipped,2024-02-02 11:00:00,Warehouse
+59,Order Delivered,2024-02-02 17:00:00,Finance Team
+60,Order Created,2024-02-02 19:00:00,Logistics
+60,Order Approved,2024-02-04 07:00:00,Finance Team
+60,Credit Check,2024-02-06 15:00:00,Logistics
+60,Payment Processed,2024-02-07 03:00:00,Logistics
+60,Order Packed,2024-02-09 00:00:00,Logistics
+60,Order Shipped,2024-02-10 19:00:00,Warehouse
+60,Order Delivered,2024-02-11 09:00:00,Finance Team
+61,Order Created,2024-01-24 05:00:00,Logistics
+61,Order Approved,2024-01-25 18:00:00,Logistics
+61,Credit Check,2024-01-28 17:00:00,System
+61,Payment Processed,2024-01-31 04:00:00,System
+61,Order Packed,2024-02-01 21:00:00,Warehouse
+61,Order Shipped,2024-02-03 15:00:00,System
+61,Order Delivered,2024-02-05 19:00:00,Manager
+62,Order Created,2024-02-22 01:00:00,Manager
+62,Order Approved,2024-02-24 13:00:00,Logistics
+62,Credit Check,2024-02-24 20:00:00,Finance Team
+62,Payment Processed,2024-02-27 15:00:00,Warehouse
+62,Order Packed,2024-03-01 07:00:00,Logistics
+62,Order Shipped,2024-03-01 14:00:00,Finance Team
+62,Order Delivered,2024-03-03 01:00:00,Manager
+63,Order Created,2024-01-10 13:00:00,Logistics
+63,Order Approved,2024-01-13 04:00:00,System
+63,Credit Check,2024-01-13 08:00:00,Manager
+63,Payment Processed,2024-01-14 15:00:00,Finance Team
+63,Order Packed,2024-01-16 07:00:00,Manager
+63,Order Shipped,2024-01-16 09:00:00,Manager
+63,Order Delivered,2024-01-18 14:00:00,System
+64,Order Created,2024-01-15 15:00:00,Logistics
+64,Order Approved,2024-01-16 07:00:00,Finance Team
+64,Credit Check,2024-01-18 23:00:00,Warehouse
+64,Payment Processed,2024-01-21 17:00:00,Warehouse
+64,Order Packed,2024-01-23 23:00:00,Logistics
+64,Order Shipped,2024-01-26 12:00:00,Finance Team
+64,Order Delivered,2024-01-28 23:00:00,Manager
+65,Order Created,2024-01-12 02:00:00,Finance Team
+65,Order Approved,2024-01-14 20:00:00,Finance Team
+65,Credit Check,2024-01-15 05:00:00,Warehouse
+65,Payment Processed,2024-01-17 11:00:00,Warehouse
+65,Order Packed,2024-01-20 04:00:00,Warehouse
+65,Order Shipped,2024-01-20 05:00:00,Warehouse
+65,Order Delivered,2024-01-21 20:00:00,Manager
+66,Order Created,2024-02-09 15:00:00,Finance Team
+66,Order Approved,2024-02-12 01:00:00,Manager
+66,Credit Check,2024-02-14 15:00:00,Warehouse
+66,Payment Processed,2024-02-16 10:00:00,Manager
+66,Order Packed,2024-02-19 08:00:00,Logistics
+66,Order Shipped,2024-02-21 19:00:00,Warehouse
+66,Order Delivered,2024-02-22 20:00:00,Finance Team
+67,Order Created,2024-02-08 02:00:00,Finance Team
+67,Order Approved,2024-02-10 07:00:00,System
+67,Credit Check,2024-02-12 00:00:00,Logistics
+67,Payment Processed,2024-02-14 01:00:00,Logistics
+67,Order Packed,2024-02-14 21:00:00,Logistics
+67,Order Shipped,2024-02-15 02:00:00,Finance Team
+67,Order Delivered,2024-02-17 19:00:00,Manager
+68,Order Created,2024-01-22 13:00:00,Logistics
+68,Order Approved,2024-01-23 02:00:00,Manager
+68,Credit Check,2024-01-25 13:00:00,System
+68,Payment Processed,2024-01-26 08:00:00,Logistics
+68,Order Packed,2024-01-27 04:00:00,System
+68,Order Shipped,2024-01-29 17:00:00,Warehouse
+68,Order Delivered,2024-01-31 13:00:00,Manager
+69,Order Created,2024-02-16 03:00:00,System
+69,Order Approved,2024-02-17 22:00:00,Manager
+69,Credit Check,2024-02-19 23:00:00,Warehouse
+69,Payment Processed,2024-02-22 14:00:00,Manager
+69,Order Packed,2024-02-22 19:00:00,Manager
+69,Order Shipped,2024-02-23 04:00:00,Finance Team
+69,Order Delivered,2024-02-24 17:00:00,Finance Team
+70,Order Created,2024-02-17 12:00:00,Logistics
+70,Order Approved,2024-02-18 01:00:00,System
+70,Credit Check,2024-02-20 10:00:00,Finance Team
+70,Payment Processed,2024-02-22 01:00:00,System
+70,Order Packed,2024-02-22 07:00:00,Warehouse
+70,Order Shipped,2024-02-22 15:00:00,Warehouse
+70,Order Delivered,2024-02-24 13:00:00,Warehouse
+71,Order Created,2024-01-28 19:00:00,Finance Team
+71,Order Approved,2024-01-31 15:00:00,Logistics
+71,Credit Check,2024-02-01 15:00:00,Finance Team
+71,Payment Processed,2024-02-02 14:00:00,System
+71,Order Packed,2024-02-04 15:00:00,Manager
+71,Order Shipped,2024-02-05 22:00:00,Logistics
+71,Order Delivered,2024-02-06 17:00:00,Finance Team
+72,Order Created,2024-01-31 09:00:00,Logistics
+72,Order Approved,2024-02-01 18:00:00,System
+72,Credit Check,2024-02-04 06:00:00,Warehouse
+72,Payment Processed,2024-02-07 04:00:00,Finance Team
+72,Order Packed,2024-02-07 14:00:00,Logistics
+72,Order Shipped,2024-02-09 11:00:00,Manager
+72,Order Delivered,2024-02-11 02:00:00,Logistics
+73,Order Created,2024-02-15 09:00:00,Logistics
+73,Order Approved,2024-02-17 00:00:00,Finance Team
+73,Credit Check,2024-02-19 02:00:00,Logistics
+73,Payment Processed,2024-02-19 16:00:00,Finance Team
+73,Order Packed,2024-02-21 17:00:00,Manager
+73,Order Shipped,2024-02-23 15:00:00,Manager
+73,Order Delivered,2024-02-25 05:00:00,Warehouse
+74,Order Created,2024-01-04 03:00:00,Warehouse
+74,Order Approved,2024-01-04 05:00:00,Manager
+74,Credit Check,2024-01-04 12:00:00,Manager
+74,Payment Processed,2024-01-07 04:00:00,Warehouse
+74,Order Packed,2024-01-08 10:00:00,Manager
+74,Order Shipped,2024-01-10 08:00:00,Finance Team
+74,Order Delivered,2024-01-11 09:00:00,Manager
+75,Order Created,2024-01-17 18:00:00,System
+75,Order Approved,2024-01-18 00:00:00,Warehouse
+75,Credit Check,2024-01-20 09:00:00,System
+75,Payment Processed,2024-01-22 08:00:00,Finance Team
+75,Order Packed,2024-01-22 20:00:00,Warehouse
+75,Order Shipped,2024-01-24 14:00:00,Logistics
+75,Order Delivered,2024-01-25 13:00:00,Finance Team
+76,Order Created,2024-01-11 22:00:00,Warehouse
+76,Order Approved,2024-01-14 18:00:00,Manager
+76,Credit Check,2024-01-16 05:00:00,Finance Team
+76,Payment Processed,2024-01-17 14:00:00,Logistics
+76,Order Packed,2024-01-19 04:00:00,Warehouse
+76,Order Shipped,2024-01-19 19:00:00,Logistics
+76,Order Delivered,2024-01-20 05:00:00,Finance Team
+77,Order Created,2024-02-19 05:00:00,Logistics
+77,Order Approved,2024-02-22 05:00:00,Warehouse
+77,Credit Check,2024-02-22 17:00:00,Logistics
+77,Payment Processed,2024-02-22 19:00:00,Warehouse
+77,Order Packed,2024-02-25 16:00:00,System
+77,Order Shipped,2024-02-28 03:00:00,Warehouse
+77,Order Delivered,2024-02-29 13:00:00,Manager
+78,Order Created,2024-01-27 00:00:00,System
+78,Order Approved,2024-01-28 06:00:00,Logistics
+78,Credit Check,2024-01-28 10:00:00,Manager
+78,Payment Processed,2024-01-31 10:00:00,Warehouse
+78,Order Packed,2024-02-01 15:00:00,System
+78,Order Shipped,2024-02-04 03:00:00,Warehouse
+78,Order Delivered,2024-02-06 08:00:00,System
+79,Order Created,2024-01-09 06:00:00,System
+79,Order Approved,2024-01-10 21:00:00,Logistics
+79,Credit Check,2024-01-11 12:00:00,System
+79,Payment Processed,2024-01-12 19:00:00,Manager
+79,Order Packed,2024-01-13 13:00:00,Logistics
+79,Order Shipped,2024-01-16 00:00:00,Warehouse
+79,Order Delivered,2024-01-18 22:00:00,Logistics
+80,Order Created,2024-02-07 20:00:00,Logistics
+80,Order Approved,2024-02-08 09:00:00,Logistics
+80,Credit Check,2024-02-10 14:00:00,Warehouse
+80,Payment Processed,2024-02-10 19:00:00,Warehouse
+80,Order Packed,2024-02-11 23:00:00,Logistics
+80,Order Shipped,2024-02-14 08:00:00,Finance Team
+80,Order Delivered,2024-02-16 07:00:00,System
+81,Order Created,2024-02-15 00:00:00,Manager
+81,Order Approved,2024-02-16 22:00:00,System
+81,Credit Check,2024-02-19 01:00:00,Warehouse
+81,Payment Processed,2024-02-20 02:00:00,System
+81,Order Packed,2024-02-22 13:00:00,System
+81,Order Shipped,2024-02-23 17:00:00,Manager
+81,Order Delivered,2024-02-23 20:00:00,System
+82,Order Created,2024-02-21 19:00:00,Finance Team
+82,Order Approved,2024-02-22 12:00:00,Manager
+82,Credit Check,2024-02-23 15:00:00,System
+82,Payment Processed,2024-02-26 14:00:00,Finance Team
+82,Order Packed,2024-02-27 18:00:00,Finance Team
+82,Order Shipped,2024-02-29 13:00:00,Finance Team
+82,Order Delivered,2024-02-29 14:00:00,Warehouse
+83,Order Created,2024-02-24 19:00:00,Finance Team
+83,Order Approved,2024-02-27 17:00:00,Warehouse
+83,Credit Check,2024-02-28 16:00:00,System
+83,Payment Processed,2024-02-28 20:00:00,Finance Team
+83,Order Packed,2024-02-28 22:00:00,Warehouse
+83,Order Shipped,2024-03-01 05:00:00,Manager
+83,Order Delivered,2024-03-02 23:00:00,System
+84,Order Created,2024-01-13 10:00:00,System
+84,Order Approved,2024-01-14 03:00:00,Logistics
+84,Credit Check,2024-01-16 23:00:00,System
+84,Payment Processed,2024-01-17 08:00:00,Logistics
+84,Order Packed,2024-01-19 18:00:00,Warehouse
+84,Order Shipped,2024-01-22 12:00:00,Manager
+84,Order Delivered,2024-01-23 02:00:00,Logistics
+85,Order Created,2024-02-03 05:00:00,Manager
+85,Order Approved,2024-02-03 11:00:00,Manager
+85,Credit Check,2024-02-05 02:00:00,Logistics
+85,Payment Processed,2024-02-05 06:00:00,System
+85,Order Packed,2024-02-07 20:00:00,Logistics
+85,Order Shipped,2024-02-10 03:00:00,System
+85,Order Delivered,2024-02-12 18:00:00,Logistics
+86,Order Created,2024-01-05 11:00:00,Warehouse
+86,Order Approved,2024-01-06 06:00:00,System
+86,Credit Check,2024-01-06 23:00:00,Warehouse
+86,Payment Processed,2024-01-09 22:00:00,Warehouse
+86,Order Packed,2024-01-11 23:00:00,Manager
+86,Order Shipped,2024-01-14 19:00:00,Warehouse
+86,Order Delivered,2024-01-17 06:00:00,Manager
+87,Order Created,2024-02-10 08:00:00,System
+87,Order Approved,2024-02-10 23:00:00,Manager
+87,Credit Check,2024-02-12 03:00:00,Logistics
+87,Payment Processed,2024-02-14 13:00:00,Finance Team
+87,Order Packed,2024-02-16 18:00:00,Warehouse
+87,Order Shipped,2024-02-19 05:00:00,Logistics
+87,Order Delivered,2024-02-21 11:00:00,System
+88,Order Created,2024-01-23 07:00:00,Warehouse
+88,Order Approved,2024-01-24 16:00:00,Warehouse
+88,Credit Check,2024-01-25 12:00:00,Logistics
+88,Payment Processed,2024-01-25 21:00:00,System
+88,Order Packed,2024-01-26 08:00:00,System
+88,Order Shipped,2024-01-28 16:00:00,System
+88,Order Delivered,2024-01-30 16:00:00,Finance Team
+89,Order Created,2024-02-05 08:00:00,Manager
+89,Order Approved,2024-02-08 08:00:00,Manager
+89,Credit Check,2024-02-10 03:00:00,System
+89,Payment Processed,2024-02-12 08:00:00,Warehouse
+89,Order Packed,2024-02-14 15:00:00,System
+89,Order Shipped,2024-02-16 04:00:00,Manager
+89,Order Delivered,2024-02-17 20:00:00,Warehouse
+90,Order Created,2024-01-09 17:00:00,Finance Team
+90,Order Approved,2024-01-10 13:00:00,Logistics
+90,Credit Check,2024-01-11 18:00:00,System
+90,Payment Processed,2024-01-13 15:00:00,Manager
+90,Order Packed,2024-01-15 15:00:00,System
+90,Order Shipped,2024-01-17 03:00:00,Manager
+90,Order Delivered,2024-01-18 08:00:00,Logistics
+91,Order Created,2024-02-27 00:00:00,Manager
+91,Order Approved,2024-03-01 00:00:00,System
+91,Credit Check,2024-03-02 11:00:00,System
+91,Payment Processed,2024-03-03 11:00:00,Warehouse
+91,Order Packed,2024-03-05 03:00:00,Warehouse
+91,Order Shipped,2024-03-07 00:00:00,System
+91,Order Delivered,2024-03-08 00:00:00,Finance Team
+92,Order Created,2024-02-08 04:00:00,System
+92,Order Approved,2024-02-08 23:00:00,System
+92,Credit Check,2024-02-09 11:00:00,Manager
+92,Payment Processed,2024-02-10 15:00:00,Logistics
+92,Order Packed,2024-02-12 21:00:00,Logistics
+92,Order Shipped,2024-02-14 17:00:00,Finance Team
+92,Order Delivered,2024-02-16 17:00:00,Warehouse
+93,Order Created,2024-02-17 18:00:00,Manager
+93,Order Approved,2024-02-18 05:00:00,System
+93,Credit Check,2024-02-19 01:00:00,Finance Team
+93,Payment Processed,2024-02-19 08:00:00,System
+93,Order Packed,2024-02-20 19:00:00,Logistics
+93,Order Shipped,2024-02-23 02:00:00,Logistics
+93,Order Delivered,2024-02-25 11:00:00,Logistics
+94,Order Created,2024-01-19 04:00:00,Manager
+94,Order Approved,2024-01-19 19:00:00,Warehouse
+94,Credit Check,2024-01-22 03:00:00,System
+94,Payment Processed,2024-01-23 16:00:00,Manager
+94,Order Packed,2024-01-26 07:00:00,Manager
+94,Order Shipped,2024-01-27 23:00:00,System
+94,Order Delivered,2024-01-29 04:00:00,Logistics
+95,Order Created,2024-02-08 08:00:00,System
+95,Order Approved,2024-02-09 11:00:00,Warehouse
+95,Credit Check,2024-02-10 15:00:00,Finance Team
+95,Payment Processed,2024-02-12 00:00:00,Warehouse
+95,Order Packed,2024-02-13 18:00:00,System
+95,Order Shipped,2024-02-13 19:00:00,Logistics
+95,Order Delivered,2024-02-16 03:00:00,Finance Team
+96,Order Created,2024-01-11 01:00:00,Manager
+96,Order Approved,2024-01-12 07:00:00,Manager
+96,Credit Check,2024-01-15 07:00:00,Warehouse
+96,Payment Processed,2024-01-15 17:00:00,Logistics
+96,Order Packed,2024-01-15 23:00:00,Logistics
+96,Order Shipped,2024-01-16 02:00:00,Logistics
+96,Order Delivered,2024-01-16 12:00:00,Warehouse
+97,Order Created,2024-02-08 07:00:00,Manager
+97,Order Approved,2024-02-10 11:00:00,Logistics
+97,Credit Check,2024-02-12 01:00:00,System
+97,Payment Processed,2024-02-14 05:00:00,System
+97,Order Packed,2024-02-15 23:00:00,Finance Team
+97,Order Shipped,2024-02-18 10:00:00,Warehouse
+97,Order Delivered,2024-02-18 22:00:00,Logistics
+98,Order Created,2024-02-24 14:00:00,Finance Team
+98,Order Approved,2024-02-26 22:00:00,Manager
+98,Credit Check,2024-02-29 02:00:00,Manager
+98,Payment Processed,2024-02-29 13:00:00,Logistics
+98,Order Packed,2024-03-02 05:00:00,Warehouse
+98,Order Shipped,2024-03-03 10:00:00,Warehouse
+98,Order Delivered,2024-03-04 08:00:00,System
+99,Order Created,2024-02-02 15:00:00,Manager
+99,Order Approved,2024-02-05 09:00:00,Finance Team
+99,Credit Check,2024-02-07 06:00:00,Warehouse
+99,Payment Processed,2024-02-08 01:00:00,Finance Team
+99,Order Packed,2024-02-08 15:00:00,Finance Team
+99,Order Shipped,2024-02-10 00:00:00,Finance Team
+99,Order Delivered,2024-02-10 23:00:00,Manager
+100,Order Created,2024-01-10 10:00:00,Finance Team
+100,Order Approved,2024-01-13 02:00:00,Logistics
+100,Credit Check,2024-01-15 12:00:00,Manager
+100,Payment Processed,2024-01-17 06:00:00,Warehouse
+100,Order Packed,2024-01-18 02:00:00,Logistics
+100,Order Shipped,2024-01-18 11:00:00,Logistics
+100,Order Delivered,2024-01-20 20:00:00,Warehouse
+101,Order Created,2024-02-21 12:00:00,Manager
+101,Order Approved,2024-02-21 20:00:00,Warehouse
+101,Credit Check,2024-02-24 13:00:00,System
+101,Payment Processed,2024-02-26 05:00:00,Logistics
+101,Order Packed,2024-02-28 15:00:00,System
+101,Order Shipped,2024-02-28 23:00:00,Warehouse
+101,Order Delivered,2024-03-01 12:00:00,System
+102,Order Created,2024-02-11 12:00:00,Manager
+102,Order Approved,2024-02-14 05:00:00,Logistics
+102,Credit Check,2024-02-16 17:00:00,Manager
+102,Payment Processed,2024-02-19 16:00:00,System
+102,Order Packed,2024-02-22 02:00:00,Manager
+102,Order Shipped,2024-02-23 03:00:00,Warehouse
+102,Order Delivered,2024-02-25 16:00:00,Manager
+103,Order Created,2024-01-10 08:00:00,Logistics
+103,Order Approved,2024-01-10 22:00:00,Warehouse
+103,Credit Check,2024-01-11 09:00:00,Manager
+103,Payment Processed,2024-01-12 08:00:00,System
+103,Order Packed,2024-01-13 16:00:00,Logistics
+103,Order Shipped,2024-01-16 01:00:00,Manager
+103,Order Delivered,2024-01-18 20:00:00,Manager
+104,Order Created,2024-01-12 23:00:00,Warehouse
+104,Order Approved,2024-01-14 12:00:00,Logistics
+104,Credit Check,2024-01-16 17:00:00,Warehouse
+104,Payment Processed,2024-01-17 00:00:00,Warehouse
+104,Order Packed,2024-01-17 09:00:00,Warehouse
+104,Order Shipped,2024-01-17 22:00:00,Manager
+104,Order Delivered,2024-01-20 00:00:00,Warehouse
+105,Order Created,2024-01-17 20:00:00,Warehouse
+105,Order Approved,2024-01-18 07:00:00,Manager
+105,Credit Check,2024-01-19 02:00:00,Warehouse
+105,Payment Processed,2024-01-20 18:00:00,Logistics
+105,Order Packed,2024-01-21 11:00:00,Manager
+105,Order Shipped,2024-01-21 22:00:00,Warehouse
+105,Order Delivered,2024-01-24 22:00:00,Logistics
+106,Order Created,2024-02-12 19:00:00,Finance Team
+106,Order Approved,2024-02-15 15:00:00,System
+106,Credit Check,2024-02-17 22:00:00,Manager
+106,Payment Processed,2024-02-19 21:00:00,System
+106,Order Packed,2024-02-21 20:00:00,Warehouse
+106,Order Shipped,2024-02-22 20:00:00,Finance Team
+106,Order Delivered,2024-02-24 16:00:00,Logistics
+107,Order Created,2024-01-14 05:00:00,Finance Team
+107,Order Approved,2024-01-15 01:00:00,System
+107,Credit Check,2024-01-16 15:00:00,System
+107,Payment Processed,2024-01-19 08:00:00,Manager
+107,Order Packed,2024-01-22 04:00:00,System
+107,Order Shipped,2024-01-24 00:00:00,Manager
+107,Order Delivered,2024-01-24 17:00:00,Manager
+108,Order Created,2024-01-25 20:00:00,Finance Team
+108,Order Approved,2024-01-26 20:00:00,Manager
+108,Credit Check,2024-01-27 18:00:00,Logistics
+108,Payment Processed,2024-01-28 00:00:00,Logistics
+108,Order Packed,2024-01-29 23:00:00,Finance Team
+108,Order Shipped,2024-02-01 08:00:00,Manager
+108,Order Delivered,2024-02-02 21:00:00,Logistics
+109,Order Created,2024-01-17 21:00:00,Finance Team
+109,Order Approved,2024-01-19 13:00:00,Logistics
+109,Credit Check,2024-01-20 14:00:00,Warehouse
+109,Payment Processed,2024-01-22 23:00:00,Logistics
+109,Order Packed,2024-01-24 12:00:00,Logistics
+109,Order Shipped,2024-01-27 05:00:00,Manager
+109,Order Delivered,2024-01-29 11:00:00,Finance Team
+110,Order Created,2024-02-23 02:00:00,Manager
+110,Order Approved,2024-02-23 20:00:00,Warehouse
+110,Credit Check,2024-02-24 03:00:00,Logistics
+110,Payment Processed,2024-02-26 03:00:00,Manager
+110,Order Packed,2024-02-26 17:00:00,Manager
+110,Order Shipped,2024-02-27 09:00:00,Warehouse
+110,Order Delivered,2024-02-27 20:00:00,Finance Team
+111,Order Created,2024-01-20 10:00:00,Manager
+111,Order Approved,2024-01-21 05:00:00,Logistics
+111,Credit Check,2024-01-21 17:00:00,Finance Team
+111,Payment Processed,2024-01-24 03:00:00,Warehouse
+111,Order Packed,2024-01-24 07:00:00,Logistics
+111,Order Shipped,2024-01-24 14:00:00,Logistics
+111,Order Delivered,2024-01-27 07:00:00,Warehouse
+112,Order Created,2024-01-18 02:00:00,System
+112,Order Approved,2024-01-20 02:00:00,Finance Team
+112,Credit Check,2024-01-20 06:00:00,Warehouse
+112,Payment Processed,2024-01-20 19:00:00,Warehouse
+112,Order Packed,2024-01-21 14:00:00,Finance Team
+112,Order Shipped,2024-01-21 19:00:00,Warehouse
+112,Order Delivered,2024-01-24 08:00:00,Finance Team
+113,Order Created,2024-02-20 13:00:00,Logistics
+113,Order Approved,2024-02-20 14:00:00,System
+113,Credit Check,2024-02-20 17:00:00,Warehouse
+113,Payment Processed,2024-02-21 21:00:00,Finance Team
+113,Order Packed,2024-02-24 20:00:00,Manager
+113,Order Shipped,2024-02-27 16:00:00,Logistics
+113,Order Delivered,2024-02-28 07:00:00,Warehouse
+114,Order Created,2024-01-17 15:00:00,System
+114,Order Approved,2024-01-17 22:00:00,Finance Team
+114,Credit Check,2024-01-20 04:00:00,Manager
+114,Payment Processed,2024-01-22 15:00:00,System
+114,Order Packed,2024-01-23 06:00:00,Logistics
+114,Order Shipped,2024-01-26 03:00:00,System
+114,Order Delivered,2024-01-28 21:00:00,Manager
+115,Order Created,2024-01-16 19:00:00,Warehouse
+115,Order Approved,2024-01-19 02:00:00,System
+115,Credit Check,2024-01-21 00:00:00,Finance Team
+115,Payment Processed,2024-01-23 06:00:00,Finance Team
+115,Order Packed,2024-01-23 17:00:00,Manager
+115,Order Shipped,2024-01-25 16:00:00,System
+115,Order Delivered,2024-01-28 12:00:00,Manager
+116,Order Created,2024-02-04 17:00:00,Manager
+116,Order Approved,2024-02-04 20:00:00,Logistics
+116,Credit Check,2024-02-07 09:00:00,System
+116,Payment Processed,2024-02-09 11:00:00,Warehouse
+116,Order Packed,2024-02-10 20:00:00,System
+116,Order Shipped,2024-02-12 18:00:00,System
+116,Order Delivered,2024-02-14 15:00:00,Finance Team
+117,Order Created,2024-02-16 14:00:00,Manager
+117,Order Approved,2024-02-18 09:00:00,Finance Team
+117,Credit Check,2024-02-18 15:00:00,Warehouse
+117,Payment Processed,2024-02-21 13:00:00,Warehouse
+117,Order Packed,2024-02-22 12:00:00,Logistics
+117,Order Shipped,2024-02-25 02:00:00,Finance Team
+117,Order Delivered,2024-02-25 20:00:00,System
+118,Order Created,2024-02-17 11:00:00,System
+118,Order Approved,2024-02-19 01:00:00,Finance Team
+118,Credit Check,2024-02-19 07:00:00,Finance Team
+118,Payment Processed,2024-02-19 13:00:00,Warehouse
+118,Order Packed,2024-02-21 05:00:00,Manager
+118,Order Shipped,2024-02-23 08:00:00,Manager
+118,Order Delivered,2024-02-25 21:00:00,Warehouse
+119,Order Created,2024-01-04 01:00:00,Warehouse
+119,Order Approved,2024-01-05 23:00:00,System
+119,Credit Check,2024-01-07 18:00:00,Warehouse
+119,Payment Processed,2024-01-08 10:00:00,Warehouse
+119,Order Packed,2024-01-10 18:00:00,Logistics
+119,Order Shipped,2024-01-13 03:00:00,Logistics
+119,Order Delivered,2024-01-14 23:00:00,Finance Team
+120,Order Created,2024-02-03 16:00:00,Warehouse
+120,Order Approved,2024-02-06 11:00:00,Warehouse
+120,Credit Check,2024-02-06 22:00:00,Logistics
+120,Payment Processed,2024-02-07 09:00:00,Logistics
+120,Order Packed,2024-02-08 09:00:00,Manager
+120,Order Shipped,2024-02-09 23:00:00,Warehouse
+120,Order Delivered,2024-02-10 13:00:00,System
+121,Order Created,2024-01-22 14:00:00,Warehouse
+121,Order Approved,2024-01-25 00:00:00,Manager
+121,Credit Check,2024-01-27 07:00:00,Finance Team
+121,Payment Processed,2024-01-29 16:00:00,Warehouse
+121,Order Packed,2024-02-01 02:00:00,System
+121,Order Shipped,2024-02-03 00:00:00,Manager
+121,Order Delivered,2024-02-05 08:00:00,Warehouse
+122,Order Created,2024-02-10 08:00:00,System
+122,Order Approved,2024-02-12 12:00:00,Warehouse
+122,Credit Check,2024-02-15 06:00:00,Finance Team
+122,Payment Processed,2024-02-15 10:00:00,Finance Team
+122,Order Packed,2024-02-17 19:00:00,System
+122,Order Shipped,2024-02-18 12:00:00,System
+122,Order Delivered,2024-02-19 19:00:00,Warehouse
+123,Order Created,2024-01-26 02:00:00,Manager
+123,Order Approved,2024-01-26 07:00:00,Manager
+123,Credit Check,2024-01-27 03:00:00,Logistics
+123,Payment Processed,2024-01-29 03:00:00,Warehouse
+123,Order Packed,2024-01-31 12:00:00,System
+123,Order Shipped,2024-02-01 06:00:00,Manager
+123,Order Delivered,2024-02-03 05:00:00,Logistics
+124,Order Created,2024-01-22 12:00:00,Finance Team
+124,Order Approved,2024-01-23 03:00:00,System
+124,Credit Check,2024-01-24 03:00:00,Logistics
+124,Payment Processed,2024-01-26 22:00:00,Logistics
+124,Order Packed,2024-01-29 22:00:00,System
+124,Order Shipped,2024-01-31 08:00:00,Warehouse
+124,Order Delivered,2024-02-02 18:00:00,Finance Team
+125,Order Created,2024-02-10 13:00:00,Logistics
+125,Order Approved,2024-02-11 15:00:00,System
+125,Credit Check,2024-02-12 09:00:00,System
+125,Payment Processed,2024-02-14 19:00:00,Finance Team
+125,Order Packed,2024-02-17 04:00:00,System
+125,Order Shipped,2024-02-18 21:00:00,Warehouse
+125,Order Delivered,2024-02-19 06:00:00,Manager
+126,Order Created,2024-02-05 14:00:00,Warehouse
+126,Order Approved,2024-02-06 11:00:00,Finance Team
+126,Credit Check,2024-02-08 10:00:00,Manager
+126,Payment Processed,2024-02-09 15:00:00,System
+126,Order Packed,2024-02-10 17:00:00,Finance Team
+126,Order Shipped,2024-02-12 00:00:00,Logistics
+126,Order Delivered,2024-02-12 04:00:00,Warehouse
+127,Order Created,2024-02-07 00:00:00,Logistics
+127,Order Approved,2024-02-09 23:00:00,Finance Team
+127,Credit Check,2024-02-10 11:00:00,System
+127,Payment Processed,2024-02-12 03:00:00,Logistics
+127,Order Packed,2024-02-14 17:00:00,Manager
+127,Order Shipped,2024-02-16 22:00:00,Logistics
+127,Order Delivered,2024-02-17 08:00:00,Finance Team
+128,Order Created,2024-01-21 10:00:00,Logistics
+128,Order Approved,2024-01-23 22:00:00,Manager
+128,Credit Check,2024-01-25 19:00:00,Finance Team
+128,Payment Processed,2024-01-28 18:00:00,Manager
+128,Order Packed,2024-01-29 18:00:00,Finance Team
+128,Order Shipped,2024-02-01 02:00:00,Manager
+128,Order Delivered,2024-02-01 10:00:00,System
+129,Order Created,2024-02-03 20:00:00,Warehouse
+129,Order Approved,2024-02-04 18:00:00,Finance Team
+129,Credit Check,2024-02-06 12:00:00,Finance Team
+129,Payment Processed,2024-02-08 09:00:00,Manager
+129,Order Packed,2024-02-09 22:00:00,System
+129,Order Shipped,2024-02-11 07:00:00,Finance Team
+129,Order Delivered,2024-02-14 06:00:00,Warehouse
+130,Order Created,2024-01-10 15:00:00,Manager
+130,Order Approved,2024-01-13 12:00:00,System
+130,Credit Check,2024-01-16 05:00:00,Finance Team
+130,Payment Processed,2024-01-17 01:00:00,Finance Team
+130,Order Packed,2024-01-18 21:00:00,Manager
+130,Order Shipped,2024-01-19 03:00:00,System
+130,Order Delivered,2024-01-19 14:00:00,System
+131,Order Created,2024-03-02 10:00:00,Finance Team
+131,Order Approved,2024-03-04 16:00:00,Manager
+131,Credit Check,2024-03-04 20:00:00,Logistics
+131,Payment Processed,2024-03-07 18:00:00,Warehouse
+131,Order Packed,2024-03-09 09:00:00,Logistics
+131,Order Shipped,2024-03-10 17:00:00,Logistics
+131,Order Delivered,2024-03-12 08:00:00,Logistics
+132,Order Created,2024-01-05 08:00:00,Finance Team
+132,Order Approved,2024-01-07 17:00:00,Logistics
+132,Credit Check,2024-01-10 07:00:00,Logistics
+132,Payment Processed,2024-01-11 10:00:00,Warehouse
+132,Order Packed,2024-01-12 05:00:00,Warehouse
+132,Order Shipped,2024-01-13 22:00:00,Warehouse
+132,Order Delivered,2024-01-16 02:00:00,Finance Team
+133,Order Created,2024-02-20 00:00:00,Manager
+133,Order Approved,2024-02-23 00:00:00,System
+133,Credit Check,2024-02-24 17:00:00,Finance Team
+133,Payment Processed,2024-02-27 05:00:00,System
+133,Order Packed,2024-02-28 16:00:00,Logistics
+133,Order Shipped,2024-03-01 00:00:00,Finance Team
+133,Order Delivered,2024-03-01 13:00:00,System
+134,Order Created,2024-01-21 02:00:00,Manager
+134,Order Approved,2024-01-23 08:00:00,Finance Team
+134,Credit Check,2024-01-24 05:00:00,Warehouse
+134,Payment Processed,2024-01-25 22:00:00,Finance Team
+134,Order Packed,2024-01-26 19:00:00,Logistics
+134,Order Shipped,2024-01-29 13:00:00,Logistics
+134,Order Delivered,2024-02-01 05:00:00,Warehouse
+135,Order Created,2024-02-01 03:00:00,System
+135,Order Approved,2024-02-03 06:00:00,Manager
+135,Credit Check,2024-02-05 17:00:00,Finance Team
+135,Payment Processed,2024-02-06 21:00:00,Manager
+135,Order Packed,2024-02-08 19:00:00,System
+135,Order Shipped,2024-02-09 02:00:00,Warehouse
+135,Order Delivered,2024-02-11 18:00:00,Manager
+136,Order Created,2024-02-28 13:00:00,Warehouse
+136,Order Approved,2024-03-02 10:00:00,System
+136,Credit Check,2024-03-03 00:00:00,Logistics
+136,Payment Processed,2024-03-03 18:00:00,Warehouse
+136,Order Packed,2024-03-05 17:00:00,Logistics
+136,Order Shipped,2024-03-07 16:00:00,System
+136,Order Delivered,2024-03-09 20:00:00,System
+137,Order Created,2024-02-09 00:00:00,Finance Team
+137,Order Approved,2024-02-10 23:00:00,Manager
+137,Credit Check,2024-02-12 12:00:00,System
+137,Payment Processed,2024-02-14 14:00:00,Manager
+137,Order Packed,2024-02-17 00:00:00,Manager
+137,Order Shipped,2024-02-18 12:00:00,Manager
+137,Order Delivered,2024-02-19 04:00:00,Finance Team
+138,Order Created,2024-01-09 03:00:00,Warehouse
+138,Order Approved,2024-01-10 23:00:00,Manager
+138,Credit Check,2024-01-12 22:00:00,Finance Team
+138,Payment Processed,2024-01-14 00:00:00,Manager
+138,Order Packed,2024-01-16 18:00:00,Logistics
+138,Order Shipped,2024-01-19 11:00:00,System
+138,Order Delivered,2024-01-19 17:00:00,System
+139,Order Created,2024-01-10 19:00:00,Logistics
+139,Order Approved,2024-01-13 14:00:00,Logistics
+139,Credit Check,2024-01-14 10:00:00,Manager
+139,Payment Processed,2024-01-17 04:00:00,Finance Team
+139,Order Packed,2024-01-18 22:00:00,Manager
+139,Order Shipped,2024-01-20 15:00:00,Finance Team
+139,Order Delivered,2024-01-22 18:00:00,Manager
+140,Order Created,2024-02-18 15:00:00,Manager
+140,Order Approved,2024-02-20 11:00:00,Manager
+140,Credit Check,2024-02-23 05:00:00,Manager
+140,Payment Processed,2024-02-25 20:00:00,Manager
+140,Order Packed,2024-02-27 11:00:00,Logistics
+140,Order Shipped,2024-02-27 14:00:00,Warehouse
+140,Order Delivered,2024-02-29 09:00:00,System
+141,Order Created,2024-01-28 16:00:00,System
+141,Order Approved,2024-01-31 05:00:00,Warehouse
+141,Credit Check,2024-02-01 11:00:00,System
+141,Payment Processed,2024-02-04 01:00:00,Finance Team
+141,Order Packed,2024-02-06 21:00:00,Manager
+141,Order Shipped,2024-02-08 22:00:00,Finance Team
+141,Order Delivered,2024-02-10 06:00:00,System
+142,Order Created,2024-02-06 15:00:00,Finance Team
+142,Order Approved,2024-02-06 18:00:00,Logistics
+142,Credit Check,2024-02-08 11:00:00,Logistics
+142,Payment Processed,2024-02-09 07:00:00,Logistics
+142,Order Packed,2024-02-10 10:00:00,Logistics
+142,Order Shipped,2024-02-13 03:00:00,Manager
+142,Order Delivered,2024-02-15 16:00:00,System
+143,Order Created,2024-02-15 18:00:00,Manager
+143,Order Approved,2024-02-16 21:00:00,Manager
+143,Credit Check,2024-02-18 15:00:00,Logistics
+143,Payment Processed,2024-02-21 11:00:00,Logistics
+143,Order Packed,2024-02-23 04:00:00,Finance Team
+143,Order Shipped,2024-02-25 15:00:00,Manager
+143,Order Delivered,2024-02-27 11:00:00,Manager
+144,Order Created,2024-01-24 10:00:00,Manager
+144,Order Approved,2024-01-27 00:00:00,Finance Team
+144,Credit Check,2024-01-28 08:00:00,Warehouse
+144,Payment Processed,2024-01-31 08:00:00,Warehouse
+144,Order Packed,2024-02-01 13:00:00,Warehouse
+144,Order Shipped,2024-02-03 02:00:00,Finance Team
+144,Order Delivered,2024-02-05 17:00:00,Warehouse
+145,Order Created,2024-02-01 21:00:00,Manager
+145,Order Approved,2024-02-03 09:00:00,Warehouse
+145,Credit Check,2024-02-04 01:00:00,Manager
+145,Payment Processed,2024-02-06 23:00:00,Logistics
+145,Order Packed,2024-02-09 02:00:00,Warehouse
+145,Order Shipped,2024-02-09 21:00:00,Warehouse
+145,Order Delivered,2024-02-10 03:00:00,Warehouse
+146,Order Created,2024-02-15 11:00:00,Warehouse
+146,Order Approved,2024-02-17 20:00:00,Warehouse
+146,Credit Check,2024-02-20 10:00:00,Finance Team
+146,Payment Processed,2024-02-21 12:00:00,Manager
+146,Order Packed,2024-02-22 23:00:00,Manager
+146,Order Shipped,2024-02-24 10:00:00,Finance Team
+146,Order Delivered,2024-02-25 00:00:00,Manager
+147,Order Created,2024-02-18 07:00:00,Finance Team
+147,Order Approved,2024-02-18 14:00:00,Manager
+147,Credit Check,2024-02-19 19:00:00,Finance Team
+147,Payment Processed,2024-02-20 02:00:00,System
+147,Order Packed,2024-02-22 07:00:00,Warehouse
+147,Order Shipped,2024-02-24 20:00:00,System
+147,Order Delivered,2024-02-25 14:00:00,System
+148,Order Created,2024-02-05 21:00:00,Logistics
+148,Order Approved,2024-02-08 10:00:00,Logistics
+148,Credit Check,2024-02-09 12:00:00,Warehouse
+148,Payment Processed,2024-02-11 06:00:00,Warehouse
+148,Order Packed,2024-02-11 14:00:00,System
+148,Order Shipped,2024-02-12 20:00:00,Manager
+148,Order Delivered,2024-02-13 01:00:00,Finance Team
+149,Order Created,2024-01-27 23:00:00,System
+149,Order Approved,2024-01-30 02:00:00,Logistics
+149,Credit Check,2024-01-31 02:00:00,Warehouse
+149,Payment Processed,2024-01-31 07:00:00,System
+149,Order Packed,2024-02-01 22:00:00,Manager
+149,Order Shipped,2024-02-02 12:00:00,Warehouse
+149,Order Delivered,2024-02-04 01:00:00,Logistics
+150,Order Created,2024-02-13 22:00:00,Manager
+150,Order Approved,2024-02-16 14:00:00,Finance Team
+150,Credit Check,2024-02-19 07:00:00,Logistics
+150,Payment Processed,2024-02-20 18:00:00,Finance Team
+150,Order Packed,2024-02-21 09:00:00,Warehouse
+150,Order Shipped,2024-02-22 06:00:00,Logistics
+150,Order Delivered,2024-02-23 15:00:00,Finance Team
+151,Order Created,2024-01-02 20:00:00,Warehouse
+151,Order Approved,2024-01-03 21:00:00,Finance Team
+151,Credit Check,2024-01-06 01:00:00,Logistics
+151,Payment Processed,2024-01-08 19:00:00,Warehouse
+151,Order Packed,2024-01-09 07:00:00,Logistics
+151,Order Shipped,2024-01-09 20:00:00,Finance Team
+151,Order Delivered,2024-01-10 14:00:00,Logistics
+152,Order Created,2024-01-22 08:00:00,System
+152,Order Approved,2024-01-23 18:00:00,Logistics
+152,Credit Check,2024-01-25 01:00:00,Logistics
+152,Payment Processed,2024-01-26 12:00:00,Warehouse
+152,Order Packed,2024-01-28 03:00:00,Manager
+152,Order Shipped,2024-01-28 05:00:00,Warehouse
+152,Order Delivered,2024-01-30 04:00:00,Finance Team
+153,Order Created,2024-01-04 16:00:00,Logistics
+153,Order Approved,2024-01-06 08:00:00,Finance Team
+153,Credit Check,2024-01-08 12:00:00,Manager
+153,Payment Processed,2024-01-10 04:00:00,System
+153,Order Packed,2024-01-11 18:00:00,Warehouse
+153,Order Shipped,2024-01-12 23:00:00,Finance Team
+153,Order Delivered,2024-01-13 17:00:00,Logistics
+154,Order Created,2024-01-12 11:00:00,Manager
+154,Order Approved,2024-01-14 11:00:00,Logistics
+154,Credit Check,2024-01-17 10:00:00,Logistics
+154,Payment Processed,2024-01-20 07:00:00,Finance Team
+154,Order Packed,2024-01-21 15:00:00,Manager
+154,Order Shipped,2024-01-22 02:00:00,Manager
+154,Order Delivered,2024-01-24 12:00:00,Manager
+155,Order Created,2024-02-16 23:00:00,System
+155,Order Approved,2024-02-17 14:00:00,System
+155,Credit Check,2024-02-20 13:00:00,Manager
+155,Payment Processed,2024-02-21 15:00:00,Manager
+155,Order Packed,2024-02-24 12:00:00,Finance Team
+155,Order Shipped,2024-02-25 10:00:00,Warehouse
+155,Order Delivered,2024-02-28 05:00:00,Logistics
+156,Order Created,2024-01-09 03:00:00,Manager
+156,Order Approved,2024-01-11 18:00:00,System
+156,Credit Check,2024-01-14 12:00:00,Logistics
+156,Payment Processed,2024-01-14 20:00:00,Logistics
+156,Order Packed,2024-01-15 13:00:00,Manager
+156,Order Shipped,2024-01-17 19:00:00,Logistics
+156,Order Delivered,2024-01-18 03:00:00,Manager
+157,Order Created,2024-01-31 16:00:00,System
+157,Order Approved,2024-02-02 19:00:00,Warehouse
+157,Credit Check,2024-02-02 20:00:00,Finance Team
+157,Payment Processed,2024-02-03 06:00:00,System
+157,Order Packed,2024-02-05 13:00:00,Warehouse
+157,Order Shipped,2024-02-05 22:00:00,Manager
+157,Order Delivered,2024-02-06 06:00:00,System
+158,Order Created,2024-03-02 13:00:00,System
+158,Order Approved,2024-03-04 02:00:00,Logistics
+158,Credit Check,2024-03-05 02:00:00,Finance Team
+158,Payment Processed,2024-03-07 08:00:00,Warehouse
+158,Order Packed,2024-03-09 09:00:00,Logistics
+158,Order Shipped,2024-03-11 10:00:00,Logistics
+158,Order Delivered,2024-03-11 21:00:00,Manager
+159,Order Created,2024-01-10 21:00:00,System
+159,Order Approved,2024-01-11 20:00:00,Manager
+159,Credit Check,2024-01-13 23:00:00,Manager
+159,Payment Processed,2024-01-14 16:00:00,Finance Team
+159,Order Packed,2024-01-14 17:00:00,System
+159,Order Shipped,2024-01-16 08:00:00,Logistics
+159,Order Delivered,2024-01-19 06:00:00,Logistics
+160,Order Created,2024-02-06 01:00:00,Finance Team
+160,Order Approved,2024-02-07 09:00:00,Logistics
+160,Credit Check,2024-02-09 06:00:00,Finance Team
+160,Payment Processed,2024-02-10 18:00:00,Finance Team
+160,Order Packed,2024-02-11 09:00:00,System
+160,Order Shipped,2024-02-13 15:00:00,Manager
+160,Order Delivered,2024-02-13 18:00:00,Finance Team
+161,Order Created,2024-01-14 09:00:00,System
+161,Order Approved,2024-01-14 14:00:00,Logistics
+161,Credit Check,2024-01-14 21:00:00,Finance Team
+161,Payment Processed,2024-01-15 03:00:00,Logistics
+161,Order Packed,2024-01-17 12:00:00,Finance Team
+161,Order Shipped,2024-01-20 10:00:00,Finance Team
+161,Order Delivered,2024-01-20 18:00:00,Finance Team
+162,Order Created,2024-02-03 14:00:00,Finance Team
+162,Order Approved,2024-02-05 07:00:00,Manager
+162,Credit Check,2024-02-07 01:00:00,Finance Team
+162,Payment Processed,2024-02-08 16:00:00,Finance Team
+162,Order Packed,2024-02-11 11:00:00,Finance Team
+162,Order Shipped,2024-02-13 16:00:00,Warehouse
+162,Order Delivered,2024-02-15 04:00:00,System
+163,Order Created,2024-02-05 23:00:00,Logistics
+163,Order Approved,2024-02-08 23:00:00,Logistics
+163,Credit Check,2024-02-09 06:00:00,Warehouse
+163,Payment Processed,2024-02-11 07:00:00,Manager
+163,Order Packed,2024-02-13 00:00:00,Logistics
+163,Order Shipped,2024-02-15 05:00:00,Finance Team
+163,Order Delivered,2024-02-16 20:00:00,Logistics
+164,Order Created,2024-01-14 21:00:00,Logistics
+164,Order Approved,2024-01-16 04:00:00,Finance Team
+164,Credit Check,2024-01-17 19:00:00,Finance Team
+164,Payment Processed,2024-01-20 07:00:00,System
+164,Order Packed,2024-01-23 07:00:00,Logistics
+164,Order Shipped,2024-01-25 13:00:00,Manager
+164,Order Delivered,2024-01-28 09:00:00,Finance Team
+165,Order Created,2024-01-26 08:00:00,Warehouse
+165,Order Approved,2024-01-27 11:00:00,Warehouse
+165,Credit Check,2024-01-27 22:00:00,Logistics
+165,Payment Processed,2024-01-29 22:00:00,System
+165,Order Packed,2024-02-01 19:00:00,Finance Team
+165,Order Shipped,2024-02-02 02:00:00,Warehouse
+165,Order Delivered,2024-02-04 03:00:00,Manager
+166,Order Created,2024-02-08 06:00:00,System
+166,Order Approved,2024-02-09 07:00:00,Manager
+166,Credit Check,2024-02-12 07:00:00,Finance Team
+166,Payment Processed,2024-02-14 21:00:00,Finance Team
+166,Order Packed,2024-02-16 16:00:00,Warehouse
+166,Order Shipped,2024-02-16 18:00:00,Finance Team
+166,Order Delivered,2024-02-17 19:00:00,System
+167,Order Created,2024-02-19 14:00:00,Finance Team
+167,Order Approved,2024-02-20 17:00:00,Logistics
+167,Credit Check,2024-02-22 00:00:00,Manager
+167,Payment Processed,2024-02-23 18:00:00,Warehouse
+167,Order Packed,2024-02-25 19:00:00,Logistics
+167,Order Shipped,2024-02-28 16:00:00,Warehouse
+167,Order Delivered,2024-03-01 08:00:00,Warehouse
+168,Order Created,2024-01-26 18:00:00,Logistics
+168,Order Approved,2024-01-29 06:00:00,System
+168,Credit Check,2024-01-31 19:00:00,Warehouse
+168,Payment Processed,2024-02-01 22:00:00,Warehouse
+168,Order Packed,2024-02-03 15:00:00,Logistics
+168,Order Shipped,2024-02-03 21:00:00,Manager
+168,Order Delivered,2024-02-05 02:00:00,Finance Team
+169,Order Created,2024-01-03 10:00:00,Manager
+169,Order Approved,2024-01-05 16:00:00,Warehouse
+169,Credit Check,2024-01-06 12:00:00,Finance Team
+169,Payment Processed,2024-01-08 07:00:00,Finance Team
+169,Order Packed,2024-01-10 08:00:00,Manager
+169,Order Shipped,2024-01-11 16:00:00,Logistics
+169,Order Delivered,2024-01-14 15:00:00,Warehouse
+170,Order Created,2024-01-19 15:00:00,Logistics
+170,Order Approved,2024-01-22 02:00:00,Finance Team
+170,Credit Check,2024-01-24 00:00:00,Finance Team
+170,Payment Processed,2024-01-24 18:00:00,Manager
+170,Order Packed,2024-01-27 09:00:00,Finance Team
+170,Order Shipped,2024-01-30 07:00:00,System
+170,Order Delivered,2024-02-02 03:00:00,System
+171,Order Created,2024-02-23 10:00:00,System
+171,Order Approved,2024-02-23 11:00:00,Logistics
+171,Credit Check,2024-02-24 05:00:00,Finance Team
+171,Payment Processed,2024-02-24 14:00:00,Finance Team
+171,Order Packed,2024-02-24 16:00:00,Finance Team
+171,Order Shipped,2024-02-27 09:00:00,Logistics
+171,Order Delivered,2024-02-29 09:00:00,System
+172,Order Created,2024-02-11 14:00:00,Logistics
+172,Order Approved,2024-02-11 17:00:00,System
+172,Credit Check,2024-02-14 14:00:00,Manager
+172,Payment Processed,2024-02-16 19:00:00,System
+172,Order Packed,2024-02-16 22:00:00,Manager
+172,Order Shipped,2024-02-18 10:00:00,Manager
+172,Order Delivered,2024-02-19 23:00:00,System
+173,Order Created,2024-02-04 08:00:00,Finance Team
+173,Order Approved,2024-02-04 22:00:00,System
+173,Credit Check,2024-02-07 18:00:00,Finance Team
+173,Payment Processed,2024-02-09 01:00:00,Finance Team
+173,Order Packed,2024-02-11 21:00:00,Warehouse
+173,Order Shipped,2024-02-13 19:00:00,Warehouse
+173,Order Delivered,2024-02-15 22:00:00,System
+174,Order Created,2024-01-26 04:00:00,Logistics
+174,Order Approved,2024-01-27 12:00:00,Finance Team
+174,Credit Check,2024-01-29 03:00:00,System
+174,Payment Processed,2024-01-29 08:00:00,System
+174,Order Packed,2024-01-31 12:00:00,Logistics
+174,Order Shipped,2024-02-02 13:00:00,Manager
+174,Order Delivered,2024-02-05 02:00:00,System
+175,Order Created,2024-02-10 02:00:00,Finance Team
+175,Order Approved,2024-02-10 13:00:00,Logistics
+175,Credit Check,2024-02-12 21:00:00,Warehouse
+175,Payment Processed,2024-02-13 10:00:00,Manager
+175,Order Packed,2024-02-13 16:00:00,Finance Team
+175,Order Shipped,2024-02-14 20:00:00,Manager
+175,Order Delivered,2024-02-17 09:00:00,Warehouse
+176,Order Created,2024-01-03 10:00:00,Warehouse
+176,Order Approved,2024-01-06 08:00:00,Manager
+176,Credit Check,2024-01-06 13:00:00,Finance Team
+176,Payment Processed,2024-01-08 06:00:00,System
+176,Order Packed,2024-01-09 09:00:00,Manager
+176,Order Shipped,2024-01-10 04:00:00,Logistics
+176,Order Delivered,2024-01-10 14:00:00,Warehouse
+177,Order Created,2024-01-12 07:00:00,Manager
+177,Order Approved,2024-01-14 09:00:00,Manager
+177,Credit Check,2024-01-16 04:00:00,Logistics
+177,Payment Processed,2024-01-16 22:00:00,System
+177,Order Packed,2024-01-19 15:00:00,Warehouse
+177,Order Shipped,2024-01-19 22:00:00,System
+177,Order Delivered,2024-01-22 06:00:00,Finance Team
+178,Order Created,2024-02-23 10:00:00,Warehouse
+178,Order Approved,2024-02-25 13:00:00,Warehouse
+178,Credit Check,2024-02-25 17:00:00,Warehouse
+178,Payment Processed,2024-02-28 03:00:00,Logistics
+178,Order Packed,2024-02-29 09:00:00,Warehouse
+178,Order Shipped,2024-03-03 08:00:00,Logistics
+178,Order Delivered,2024-03-05 16:00:00,Finance Team
+179,Order Created,2024-02-15 01:00:00,System
+179,Order Approved,2024-02-16 15:00:00,Finance Team
+179,Credit Check,2024-02-17 01:00:00,System
+179,Payment Processed,2024-02-18 12:00:00,Finance Team
+179,Order Packed,2024-02-20 13:00:00,Finance Team
+179,Order Shipped,2024-02-22 15:00:00,Warehouse
+179,Order Delivered,2024-02-24 14:00:00,System
+180,Order Created,2024-01-06 01:00:00,Warehouse
+180,Order Approved,2024-01-08 10:00:00,Warehouse
+180,Credit Check,2024-01-09 21:00:00,System
+180,Payment Processed,2024-01-10 14:00:00,System
+180,Order Packed,2024-01-11 14:00:00,Logistics
+180,Order Shipped,2024-01-14 00:00:00,Manager
+180,Order Delivered,2024-01-17 00:00:00,Manager
+181,Order Created,2024-01-27 14:00:00,System
+181,Order Approved,2024-01-28 02:00:00,Warehouse
+181,Credit Check,2024-01-31 01:00:00,System
+181,Payment Processed,2024-02-01 19:00:00,Logistics
+181,Order Packed,2024-02-01 21:00:00,Warehouse
+181,Order Shipped,2024-02-04 02:00:00,Logistics
+181,Order Delivered,2024-02-04 13:00:00,Manager
+182,Order Created,2024-02-28 08:00:00,Manager
+182,Order Approved,2024-03-02 03:00:00,Finance Team
+182,Credit Check,2024-03-04 04:00:00,Finance Team
+182,Payment Processed,2024-03-04 22:00:00,Warehouse
+182,Order Packed,2024-03-06 13:00:00,Warehouse
+182,Order Shipped,2024-03-09 05:00:00,Finance Team
+182,Order Delivered,2024-03-09 14:00:00,Finance Team
+183,Order Created,2024-01-29 12:00:00,Logistics
+183,Order Approved,2024-01-31 03:00:00,Logistics
+183,Credit Check,2024-01-31 13:00:00,Warehouse
+183,Payment Processed,2024-02-01 22:00:00,Finance Team
+183,Order Packed,2024-02-04 14:00:00,Manager
+183,Order Shipped,2024-02-05 16:00:00,Logistics
+183,Order Delivered,2024-02-06 06:00:00,Finance Team
+184,Order Created,2024-01-20 01:00:00,Logistics
+184,Order Approved,2024-01-21 20:00:00,Manager
+184,Credit Check,2024-01-23 21:00:00,Warehouse
+184,Payment Processed,2024-01-26 06:00:00,Warehouse
+184,Order Packed,2024-01-28 14:00:00,Manager
+184,Order Shipped,2024-01-29 08:00:00,Warehouse
+184,Order Delivered,2024-01-31 02:00:00,Manager
+185,Order Created,2024-03-02 02:00:00,Logistics
+185,Order Approved,2024-03-03 19:00:00,Finance Team
+185,Credit Check,2024-03-05 22:00:00,Warehouse
+185,Payment Processed,2024-03-07 12:00:00,Logistics
+185,Order Packed,2024-03-08 20:00:00,Warehouse
+185,Order Shipped,2024-03-10 21:00:00,Warehouse
+185,Order Delivered,2024-03-13 00:00:00,Warehouse
+186,Order Created,2024-01-09 02:00:00,Manager
+186,Order Approved,2024-01-12 00:00:00,Finance Team
+186,Credit Check,2024-01-14 23:00:00,System
+186,Payment Processed,2024-01-17 11:00:00,Finance Team
+186,Order Packed,2024-01-19 20:00:00,Warehouse
+186,Order Shipped,2024-01-20 05:00:00,Logistics
+186,Order Delivered,2024-01-22 21:00:00,Finance Team
+187,Order Created,2024-02-11 15:00:00,Finance Team
+187,Order Approved,2024-02-13 00:00:00,Finance Team
+187,Credit Check,2024-02-15 07:00:00,Logistics
+187,Payment Processed,2024-02-15 17:00:00,Logistics
+187,Order Packed,2024-02-18 07:00:00,Manager
+187,Order Shipped,2024-02-20 11:00:00,Manager
+187,Order Delivered,2024-02-23 04:00:00,Logistics
+188,Order Created,2024-02-04 05:00:00,Warehouse
+188,Order Approved,2024-02-07 02:00:00,Manager
+188,Credit Check,2024-02-07 13:00:00,System
+188,Payment Processed,2024-02-08 21:00:00,Warehouse
+188,Order Packed,2024-02-09 19:00:00,Manager
+188,Order Shipped,2024-02-10 01:00:00,Manager
+188,Order Delivered,2024-02-12 05:00:00,Warehouse
+189,Order Created,2024-02-22 08:00:00,System
+189,Order Approved,2024-02-22 10:00:00,System
+189,Credit Check,2024-02-23 20:00:00,Finance Team
+189,Payment Processed,2024-02-26 14:00:00,Manager
+189,Order Packed,2024-02-29 14:00:00,Manager
+189,Order Shipped,2024-03-01 19:00:00,Logistics
+189,Order Delivered,2024-03-03 19:00:00,Logistics
+190,Order Created,2024-02-01 17:00:00,Finance Team
+190,Order Approved,2024-02-03 14:00:00,System
+190,Credit Check,2024-02-06 04:00:00,System
+190,Payment Processed,2024-02-07 18:00:00,Logistics
+190,Order Packed,2024-02-08 05:00:00,System
+190,Order Shipped,2024-02-09 00:00:00,Warehouse
+190,Order Delivered,2024-02-10 16:00:00,Warehouse
+191,Order Created,2024-01-31 03:00:00,Manager
+191,Order Approved,2024-02-02 17:00:00,Warehouse
+191,Credit Check,2024-02-05 06:00:00,System
+191,Payment Processed,2024-02-07 15:00:00,Logistics
+191,Order Packed,2024-02-09 08:00:00,System
+191,Order Shipped,2024-02-10 23:00:00,System
+191,Order Delivered,2024-02-11 14:00:00,System
+192,Order Created,2024-02-25 20:00:00,System
+192,Order Approved,2024-02-26 18:00:00,Finance Team
+192,Credit Check,2024-02-29 13:00:00,Finance Team
+192,Payment Processed,2024-03-03 12:00:00,Finance Team
+192,Order Packed,2024-03-05 07:00:00,Manager
+192,Order Shipped,2024-03-07 14:00:00,Logistics
+192,Order Delivered,2024-03-08 20:00:00,Logistics
+193,Order Created,2024-02-11 00:00:00,Finance Team
+193,Order Approved,2024-02-13 08:00:00,Logistics
+193,Credit Check,2024-02-13 12:00:00,Manager
+193,Payment Processed,2024-02-14 14:00:00,Logistics
+193,Order Packed,2024-02-16 21:00:00,Logistics
+193,Order Shipped,2024-02-16 22:00:00,Finance Team
+193,Order Delivered,2024-02-18 01:00:00,Warehouse
+194,Order Created,2024-02-18 09:00:00,Manager
+194,Order Approved,2024-02-18 23:00:00,Manager
+194,Credit Check,2024-02-19 23:00:00,Warehouse
+194,Payment Processed,2024-02-21 17:00:00,Finance Team
+194,Order Packed,2024-02-24 04:00:00,System
+194,Order Shipped,2024-02-25 14:00:00,Logistics
+194,Order Delivered,2024-02-28 10:00:00,Warehouse
+195,Order Created,2024-02-10 02:00:00,Manager
+195,Order Approved,2024-02-12 05:00:00,Manager
+195,Credit Check,2024-02-12 20:00:00,Warehouse
+195,Payment Processed,2024-02-14 18:00:00,Logistics
+195,Order Packed,2024-02-15 17:00:00,Warehouse
+195,Order Shipped,2024-02-16 04:00:00,Finance Team
+195,Order Delivered,2024-02-17 21:00:00,System
+196,Order Created,2024-01-17 16:00:00,System
+196,Order Approved,2024-01-18 16:00:00,Warehouse
+196,Credit Check,2024-01-19 11:00:00,Manager
+196,Payment Processed,2024-01-21 13:00:00,Logistics
+196,Order Packed,2024-01-22 07:00:00,Manager
+196,Order Shipped,2024-01-24 09:00:00,Logistics
+196,Order Delivered,2024-01-25 09:00:00,Logistics
+197,Order Created,2024-02-12 21:00:00,Finance Team
+197,Order Approved,2024-02-15 21:00:00,Finance Team
+197,Credit Check,2024-02-18 12:00:00,Warehouse
+197,Payment Processed,2024-02-19 06:00:00,Finance Team
+197,Order Packed,2024-02-20 23:00:00,Logistics
+197,Order Shipped,2024-02-21 06:00:00,Warehouse
+197,Order Delivered,2024-02-21 08:00:00,Logistics
+198,Order Created,2024-01-10 01:00:00,Logistics
+198,Order Approved,2024-01-13 01:00:00,Manager
+198,Credit Check,2024-01-15 17:00:00,Logistics
+198,Payment Processed,2024-01-18 08:00:00,Logistics
+198,Order Packed,2024-01-20 17:00:00,Logistics
+198,Order Shipped,2024-01-21 15:00:00,System
+198,Order Delivered,2024-01-21 19:00:00,Finance Team
+199,Order Created,2024-01-19 05:00:00,Warehouse
+199,Order Approved,2024-01-20 10:00:00,Manager
+199,Credit Check,2024-01-21 23:00:00,Finance Team
+199,Payment Processed,2024-01-24 10:00:00,Manager
+199,Order Packed,2024-01-27 02:00:00,Manager
+199,Order Shipped,2024-01-29 20:00:00,System
+199,Order Delivered,2024-01-30 11:00:00,Warehouse
+200,Order Created,2024-02-21 22:00:00,Warehouse
+200,Order Approved,2024-02-24 20:00:00,System
+200,Credit Check,2024-02-27 05:00:00,Manager
+200,Payment Processed,2024-02-28 09:00:00,Logistics
+200,Order Packed,2024-02-28 23:00:00,Finance Team
+200,Order Shipped,2024-03-01 14:00:00,System
+200,Order Delivered,2024-03-04 00:00:00,Warehouse
+201,Order Created,2024-01-23 12:00:00,Logistics
+201,Order Approved,2024-01-24 04:00:00,Finance Team
+201,Credit Check,2024-01-25 07:00:00,Manager
+201,Payment Processed,2024-01-27 04:00:00,Manager
+201,Order Packed,2024-01-29 11:00:00,Finance Team
+201,Order Shipped,2024-01-30 05:00:00,Finance Team
+201,Order Delivered,2024-01-31 08:00:00,System
+202,Order Created,2024-02-07 21:00:00,Manager
+202,Order Approved,2024-02-09 09:00:00,Manager
+202,Credit Check,2024-02-12 06:00:00,Finance Team
+202,Payment Processed,2024-02-14 00:00:00,Warehouse
+202,Order Packed,2024-02-15 14:00:00,Manager
+202,Order Shipped,2024-02-17 01:00:00,Manager
+202,Order Delivered,2024-02-17 14:00:00,Finance Team
+203,Order Created,2024-02-20 05:00:00,System
+203,Order Approved,2024-02-21 17:00:00,Finance Team
+203,Credit Check,2024-02-22 10:00:00,Finance Team
+203,Payment Processed,2024-02-23 05:00:00,Warehouse
+203,Order Packed,2024-02-24 13:00:00,Logistics
+203,Order Shipped,2024-02-27 04:00:00,Finance Team
+203,Order Delivered,2024-02-28 15:00:00,Logistics
+204,Order Created,2024-01-27 10:00:00,System
+204,Order Approved,2024-01-27 22:00:00,Logistics
+204,Credit Check,2024-01-30 16:00:00,Warehouse
+204,Payment Processed,2024-02-01 16:00:00,Logistics
+204,Order Packed,2024-02-04 07:00:00,Warehouse
+204,Order Shipped,2024-02-04 08:00:00,System
+204,Order Delivered,2024-02-06 19:00:00,Warehouse
+205,Order Created,2024-02-24 09:00:00,Manager
+205,Order Approved,2024-02-26 12:00:00,Finance Team
+205,Credit Check,2024-02-28 19:00:00,Finance Team
+205,Payment Processed,2024-03-02 11:00:00,Warehouse
+205,Order Packed,2024-03-04 05:00:00,Warehouse
+205,Order Shipped,2024-03-06 01:00:00,Manager
+205,Order Delivered,2024-03-06 18:00:00,Manager
+206,Order Created,2024-02-26 15:00:00,Warehouse
+206,Order Approved,2024-02-26 22:00:00,System
+206,Credit Check,2024-02-27 11:00:00,Logistics
+206,Payment Processed,2024-02-27 14:00:00,System
+206,Order Packed,2024-02-28 11:00:00,Logistics
+206,Order Shipped,2024-03-01 22:00:00,System
+206,Order Delivered,2024-03-04 05:00:00,Finance Team
+207,Order Created,2024-02-14 17:00:00,Warehouse
+207,Order Approved,2024-02-15 14:00:00,Warehouse
+207,Credit Check,2024-02-16 02:00:00,Warehouse
+207,Payment Processed,2024-02-17 11:00:00,System
+207,Order Packed,2024-02-19 11:00:00,Finance Team
+207,Order Shipped,2024-02-19 18:00:00,Logistics
+207,Order Delivered,2024-02-21 10:00:00,Finance Team
+208,Order Created,2024-01-28 12:00:00,System
+208,Order Approved,2024-01-28 13:00:00,Finance Team
+208,Credit Check,2024-01-31 03:00:00,System
+208,Payment Processed,2024-01-31 20:00:00,Manager
+208,Order Packed,2024-02-02 01:00:00,Manager
+208,Order Shipped,2024-02-04 10:00:00,System
+208,Order Delivered,2024-02-04 12:00:00,Warehouse
+209,Order Created,2024-02-22 16:00:00,Logistics
+209,Order Approved,2024-02-23 09:00:00,Logistics
+209,Credit Check,2024-02-23 19:00:00,Finance Team
+209,Payment Processed,2024-02-25 21:00:00,System
+209,Order Packed,2024-02-26 11:00:00,System
+209,Order Shipped,2024-02-28 04:00:00,Warehouse
+209,Order Delivered,2024-02-29 19:00:00,Finance Team
+210,Order Created,2024-01-25 18:00:00,Finance Team
+210,Order Approved,2024-01-26 03:00:00,Manager
+210,Credit Check,2024-01-26 05:00:00,Manager
+210,Payment Processed,2024-01-27 03:00:00,Logistics
+210,Order Packed,2024-01-29 00:00:00,Finance Team
+210,Order Shipped,2024-01-29 20:00:00,Logistics
+210,Order Delivered,2024-02-01 05:00:00,Finance Team
+211,Order Created,2024-01-06 13:00:00,Finance Team
+211,Order Approved,2024-01-07 05:00:00,Manager
+211,Credit Check,2024-01-09 07:00:00,Warehouse
+211,Payment Processed,2024-01-11 14:00:00,Warehouse
+211,Order Packed,2024-01-12 08:00:00,Finance Team
+211,Order Shipped,2024-01-13 20:00:00,System
+211,Order Delivered,2024-01-15 04:00:00,Manager
+212,Order Created,2024-02-09 13:00:00,System
+212,Order Approved,2024-02-11 04:00:00,Finance Team
+212,Credit Check,2024-02-13 23:00:00,Manager
+212,Payment Processed,2024-02-16 17:00:00,Finance Team
+212,Order Packed,2024-02-18 20:00:00,Warehouse
+212,Order Shipped,2024-02-19 03:00:00,Finance Team
+212,Order Delivered,2024-02-21 19:00:00,Logistics
+213,Order Created,2024-01-09 07:00:00,Logistics
+213,Order Approved,2024-01-09 17:00:00,Manager
+213,Credit Check,2024-01-09 19:00:00,Warehouse
+213,Payment Processed,2024-01-11 12:00:00,Finance Team
+213,Order Packed,2024-01-13 14:00:00,Manager
+213,Order Shipped,2024-01-15 20:00:00,Warehouse
+213,Order Delivered,2024-01-18 18:00:00,Finance Team
+214,Order Created,2024-02-20 13:00:00,System
+214,Order Approved,2024-02-20 16:00:00,Manager
+214,Credit Check,2024-02-21 01:00:00,System
+214,Payment Processed,2024-02-22 11:00:00,Finance Team
+214,Order Packed,2024-02-22 17:00:00,System
+214,Order Shipped,2024-02-24 20:00:00,Manager
+214,Order Delivered,2024-02-26 09:00:00,Manager
+215,Order Created,2024-02-21 06:00:00,Logistics
+215,Order Approved,2024-02-23 10:00:00,System
+215,Credit Check,2024-02-26 07:00:00,Manager
+215,Payment Processed,2024-02-27 03:00:00,Warehouse
+215,Order Packed,2024-02-27 14:00:00,Warehouse
+215,Order Shipped,2024-02-28 01:00:00,Manager
+215,Order Delivered,2024-02-29 04:00:00,Finance Team
+216,Order Created,2024-02-05 18:00:00,Logistics
+216,Order Approved,2024-02-06 03:00:00,Warehouse
+216,Credit Check,2024-02-08 11:00:00,Finance Team
+216,Payment Processed,2024-02-08 19:00:00,Finance Team
+216,Order Packed,2024-02-09 07:00:00,Logistics
+216,Order Shipped,2024-02-09 22:00:00,Logistics
+216,Order Delivered,2024-02-10 06:00:00,Warehouse
+217,Order Created,2024-02-12 23:00:00,System
+217,Order Approved,2024-02-13 01:00:00,Finance Team
+217,Credit Check,2024-02-13 03:00:00,Finance Team
+217,Payment Processed,2024-02-15 19:00:00,Warehouse
+217,Order Packed,2024-02-18 14:00:00,Manager
+217,Order Shipped,2024-02-20 00:00:00,Finance Team
+217,Order Delivered,2024-02-22 00:00:00,Finance Team
+218,Order Created,2024-02-18 11:00:00,System
+218,Order Approved,2024-02-18 15:00:00,Warehouse
+218,Credit Check,2024-02-20 22:00:00,Warehouse
+218,Payment Processed,2024-02-23 18:00:00,System
+218,Order Packed,2024-02-25 04:00:00,Manager
+218,Order Shipped,2024-02-25 14:00:00,Logistics
+218,Order Delivered,2024-02-28 01:00:00,Manager
+219,Order Created,2024-01-24 08:00:00,Logistics
+219,Order Approved,2024-01-25 06:00:00,Warehouse
+219,Credit Check,2024-01-26 03:00:00,Warehouse
+219,Payment Processed,2024-01-26 17:00:00,Manager
+219,Order Packed,2024-01-27 08:00:00,Finance Team
+219,Order Shipped,2024-01-30 02:00:00,System
+219,Order Delivered,2024-01-30 08:00:00,System
+220,Order Created,2024-01-16 06:00:00,Logistics
+220,Order Approved,2024-01-18 05:00:00,Logistics
+220,Credit Check,2024-01-19 01:00:00,Finance Team
+220,Payment Processed,2024-01-19 06:00:00,Manager
+220,Order Packed,2024-01-21 12:00:00,Finance Team
+220,Order Shipped,2024-01-23 06:00:00,Finance Team
+220,Order Delivered,2024-01-25 12:00:00,Warehouse
+221,Order Created,2024-01-18 10:00:00,Manager
+221,Order Approved,2024-01-20 10:00:00,System
+221,Credit Check,2024-01-23 03:00:00,System
+221,Payment Processed,2024-01-24 02:00:00,Finance Team
+221,Order Packed,2024-01-26 21:00:00,System
+221,Order Shipped,2024-01-29 01:00:00,System
+221,Order Delivered,2024-01-31 13:00:00,Warehouse
+222,Order Created,2024-02-20 16:00:00,Warehouse
+222,Order Approved,2024-02-21 04:00:00,Manager
+222,Credit Check,2024-02-23 15:00:00,System
+222,Payment Processed,2024-02-25 15:00:00,Finance Team
+222,Order Packed,2024-02-27 05:00:00,Manager
+222,Order Shipped,2024-02-28 20:00:00,Manager
+222,Order Delivered,2024-03-01 04:00:00,Logistics
+223,Order Created,2024-01-26 16:00:00,Finance Team
+223,Order Approved,2024-01-29 14:00:00,Finance Team
+223,Credit Check,2024-01-30 10:00:00,System
+223,Payment Processed,2024-02-01 15:00:00,System
+223,Order Packed,2024-02-02 21:00:00,Manager
+223,Order Shipped,2024-02-04 18:00:00,System
+223,Order Delivered,2024-02-06 13:00:00,System
+224,Order Created,2024-02-20 01:00:00,Warehouse
+224,Order Approved,2024-02-20 15:00:00,Finance Team
+224,Credit Check,2024-02-23 11:00:00,Finance Team
+224,Payment Processed,2024-02-25 17:00:00,Logistics
+224,Order Packed,2024-02-26 01:00:00,Finance Team
+224,Order Shipped,2024-02-27 13:00:00,System
+224,Order Delivered,2024-02-27 19:00:00,Finance Team
+225,Order Created,2024-02-29 19:00:00,Logistics
+225,Order Approved,2024-03-02 19:00:00,Logistics
+225,Credit Check,2024-03-03 06:00:00,Manager
+225,Payment Processed,2024-03-03 19:00:00,Manager
+225,Order Packed,2024-03-04 13:00:00,Logistics
+225,Order Shipped,2024-03-04 23:00:00,Manager
+225,Order Delivered,2024-03-05 07:00:00,Logistics
+226,Order Created,2024-02-12 17:00:00,Finance Team
+226,Order Approved,2024-02-14 07:00:00,Warehouse
+226,Credit Check,2024-02-16 00:00:00,Logistics
+226,Payment Processed,2024-02-17 18:00:00,Warehouse
+226,Order Packed,2024-02-20 04:00:00,Warehouse
+226,Order Shipped,2024-02-21 10:00:00,System
+226,Order Delivered,2024-02-22 12:00:00,Finance Team
+227,Order Created,2024-02-19 14:00:00,Finance Team
+227,Order Approved,2024-02-20 04:00:00,Finance Team
+227,Credit Check,2024-02-22 14:00:00,Logistics
+227,Payment Processed,2024-02-24 07:00:00,Logistics
+227,Order Packed,2024-02-24 23:00:00,Manager
+227,Order Shipped,2024-02-26 21:00:00,Finance Team
+227,Order Delivered,2024-02-29 07:00:00,Warehouse
+228,Order Created,2024-01-31 10:00:00,System
+228,Order Approved,2024-01-31 22:00:00,Finance Team
+228,Credit Check,2024-02-02 13:00:00,Manager
+228,Payment Processed,2024-02-02 19:00:00,Finance Team
+228,Order Packed,2024-02-04 13:00:00,Finance Team
+228,Order Shipped,2024-02-05 01:00:00,Finance Team
+228,Order Delivered,2024-02-06 23:00:00,Logistics
+229,Order Created,2024-02-02 07:00:00,Warehouse
+229,Order Approved,2024-02-03 17:00:00,Finance Team
+229,Credit Check,2024-02-03 21:00:00,Logistics
+229,Payment Processed,2024-02-06 07:00:00,Manager
+229,Order Packed,2024-02-09 06:00:00,Finance Team
+229,Order Shipped,2024-02-09 19:00:00,Logistics
+229,Order Delivered,2024-02-10 09:00:00,Finance Team
+230,Order Created,2024-01-08 02:00:00,System
+230,Order Approved,2024-01-09 07:00:00,Finance Team
+230,Credit Check,2024-01-10 09:00:00,Logistics
+230,Payment Processed,2024-01-12 09:00:00,System
+230,Order Packed,2024-01-13 19:00:00,System
+230,Order Shipped,2024-01-13 22:00:00,System
+230,Order Delivered,2024-01-15 00:00:00,Logistics
+231,Order Created,2024-02-21 17:00:00,System
+231,Order Approved,2024-02-23 12:00:00,System
+231,Credit Check,2024-02-23 18:00:00,Logistics
+231,Payment Processed,2024-02-24 01:00:00,Finance Team
+231,Order Packed,2024-02-26 09:00:00,Logistics
+231,Order Shipped,2024-02-29 01:00:00,System
+231,Order Delivered,2024-03-02 02:00:00,Logistics
+232,Order Created,2024-01-13 22:00:00,Finance Team
+232,Order Approved,2024-01-14 22:00:00,Warehouse
+232,Credit Check,2024-01-16 10:00:00,Logistics
+232,Payment Processed,2024-01-17 06:00:00,System
+232,Order Packed,2024-01-18 14:00:00,Warehouse
+232,Order Shipped,2024-01-21 06:00:00,Logistics
+232,Order Delivered,2024-01-24 05:00:00,Logistics
+233,Order Created,2024-01-04 12:00:00,Warehouse
+233,Order Approved,2024-01-06 14:00:00,Finance Team
+233,Credit Check,2024-01-08 20:00:00,Finance Team
+233,Payment Processed,2024-01-11 16:00:00,Finance Team
+233,Order Packed,2024-01-14 14:00:00,System
+233,Order Shipped,2024-01-16 15:00:00,Warehouse
+233,Order Delivered,2024-01-19 05:00:00,Manager
+234,Order Created,2024-02-22 15:00:00,Warehouse
+234,Order Approved,2024-02-25 08:00:00,Warehouse
+234,Credit Check,2024-02-27 10:00:00,Warehouse
+234,Payment Processed,2024-02-28 10:00:00,System
+234,Order Packed,2024-03-01 03:00:00,Manager
+234,Order Shipped,2024-03-02 08:00:00,System
+234,Order Delivered,2024-03-03 20:00:00,System
+235,Order Created,2024-02-23 13:00:00,Manager
+235,Order Approved,2024-02-25 11:00:00,Manager
+235,Credit Check,2024-02-26 17:00:00,Finance Team
+235,Payment Processed,2024-02-27 06:00:00,Finance Team
+235,Order Packed,2024-02-28 13:00:00,Warehouse
+235,Order Shipped,2024-03-02 10:00:00,System
+235,Order Delivered,2024-03-03 15:00:00,Manager
+236,Order Created,2024-02-26 02:00:00,Warehouse
+236,Order Approved,2024-02-27 01:00:00,Finance Team
+236,Credit Check,2024-02-28 08:00:00,Manager
+236,Payment Processed,2024-03-01 01:00:00,Warehouse
+236,Order Packed,2024-03-01 05:00:00,Warehouse
+236,Order Shipped,2024-03-02 00:00:00,Manager
+236,Order Delivered,2024-03-03 01:00:00,Logistics
+237,Order Created,2024-02-05 16:00:00,Finance Team
+237,Order Approved,2024-02-08 07:00:00,System
+237,Credit Check,2024-02-08 19:00:00,System
+237,Payment Processed,2024-02-10 01:00:00,Manager
+237,Order Packed,2024-02-11 06:00:00,System
+237,Order Shipped,2024-02-14 02:00:00,Logistics
+237,Order Delivered,2024-02-14 03:00:00,Warehouse
+238,Order Created,2024-02-29 02:00:00,Finance Team
+238,Order Approved,2024-03-01 22:00:00,Finance Team
+238,Credit Check,2024-03-03 16:00:00,System
+238,Payment Processed,2024-03-03 19:00:00,Finance Team
+238,Order Packed,2024-03-04 14:00:00,System
+238,Order Shipped,2024-03-07 10:00:00,Warehouse
+238,Order Delivered,2024-03-07 20:00:00,Warehouse
+239,Order Created,2024-02-17 03:00:00,Manager
+239,Order Approved,2024-02-17 16:00:00,Warehouse
+239,Credit Check,2024-02-19 07:00:00,Warehouse
+239,Payment Processed,2024-02-20 01:00:00,Finance Team
+239,Order Packed,2024-02-22 09:00:00,Logistics
+239,Order Shipped,2024-02-24 02:00:00,Finance Team
+239,Order Delivered,2024-02-27 02:00:00,Manager
+240,Order Created,2024-02-21 22:00:00,Finance Team
+240,Order Approved,2024-02-22 21:00:00,Logistics
+240,Credit Check,2024-02-24 13:00:00,Warehouse
+240,Payment Processed,2024-02-25 06:00:00,Finance Team
+240,Order Packed,2024-02-25 07:00:00,Manager
+240,Order Shipped,2024-02-27 10:00:00,Manager
+240,Order Delivered,2024-02-27 15:00:00,Finance Team
+241,Order Created,2024-02-09 17:00:00,Manager
+241,Order Approved,2024-02-10 22:00:00,Manager
+241,Credit Check,2024-02-11 12:00:00,Logistics
+241,Payment Processed,2024-02-12 07:00:00,Warehouse
+241,Order Packed,2024-02-12 17:00:00,Finance Team
+241,Order Shipped,2024-02-14 14:00:00,Warehouse
+241,Order Delivered,2024-02-15 12:00:00,System
+242,Order Created,2024-02-23 19:00:00,Logistics
+242,Order Approved,2024-02-23 21:00:00,Warehouse
+242,Credit Check,2024-02-25 00:00:00,Finance Team
+242,Payment Processed,2024-02-25 09:00:00,Warehouse
+242,Order Packed,2024-02-26 18:00:00,System
+242,Order Shipped,2024-02-26 19:00:00,System
+242,Order Delivered,2024-02-28 21:00:00,Logistics
+243,Order Created,2024-02-18 06:00:00,Finance Team
+243,Order Approved,2024-02-20 11:00:00,Logistics
+243,Credit Check,2024-02-22 12:00:00,Warehouse
+243,Payment Processed,2024-02-25 10:00:00,Logistics
+243,Order Packed,2024-02-25 23:00:00,Logistics
+243,Order Shipped,2024-02-27 04:00:00,Finance Team
+243,Order Delivered,2024-02-29 14:00:00,System
+244,Order Created,2024-02-21 05:00:00,Warehouse
+244,Order Approved,2024-02-21 08:00:00,Warehouse
+244,Credit Check,2024-02-22 18:00:00,System
+244,Payment Processed,2024-02-23 04:00:00,Warehouse
+244,Order Packed,2024-02-24 02:00:00,Logistics
+244,Order Shipped,2024-02-24 23:00:00,System
+244,Order Delivered,2024-02-27 22:00:00,System
+245,Order Created,2024-01-24 14:00:00,System
+245,Order Approved,2024-01-26 22:00:00,Finance Team
+245,Credit Check,2024-01-29 06:00:00,Finance Team
+245,Payment Processed,2024-01-29 13:00:00,System
+245,Order Packed,2024-01-31 08:00:00,Finance Team
+245,Order Shipped,2024-02-01 09:00:00,Logistics
+245,Order Delivered,2024-02-04 08:00:00,Manager
+246,Order Created,2024-01-18 13:00:00,Warehouse
+246,Order Approved,2024-01-19 20:00:00,System
+246,Credit Check,2024-01-20 03:00:00,Logistics
+246,Payment Processed,2024-01-23 02:00:00,Logistics
+246,Order Packed,2024-01-23 22:00:00,System
+246,Order Shipped,2024-01-25 21:00:00,System
+246,Order Delivered,2024-01-28 04:00:00,System
+247,Order Created,2024-01-21 14:00:00,Finance Team
+247,Order Approved,2024-01-22 03:00:00,System
+247,Credit Check,2024-01-23 06:00:00,Finance Team
+247,Payment Processed,2024-01-24 20:00:00,System
+247,Order Packed,2024-01-27 09:00:00,System
+247,Order Shipped,2024-01-29 01:00:00,Logistics
+247,Order Delivered,2024-01-31 14:00:00,Logistics
+248,Order Created,2024-02-28 10:00:00,System
+248,Order Approved,2024-03-02 08:00:00,Logistics
+248,Credit Check,2024-03-03 08:00:00,Warehouse
+248,Payment Processed,2024-03-05 09:00:00,Warehouse
+248,Order Packed,2024-03-06 09:00:00,Logistics
+248,Order Shipped,2024-03-06 15:00:00,Warehouse
+248,Order Delivered,2024-03-09 00:00:00,Logistics
+249,Order Created,2024-01-18 05:00:00,Warehouse
+249,Order Approved,2024-01-18 13:00:00,Finance Team
+249,Credit Check,2024-01-19 02:00:00,System
+249,Payment Processed,2024-01-20 23:00:00,Manager
+249,Order Packed,2024-01-23 04:00:00,Manager
+249,Order Shipped,2024-01-24 10:00:00,Manager
+249,Order Delivered,2024-01-24 18:00:00,Logistics
+250,Order Created,2024-02-24 19:00:00,Logistics
+250,Order Approved,2024-02-27 16:00:00,Logistics
+250,Credit Check,2024-02-28 23:00:00,Logistics
+250,Payment Processed,2024-03-01 14:00:00,System
+250,Order Packed,2024-03-03 17:00:00,System
+250,Order Shipped,2024-03-06 10:00:00,Manager
+250,Order Delivered,2024-03-09 05:00:00,Manager
+251,Order Created,2024-02-13 19:00:00,System
+251,Order Approved,2024-02-16 05:00:00,Finance Team
+251,Credit Check,2024-02-17 03:00:00,Finance Team
+251,Payment Processed,2024-02-18 04:00:00,Finance Team
+251,Order Packed,2024-02-18 10:00:00,Logistics
+251,Order Shipped,2024-02-18 21:00:00,Logistics
+251,Order Delivered,2024-02-19 23:00:00,Finance Team
+252,Order Created,2024-02-24 10:00:00,Warehouse
+252,Order Approved,2024-02-24 19:00:00,System
+252,Credit Check,2024-02-26 21:00:00,Manager
+252,Payment Processed,2024-02-29 00:00:00,Manager
+252,Order Packed,2024-03-01 18:00:00,Warehouse
+252,Order Shipped,2024-03-04 13:00:00,Logistics
+252,Order Delivered,2024-03-04 15:00:00,Manager
+253,Order Created,2024-02-09 19:00:00,Logistics
+253,Order Approved,2024-02-10 10:00:00,Logistics
+253,Credit Check,2024-02-11 06:00:00,Finance Team
+253,Payment Processed,2024-02-11 19:00:00,System
+253,Order Packed,2024-02-12 08:00:00,Warehouse
+253,Order Shipped,2024-02-15 05:00:00,Warehouse
+253,Order Delivered,2024-02-17 10:00:00,Warehouse
+254,Order Created,2024-01-27 15:00:00,Manager
+254,Order Approved,2024-01-30 04:00:00,System
+254,Credit Check,2024-01-31 03:00:00,Warehouse
+254,Payment Processed,2024-02-02 07:00:00,Finance Team
+254,Order Packed,2024-02-04 11:00:00,System
+254,Order Shipped,2024-02-06 14:00:00,Warehouse
+254,Order Delivered,2024-02-07 21:00:00,System
+255,Order Created,2024-02-19 13:00:00,Warehouse
+255,Order Approved,2024-02-21 13:00:00,System
+255,Credit Check,2024-02-23 09:00:00,Warehouse
+255,Payment Processed,2024-02-25 01:00:00,Warehouse
+255,Order Packed,2024-02-27 16:00:00,System
+255,Order Shipped,2024-02-28 22:00:00,Finance Team
+255,Order Delivered,2024-03-01 13:00:00,Logistics
+256,Order Created,2024-02-20 18:00:00,Warehouse
+256,Order Approved,2024-02-23 00:00:00,Manager
+256,Credit Check,2024-02-23 12:00:00,Finance Team
+256,Payment Processed,2024-02-25 21:00:00,Finance Team
+256,Order Packed,2024-02-28 02:00:00,Logistics
+256,Order Shipped,2024-03-01 21:00:00,Warehouse
+256,Order Delivered,2024-03-02 05:00:00,Manager
+257,Order Created,2024-02-20 21:00:00,System
+257,Order Approved,2024-02-22 13:00:00,Manager
+257,Credit Check,2024-02-24 17:00:00,Finance Team
+257,Payment Processed,2024-02-27 13:00:00,Manager
+257,Order Packed,2024-02-27 17:00:00,Finance Team
+257,Order Shipped,2024-02-28 18:00:00,Finance Team
+257,Order Delivered,2024-02-29 02:00:00,Finance Team
+258,Order Created,2024-01-05 11:00:00,System
+258,Order Approved,2024-01-07 10:00:00,Finance Team
+258,Credit Check,2024-01-08 22:00:00,Warehouse
+258,Payment Processed,2024-01-11 10:00:00,Manager
+258,Order Packed,2024-01-13 13:00:00,System
+258,Order Shipped,2024-01-13 17:00:00,Finance Team
+258,Order Delivered,2024-01-15 17:00:00,Logistics
+259,Order Created,2024-02-10 10:00:00,Finance Team
+259,Order Approved,2024-02-12 23:00:00,Manager
+259,Credit Check,2024-02-15 22:00:00,Warehouse
+259,Payment Processed,2024-02-17 19:00:00,Finance Team
+259,Order Packed,2024-02-19 05:00:00,System
+259,Order Shipped,2024-02-20 18:00:00,System
+259,Order Delivered,2024-02-22 20:00:00,System
+260,Order Created,2024-01-12 04:00:00,Finance Team
+260,Order Approved,2024-01-13 09:00:00,Finance Team
+260,Credit Check,2024-01-14 20:00:00,Logistics
+260,Payment Processed,2024-01-17 14:00:00,System
+260,Order Packed,2024-01-17 16:00:00,Logistics
+260,Order Shipped,2024-01-18 09:00:00,Finance Team
+260,Order Delivered,2024-01-18 11:00:00,Finance Team
+261,Order Created,2024-01-18 16:00:00,Warehouse
+261,Order Approved,2024-01-20 23:00:00,Logistics
+261,Credit Check,2024-01-22 20:00:00,Logistics
+261,Payment Processed,2024-01-24 05:00:00,Finance Team
+261,Order Packed,2024-01-26 17:00:00,Warehouse
+261,Order Shipped,2024-01-29 12:00:00,Manager
+261,Order Delivered,2024-01-31 15:00:00,Manager
+262,Order Created,2024-01-07 01:00:00,Manager
+262,Order Approved,2024-01-09 01:00:00,Manager
+262,Credit Check,2024-01-10 14:00:00,Warehouse
+262,Payment Processed,2024-01-11 04:00:00,Logistics
+262,Order Packed,2024-01-11 13:00:00,Warehouse
+262,Order Shipped,2024-01-13 01:00:00,Warehouse
+262,Order Delivered,2024-01-14 13:00:00,Warehouse
+263,Order Created,2024-02-12 15:00:00,Finance Team
+263,Order Approved,2024-02-13 11:00:00,Manager
+263,Credit Check,2024-02-14 18:00:00,System
+263,Payment Processed,2024-02-16 22:00:00,Warehouse
+263,Order Packed,2024-02-17 16:00:00,System
+263,Order Shipped,2024-02-20 08:00:00,Warehouse
+263,Order Delivered,2024-02-21 18:00:00,Logistics
+264,Order Created,2024-01-28 02:00:00,System
+264,Order Approved,2024-01-29 03:00:00,Warehouse
+264,Credit Check,2024-01-30 08:00:00,Manager
+264,Payment Processed,2024-02-01 21:00:00,Warehouse
+264,Order Packed,2024-02-04 14:00:00,Warehouse
+264,Order Shipped,2024-02-05 12:00:00,Manager
+264,Order Delivered,2024-02-06 12:00:00,Warehouse
+265,Order Created,2024-01-09 13:00:00,Finance Team
+265,Order Approved,2024-01-10 23:00:00,Manager
+265,Credit Check,2024-01-11 23:00:00,Warehouse
+265,Payment Processed,2024-01-12 11:00:00,Finance Team
+265,Order Packed,2024-01-14 09:00:00,Finance Team
+265,Order Shipped,2024-01-16 01:00:00,Logistics
+265,Order Delivered,2024-01-17 20:00:00,Warehouse
+266,Order Created,2024-01-18 14:00:00,Logistics
+266,Order Approved,2024-01-19 06:00:00,Logistics
+266,Credit Check,2024-01-19 13:00:00,Manager
+266,Payment Processed,2024-01-19 23:00:00,Logistics
+266,Order Packed,2024-01-21 00:00:00,Manager
+266,Order Shipped,2024-01-21 16:00:00,Logistics
+266,Order Delivered,2024-01-24 12:00:00,Warehouse
+267,Order Created,2024-01-27 07:00:00,Finance Team
+267,Order Approved,2024-01-28 01:00:00,Finance Team
+267,Credit Check,2024-01-29 21:00:00,Logistics
+267,Payment Processed,2024-02-01 08:00:00,Finance Team
+267,Order Packed,2024-02-03 01:00:00,Finance Team
+267,Order Shipped,2024-02-03 12:00:00,Logistics
+267,Order Delivered,2024-02-05 07:00:00,Finance Team
+268,Order Created,2024-01-21 08:00:00,System
+268,Order Approved,2024-01-23 18:00:00,Warehouse
+268,Credit Check,2024-01-24 21:00:00,Finance Team
+268,Payment Processed,2024-01-25 18:00:00,Logistics
+268,Order Packed,2024-01-26 06:00:00,Finance Team
+268,Order Shipped,2024-01-28 14:00:00,Logistics
+268,Order Delivered,2024-01-30 18:00:00,Logistics
+269,Order Created,2024-02-02 02:00:00,System
+269,Order Approved,2024-02-02 07:00:00,Manager
+269,Credit Check,2024-02-03 09:00:00,Warehouse
+269,Payment Processed,2024-02-03 11:00:00,Warehouse
+269,Order Packed,2024-02-06 07:00:00,Finance Team
+269,Order Shipped,2024-02-06 10:00:00,System
+269,Order Delivered,2024-02-07 18:00:00,Finance Team
+270,Order Created,2024-02-15 21:00:00,Warehouse
+270,Order Approved,2024-02-16 14:00:00,System
+270,Credit Check,2024-02-18 16:00:00,Manager
+270,Payment Processed,2024-02-20 08:00:00,Finance Team
+270,Order Packed,2024-02-20 17:00:00,System
+270,Order Shipped,2024-02-22 08:00:00,Warehouse
+270,Order Delivered,2024-02-24 19:00:00,Manager
+271,Order Created,2024-02-10 20:00:00,Warehouse
+271,Order Approved,2024-02-13 04:00:00,Finance Team
+271,Credit Check,2024-02-15 00:00:00,Logistics
+271,Payment Processed,2024-02-16 22:00:00,Finance Team
+271,Order Packed,2024-02-17 20:00:00,Logistics
+271,Order Shipped,2024-02-17 23:00:00,Finance Team
+271,Order Delivered,2024-02-19 04:00:00,Finance Team
+272,Order Created,2024-01-14 03:00:00,Manager
+272,Order Approved,2024-01-16 20:00:00,Finance Team
+272,Credit Check,2024-01-17 12:00:00,Warehouse
+272,Payment Processed,2024-01-17 17:00:00,Logistics
+272,Order Packed,2024-01-19 02:00:00,Manager
+272,Order Shipped,2024-01-19 09:00:00,Manager
+272,Order Delivered,2024-01-19 16:00:00,System
+273,Order Created,2024-02-11 03:00:00,System
+273,Order Approved,2024-02-11 18:00:00,Logistics
+273,Credit Check,2024-02-14 03:00:00,Logistics
+273,Payment Processed,2024-02-14 19:00:00,Manager
+273,Order Packed,2024-02-16 04:00:00,Logistics
+273,Order Shipped,2024-02-17 00:00:00,Finance Team
+273,Order Delivered,2024-02-17 02:00:00,Warehouse
+274,Order Created,2024-01-27 13:00:00,Manager
+274,Order Approved,2024-01-29 00:00:00,Manager
+274,Credit Check,2024-01-29 18:00:00,Logistics
+274,Payment Processed,2024-01-30 08:00:00,Manager
+274,Order Packed,2024-01-31 00:00:00,Warehouse
+274,Order Shipped,2024-01-31 15:00:00,System
+274,Order Delivered,2024-02-03 07:00:00,Finance Team
+275,Order Created,2024-02-09 02:00:00,Warehouse
+275,Order Approved,2024-02-11 21:00:00,Finance Team
+275,Credit Check,2024-02-13 19:00:00,Logistics
+275,Payment Processed,2024-02-15 09:00:00,Finance Team
+275,Order Packed,2024-02-15 15:00:00,Manager
+275,Order Shipped,2024-02-18 07:00:00,Finance Team
+275,Order Delivered,2024-02-20 21:00:00,Warehouse
+276,Order Created,2024-01-16 01:00:00,System
+276,Order Approved,2024-01-16 13:00:00,System
+276,Credit Check,2024-01-19 05:00:00,Finance Team
+276,Payment Processed,2024-01-19 17:00:00,Manager
+276,Order Packed,2024-01-20 03:00:00,System
+276,Order Shipped,2024-01-21 12:00:00,Finance Team
+276,Order Delivered,2024-01-23 23:00:00,Warehouse
+277,Order Created,2024-01-19 12:00:00,System
+277,Order Approved,2024-01-20 01:00:00,Finance Team
+277,Credit Check,2024-01-20 07:00:00,Warehouse
+277,Payment Processed,2024-01-22 06:00:00,Warehouse
+277,Order Packed,2024-01-24 13:00:00,System
+277,Order Shipped,2024-01-25 02:00:00,System
+277,Order Delivered,2024-01-25 04:00:00,Finance Team
+278,Order Created,2024-02-12 22:00:00,Warehouse
+278,Order Approved,2024-02-14 20:00:00,Logistics
+278,Credit Check,2024-02-16 07:00:00,System
+278,Payment Processed,2024-02-18 07:00:00,Warehouse
+278,Order Packed,2024-02-19 07:00:00,System
+278,Order Shipped,2024-02-21 11:00:00,Logistics
+278,Order Delivered,2024-02-23 22:00:00,Warehouse
+279,Order Created,2024-02-25 02:00:00,Logistics
+279,Order Approved,2024-02-27 08:00:00,Finance Team
+279,Credit Check,2024-02-27 23:00:00,Finance Team
+279,Payment Processed,2024-02-28 07:00:00,Finance Team
+279,Order Packed,2024-02-28 21:00:00,Logistics
+279,Order Shipped,2024-03-02 11:00:00,Manager
+279,Order Delivered,2024-03-04 20:00:00,Finance Team
+280,Order Created,2024-02-11 01:00:00,Warehouse
+280,Order Approved,2024-02-11 05:00:00,Finance Team
+280,Credit Check,2024-02-13 19:00:00,Logistics
+280,Payment Processed,2024-02-14 10:00:00,Logistics
+280,Order Packed,2024-02-16 19:00:00,System
+280,Order Shipped,2024-02-17 04:00:00,Warehouse
+280,Order Delivered,2024-02-18 21:00:00,System
+281,Order Created,2024-02-17 20:00:00,Manager
+281,Order Approved,2024-02-19 01:00:00,Warehouse
+281,Credit Check,2024-02-21 20:00:00,Manager
+281,Payment Processed,2024-02-22 09:00:00,Logistics
+281,Order Packed,2024-02-23 17:00:00,Logistics
+281,Order Shipped,2024-02-25 14:00:00,Logistics
+281,Order Delivered,2024-02-26 10:00:00,Manager
+282,Order Created,2024-02-27 07:00:00,System
+282,Order Approved,2024-02-28 04:00:00,Manager
+282,Credit Check,2024-03-01 17:00:00,Logistics
+282,Payment Processed,2024-03-02 15:00:00,System
+282,Order Packed,2024-03-05 06:00:00,Warehouse
+282,Order Shipped,2024-03-06 13:00:00,Warehouse
+282,Order Delivered,2024-03-08 01:00:00,System
+283,Order Created,2024-02-03 05:00:00,Manager
+283,Order Approved,2024-02-05 06:00:00,Logistics
+283,Credit Check,2024-02-06 13:00:00,System
+283,Payment Processed,2024-02-09 00:00:00,Logistics
+283,Order Packed,2024-02-11 10:00:00,System
+283,Order Shipped,2024-02-14 02:00:00,Logistics
+283,Order Delivered,2024-02-15 19:00:00,System
+284,Order Created,2024-02-01 03:00:00,System
+284,Order Approved,2024-02-03 07:00:00,Logistics
+284,Credit Check,2024-02-03 12:00:00,Manager
+284,Payment Processed,2024-02-06 11:00:00,System
+284,Order Packed,2024-02-06 23:00:00,Manager
+284,Order Shipped,2024-02-08 14:00:00,Manager
+284,Order Delivered,2024-02-11 14:00:00,Finance Team
+285,Order Created,2024-02-13 11:00:00,Warehouse
+285,Order Approved,2024-02-15 10:00:00,System
+285,Credit Check,2024-02-16 15:00:00,Logistics
+285,Payment Processed,2024-02-18 10:00:00,Manager
+285,Order Packed,2024-02-20 23:00:00,Warehouse
+285,Order Shipped,2024-02-23 09:00:00,System
+285,Order Delivered,2024-02-23 22:00:00,Finance Team
+286,Order Created,2024-01-02 20:00:00,Warehouse
+286,Order Approved,2024-01-04 10:00:00,Manager
+286,Credit Check,2024-01-07 05:00:00,Warehouse
+286,Payment Processed,2024-01-07 19:00:00,System
+286,Order Packed,2024-01-08 17:00:00,Logistics
+286,Order Shipped,2024-01-09 11:00:00,Logistics
+286,Order Delivered,2024-01-10 01:00:00,Warehouse
+287,Order Created,2024-02-10 02:00:00,Finance Team
+287,Order Approved,2024-02-10 18:00:00,Logistics
+287,Credit Check,2024-02-11 22:00:00,Logistics
+287,Payment Processed,2024-02-12 23:00:00,Warehouse
+287,Order Packed,2024-02-13 13:00:00,Logistics
+287,Order Shipped,2024-02-13 19:00:00,Manager
+287,Order Delivered,2024-02-14 11:00:00,Logistics
+288,Order Created,2024-02-01 17:00:00,Finance Team
+288,Order Approved,2024-02-04 09:00:00,System
+288,Credit Check,2024-02-07 05:00:00,System
+288,Payment Processed,2024-02-10 04:00:00,Logistics
+288,Order Packed,2024-02-12 18:00:00,Manager
+288,Order Shipped,2024-02-13 17:00:00,Manager
+288,Order Delivered,2024-02-14 16:00:00,Finance Team
+289,Order Created,2024-01-09 02:00:00,Manager
+289,Order Approved,2024-01-10 20:00:00,Manager
+289,Credit Check,2024-01-12 22:00:00,Logistics
+289,Payment Processed,2024-01-14 06:00:00,Warehouse
+289,Order Packed,2024-01-16 09:00:00,Warehouse
+289,Order Shipped,2024-01-17 23:00:00,Logistics
+289,Order Delivered,2024-01-18 17:00:00,Finance Team
+290,Order Created,2024-01-29 18:00:00,Warehouse
+290,Order Approved,2024-02-01 17:00:00,Warehouse
+290,Credit Check,2024-02-04 16:00:00,Finance Team
+290,Payment Processed,2024-02-05 18:00:00,Finance Team
+290,Order Packed,2024-02-07 08:00:00,Warehouse
+290,Order Shipped,2024-02-08 01:00:00,Finance Team
+290,Order Delivered,2024-02-10 18:00:00,Manager
+291,Order Created,2024-02-15 18:00:00,System
+291,Order Approved,2024-02-17 16:00:00,Manager
+291,Credit Check,2024-02-20 06:00:00,Manager
+291,Payment Processed,2024-02-22 12:00:00,Manager
+291,Order Packed,2024-02-24 01:00:00,Logistics
+291,Order Shipped,2024-02-24 03:00:00,Manager
+291,Order Delivered,2024-02-24 17:00:00,System
+292,Order Created,2024-01-25 19:00:00,System
+292,Order Approved,2024-01-26 03:00:00,Finance Team
+292,Credit Check,2024-01-27 14:00:00,Finance Team
+292,Payment Processed,2024-01-29 03:00:00,Warehouse
+292,Order Packed,2024-01-29 22:00:00,System
+292,Order Shipped,2024-01-31 12:00:00,Finance Team
+292,Order Delivered,2024-02-03 10:00:00,System
+293,Order Created,2024-01-25 10:00:00,System
+293,Order Approved,2024-01-28 10:00:00,Finance Team
+293,Credit Check,2024-01-31 10:00:00,Logistics
+293,Payment Processed,2024-02-01 17:00:00,Manager
+293,Order Packed,2024-02-03 06:00:00,System
+293,Order Shipped,2024-02-05 07:00:00,Logistics
+293,Order Delivered,2024-02-07 13:00:00,Warehouse
+294,Order Created,2024-02-05 07:00:00,System
+294,Order Approved,2024-02-06 16:00:00,Finance Team
+294,Credit Check,2024-02-09 01:00:00,Finance Team
+294,Payment Processed,2024-02-11 01:00:00,Manager
+294,Order Packed,2024-02-13 23:00:00,Manager
+294,Order Shipped,2024-02-15 01:00:00,Finance Team
+294,Order Delivered,2024-02-16 15:00:00,Logistics
+295,Order Created,2024-01-12 10:00:00,Finance Team
+295,Order Approved,2024-01-13 09:00:00,Manager
+295,Credit Check,2024-01-14 01:00:00,Logistics
+295,Payment Processed,2024-01-14 07:00:00,Logistics
+295,Order Packed,2024-01-15 19:00:00,Manager
+295,Order Shipped,2024-01-17 05:00:00,Finance Team
+295,Order Delivered,2024-01-18 02:00:00,Manager
+296,Order Created,2024-02-25 09:00:00,System
+296,Order Approved,2024-02-27 04:00:00,Logistics
+296,Credit Check,2024-02-28 00:00:00,System
+296,Payment Processed,2024-02-28 20:00:00,Warehouse
+296,Order Packed,2024-02-29 03:00:00,Manager
+296,Order Shipped,2024-03-01 18:00:00,Logistics
+296,Order Delivered,2024-03-04 17:00:00,Warehouse
+297,Order Created,2024-01-06 17:00:00,Manager
+297,Order Approved,2024-01-07 22:00:00,Finance Team
+297,Credit Check,2024-01-10 17:00:00,System
+297,Payment Processed,2024-01-13 10:00:00,Finance Team
+297,Order Packed,2024-01-15 16:00:00,Manager
+297,Order Shipped,2024-01-18 13:00:00,Logistics
+297,Order Delivered,2024-01-19 01:00:00,Warehouse
+298,Order Created,2024-01-16 04:00:00,Warehouse
+298,Order Approved,2024-01-17 23:00:00,Warehouse
+298,Credit Check,2024-01-19 13:00:00,Finance Team
+298,Payment Processed,2024-01-22 09:00:00,Logistics
+298,Order Packed,2024-01-25 09:00:00,System
+298,Order Shipped,2024-01-26 00:00:00,Warehouse
+298,Order Delivered,2024-01-28 10:00:00,Finance Team
+299,Order Created,2024-02-28 08:00:00,System
+299,Order Approved,2024-03-01 02:00:00,Logistics
+299,Credit Check,2024-03-01 17:00:00,Logistics
+299,Payment Processed,2024-03-03 02:00:00,Manager
+299,Order Packed,2024-03-04 15:00:00,System
+299,Order Shipped,2024-03-07 10:00:00,Warehouse
+299,Order Delivered,2024-03-10 04:00:00,Manager
+300,Order Created,2024-01-31 15:00:00,System
+300,Order Approved,2024-02-02 05:00:00,Finance Team
+300,Credit Check,2024-02-03 23:00:00,Manager
+300,Payment Processed,2024-02-04 10:00:00,System
+300,Order Packed,2024-02-05 08:00:00,Manager
+300,Order Shipped,2024-02-08 05:00:00,System
+300,Order Delivered,2024-02-08 14:00:00,Finance Team
+301,Order Created,2024-02-13 04:00:00,Logistics
+301,Order Approved,2024-02-13 18:00:00,Finance Team
+301,Credit Check,2024-02-16 15:00:00,Logistics
+301,Payment Processed,2024-02-17 01:00:00,Finance Team
+301,Order Packed,2024-02-17 05:00:00,Logistics
+301,Order Shipped,2024-02-19 00:00:00,System
+301,Order Delivered,2024-02-19 12:00:00,System
+302,Order Created,2024-01-04 23:00:00,Warehouse
+302,Order Approved,2024-01-07 23:00:00,System
+302,Credit Check,2024-01-09 05:00:00,Warehouse
+302,Payment Processed,2024-01-11 10:00:00,Logistics
+302,Order Packed,2024-01-13 20:00:00,Logistics
+302,Order Shipped,2024-01-16 04:00:00,Warehouse
+302,Order Delivered,2024-01-16 07:00:00,Logistics
+303,Order Created,2024-02-13 16:00:00,Manager
+303,Order Approved,2024-02-13 17:00:00,Manager
+303,Credit Check,2024-02-14 02:00:00,Manager
+303,Payment Processed,2024-02-14 08:00:00,System
+303,Order Packed,2024-02-16 06:00:00,Manager
+303,Order Shipped,2024-02-16 20:00:00,Warehouse
+303,Order Delivered,2024-02-18 11:00:00,Manager
+304,Order Created,2024-01-07 13:00:00,Logistics
+304,Order Approved,2024-01-09 14:00:00,Logistics
+304,Credit Check,2024-01-09 18:00:00,Logistics
+304,Payment Processed,2024-01-10 15:00:00,Manager
+304,Order Packed,2024-01-11 20:00:00,Finance Team
+304,Order Shipped,2024-01-13 23:00:00,Manager
+304,Order Delivered,2024-01-15 13:00:00,Finance Team
+305,Order Created,2024-01-22 00:00:00,System
+305,Order Approved,2024-01-24 23:00:00,Manager
+305,Credit Check,2024-01-25 18:00:00,System
+305,Payment Processed,2024-01-26 00:00:00,System
+305,Order Packed,2024-01-28 03:00:00,Manager
+305,Order Shipped,2024-01-31 02:00:00,System
+305,Order Delivered,2024-02-01 18:00:00,Finance Team
+306,Order Created,2024-02-18 21:00:00,Finance Team
+306,Order Approved,2024-02-21 02:00:00,Manager
+306,Credit Check,2024-02-21 21:00:00,Finance Team
+306,Payment Processed,2024-02-22 21:00:00,Finance Team
+306,Order Packed,2024-02-24 06:00:00,Finance Team
+306,Order Shipped,2024-02-24 21:00:00,Finance Team
+306,Order Delivered,2024-02-25 04:00:00,Manager
+307,Order Created,2024-02-01 23:00:00,System
+307,Order Approved,2024-02-03 13:00:00,System
+307,Credit Check,2024-02-04 22:00:00,System
+307,Payment Processed,2024-02-06 00:00:00,Manager
+307,Order Packed,2024-02-08 15:00:00,Warehouse
+307,Order Shipped,2024-02-10 13:00:00,Finance Team
+307,Order Delivered,2024-02-11 20:00:00,System
+308,Order Created,2024-01-19 09:00:00,Finance Team
+308,Order Approved,2024-01-21 02:00:00,Logistics
+308,Credit Check,2024-01-23 12:00:00,Warehouse
+308,Payment Processed,2024-01-25 04:00:00,Manager
+308,Order Packed,2024-01-26 00:00:00,Manager
+308,Order Shipped,2024-01-27 23:00:00,Warehouse
+308,Order Delivered,2024-01-30 06:00:00,Finance Team
+309,Order Created,2024-01-02 17:00:00,Finance Team
+309,Order Approved,2024-01-03 22:00:00,Logistics
+309,Credit Check,2024-01-05 10:00:00,Warehouse
+309,Payment Processed,2024-01-06 04:00:00,Warehouse
+309,Order Packed,2024-01-08 18:00:00,Logistics
+309,Order Shipped,2024-01-11 04:00:00,Warehouse
+309,Order Delivered,2024-01-12 20:00:00,Logistics
+310,Order Created,2024-02-05 14:00:00,Finance Team
+310,Order Approved,2024-02-06 01:00:00,Warehouse
+310,Credit Check,2024-02-06 19:00:00,Manager
+310,Payment Processed,2024-02-07 21:00:00,Warehouse
+310,Order Packed,2024-02-08 07:00:00,System
+310,Order Shipped,2024-02-08 10:00:00,Manager
+310,Order Delivered,2024-02-08 14:00:00,Manager
+311,Order Created,2024-02-09 04:00:00,Manager
+311,Order Approved,2024-02-10 08:00:00,System
+311,Credit Check,2024-02-13 07:00:00,Warehouse
+311,Payment Processed,2024-02-16 05:00:00,Manager
+311,Order Packed,2024-02-18 18:00:00,Finance Team
+311,Order Shipped,2024-02-20 17:00:00,Logistics
+311,Order Delivered,2024-02-21 22:00:00,Manager
+312,Order Created,2024-02-17 14:00:00,Finance Team
+312,Order Approved,2024-02-20 02:00:00,Manager
+312,Credit Check,2024-02-22 20:00:00,System
+312,Payment Processed,2024-02-24 23:00:00,Warehouse
+312,Order Packed,2024-02-27 16:00:00,System
+312,Order Shipped,2024-02-28 23:00:00,Manager
+312,Order Delivered,2024-02-29 21:00:00,Manager
+313,Order Created,2024-01-11 10:00:00,Finance Team
+313,Order Approved,2024-01-12 09:00:00,Manager
+313,Credit Check,2024-01-13 04:00:00,Logistics
+313,Payment Processed,2024-01-15 02:00:00,System
+313,Order Packed,2024-01-16 07:00:00,Logistics
+313,Order Shipped,2024-01-17 13:00:00,System
+313,Order Delivered,2024-01-18 23:00:00,Warehouse
+314,Order Created,2024-01-15 06:00:00,Finance Team
+314,Order Approved,2024-01-18 01:00:00,Warehouse
+314,Credit Check,2024-01-20 03:00:00,Logistics
+314,Payment Processed,2024-01-22 14:00:00,System
+314,Order Packed,2024-01-22 20:00:00,Warehouse
+314,Order Shipped,2024-01-23 10:00:00,Manager
+314,Order Delivered,2024-01-24 22:00:00,Warehouse
+315,Order Created,2024-02-09 22:00:00,Manager
+315,Order Approved,2024-02-10 21:00:00,Logistics
+315,Credit Check,2024-02-12 22:00:00,Warehouse
+315,Payment Processed,2024-02-13 08:00:00,Manager
+315,Order Packed,2024-02-14 17:00:00,Logistics
+315,Order Shipped,2024-02-15 22:00:00,Manager
+315,Order Delivered,2024-02-18 02:00:00,Warehouse
+316,Order Created,2024-02-23 21:00:00,Logistics
+316,Order Approved,2024-02-26 11:00:00,Manager
+316,Credit Check,2024-02-26 12:00:00,Manager
+316,Payment Processed,2024-02-27 06:00:00,Logistics
+316,Order Packed,2024-02-28 04:00:00,Finance Team
+316,Order Shipped,2024-02-28 14:00:00,Manager
+316,Order Delivered,2024-03-01 02:00:00,Finance Team
+317,Order Created,2024-01-11 00:00:00,Finance Team
+317,Order Approved,2024-01-12 23:00:00,Manager
+317,Credit Check,2024-01-13 15:00:00,Finance Team
+317,Payment Processed,2024-01-15 21:00:00,Warehouse
+317,Order Packed,2024-01-16 12:00:00,Logistics
+317,Order Shipped,2024-01-19 02:00:00,Logistics
+317,Order Delivered,2024-01-20 05:00:00,Manager
+318,Order Created,2024-01-13 05:00:00,System
+318,Order Approved,2024-01-14 13:00:00,System
+318,Credit Check,2024-01-15 06:00:00,Manager
+318,Payment Processed,2024-01-16 03:00:00,Finance Team
+318,Order Packed,2024-01-18 21:00:00,System
+318,Order Shipped,2024-01-19 16:00:00,System
+318,Order Delivered,2024-01-20 14:00:00,Warehouse
+319,Order Created,2024-03-01 00:00:00,Manager
+319,Order Approved,2024-03-03 04:00:00,Manager
+319,Credit Check,2024-03-03 07:00:00,Warehouse
+319,Payment Processed,2024-03-03 18:00:00,Finance Team
+319,Order Packed,2024-03-06 04:00:00,Manager
+319,Order Shipped,2024-03-08 17:00:00,Logistics
+319,Order Delivered,2024-03-09 15:00:00,Finance Team
+320,Order Created,2024-02-25 05:00:00,Manager
+320,Order Approved,2024-02-26 00:00:00,Manager
+320,Credit Check,2024-02-27 00:00:00,Manager
+320,Payment Processed,2024-02-29 18:00:00,Warehouse
+320,Order Packed,2024-03-01 16:00:00,Warehouse
+320,Order Shipped,2024-03-04 03:00:00,Manager
+320,Order Delivered,2024-03-04 12:00:00,Finance Team
+321,Order Created,2024-01-27 02:00:00,Finance Team
+321,Order Approved,2024-01-27 16:00:00,System
+321,Credit Check,2024-01-28 18:00:00,Manager
+321,Payment Processed,2024-01-31 11:00:00,Logistics
+321,Order Packed,2024-02-01 07:00:00,Manager
+321,Order Shipped,2024-02-01 20:00:00,Finance Team
+321,Order Delivered,2024-02-04 09:00:00,Manager
+322,Order Created,2024-02-08 05:00:00,Manager
+322,Order Approved,2024-02-10 22:00:00,System
+322,Credit Check,2024-02-11 10:00:00,Logistics
+322,Payment Processed,2024-02-12 03:00:00,Manager
+322,Order Packed,2024-02-15 01:00:00,System
+322,Order Shipped,2024-02-17 09:00:00,Manager
+322,Order Delivered,2024-02-19 15:00:00,Warehouse
+323,Order Created,2024-02-25 06:00:00,Manager
+323,Order Approved,2024-02-27 13:00:00,Finance Team
+323,Credit Check,2024-03-01 03:00:00,Logistics
+323,Payment Processed,2024-03-03 00:00:00,Manager
+323,Order Packed,2024-03-03 13:00:00,Logistics
+323,Order Shipped,2024-03-04 07:00:00,Warehouse
+323,Order Delivered,2024-03-06 21:00:00,Finance Team
+324,Order Created,2024-02-28 11:00:00,Warehouse
+324,Order Approved,2024-03-02 09:00:00,Logistics
+324,Credit Check,2024-03-03 18:00:00,Finance Team
+324,Payment Processed,2024-03-03 19:00:00,System
+324,Order Packed,2024-03-06 14:00:00,System
+324,Order Shipped,2024-03-09 09:00:00,System
+324,Order Delivered,2024-03-11 10:00:00,Finance Team
+325,Order Created,2024-02-15 17:00:00,Logistics
+325,Order Approved,2024-02-17 16:00:00,System
+325,Credit Check,2024-02-18 12:00:00,Logistics
+325,Payment Processed,2024-02-19 21:00:00,Warehouse
+325,Order Packed,2024-02-22 18:00:00,Logistics
+325,Order Shipped,2024-02-24 17:00:00,Manager
+325,Order Delivered,2024-02-26 05:00:00,Logistics
+326,Order Created,2024-02-19 03:00:00,Logistics
+326,Order Approved,2024-02-22 02:00:00,Manager
+326,Credit Check,2024-02-24 16:00:00,Finance Team
+326,Payment Processed,2024-02-26 16:00:00,Manager
+326,Order Packed,2024-02-29 16:00:00,Logistics
+326,Order Shipped,2024-03-02 01:00:00,Warehouse
+326,Order Delivered,2024-03-03 22:00:00,Logistics
+327,Order Created,2024-02-17 18:00:00,System
+327,Order Approved,2024-02-19 00:00:00,Logistics
+327,Credit Check,2024-02-19 21:00:00,System
+327,Payment Processed,2024-02-21 01:00:00,Manager
+327,Order Packed,2024-02-23 05:00:00,Warehouse
+327,Order Shipped,2024-02-26 04:00:00,Manager
+327,Order Delivered,2024-02-26 11:00:00,Finance Team
+328,Order Created,2024-01-25 01:00:00,System
+328,Order Approved,2024-01-25 20:00:00,Logistics
+328,Credit Check,2024-01-28 04:00:00,System
+328,Payment Processed,2024-01-28 13:00:00,Warehouse
+328,Order Packed,2024-01-29 18:00:00,Warehouse
+328,Order Shipped,2024-01-30 05:00:00,Manager
+328,Order Delivered,2024-01-30 10:00:00,Logistics
+329,Order Created,2024-03-02 04:00:00,Manager
+329,Order Approved,2024-03-04 23:00:00,Warehouse
+329,Credit Check,2024-03-05 07:00:00,Finance Team
+329,Payment Processed,2024-03-07 23:00:00,Logistics
+329,Order Packed,2024-03-08 01:00:00,Finance Team
+329,Order Shipped,2024-03-10 20:00:00,Warehouse
+329,Order Delivered,2024-03-11 21:00:00,System
+330,Order Created,2024-02-22 18:00:00,Manager
+330,Order Approved,2024-02-24 00:00:00,Manager
+330,Credit Check,2024-02-24 22:00:00,System
+330,Payment Processed,2024-02-26 21:00:00,Finance Team
+330,Order Packed,2024-02-26 22:00:00,Finance Team
+330,Order Shipped,2024-02-27 10:00:00,Warehouse
+330,Order Delivered,2024-02-29 14:00:00,Warehouse
+331,Order Created,2024-02-14 03:00:00,Logistics
+331,Order Approved,2024-02-15 05:00:00,Manager
+331,Credit Check,2024-02-15 07:00:00,System
+331,Payment Processed,2024-02-15 19:00:00,Manager
+331,Order Packed,2024-02-17 08:00:00,Manager
+331,Order Shipped,2024-02-19 05:00:00,Warehouse
+331,Order Delivered,2024-02-20 17:00:00,Finance Team
+332,Order Created,2024-02-09 01:00:00,Logistics
+332,Order Approved,2024-02-11 05:00:00,Manager
+332,Credit Check,2024-02-11 06:00:00,Warehouse
+332,Payment Processed,2024-02-12 05:00:00,Logistics
+332,Order Packed,2024-02-14 22:00:00,System
+332,Order Shipped,2024-02-17 22:00:00,System
+332,Order Delivered,2024-02-20 15:00:00,Warehouse
+333,Order Created,2024-01-22 15:00:00,Manager
+333,Order Approved,2024-01-24 00:00:00,Manager
+333,Credit Check,2024-01-25 09:00:00,Logistics
+333,Payment Processed,2024-01-27 10:00:00,Manager
+333,Order Packed,2024-01-30 00:00:00,Finance Team
+333,Order Shipped,2024-01-31 20:00:00,Logistics
+333,Order Delivered,2024-02-03 07:00:00,Manager
+334,Order Created,2024-02-25 04:00:00,Logistics
+334,Order Approved,2024-02-25 19:00:00,Warehouse
+334,Credit Check,2024-02-26 04:00:00,Logistics
+334,Payment Processed,2024-02-27 09:00:00,Finance Team
+334,Order Packed,2024-02-29 02:00:00,Logistics
+334,Order Shipped,2024-03-02 00:00:00,Manager
+334,Order Delivered,2024-03-04 21:00:00,System
+335,Order Created,2024-02-15 10:00:00,Finance Team
+335,Order Approved,2024-02-16 23:00:00,System
+335,Credit Check,2024-02-19 03:00:00,Warehouse
+335,Payment Processed,2024-02-19 13:00:00,Manager
+335,Order Packed,2024-02-20 12:00:00,Logistics
+335,Order Shipped,2024-02-22 05:00:00,Warehouse
+335,Order Delivered,2024-02-23 09:00:00,Manager
+336,Order Created,2024-01-19 00:00:00,Finance Team
+336,Order Approved,2024-01-21 16:00:00,Finance Team
+336,Credit Check,2024-01-22 23:00:00,Finance Team
+336,Payment Processed,2024-01-24 09:00:00,Finance Team
+336,Order Packed,2024-01-25 15:00:00,Finance Team
+336,Order Shipped,2024-01-26 23:00:00,Manager
+336,Order Delivered,2024-01-28 21:00:00,Finance Team
+337,Order Created,2024-02-19 14:00:00,System
+337,Order Approved,2024-02-20 01:00:00,Logistics
+337,Credit Check,2024-02-20 02:00:00,Manager
+337,Payment Processed,2024-02-20 08:00:00,Logistics
+337,Order Packed,2024-02-22 08:00:00,Manager
+337,Order Shipped,2024-02-24 01:00:00,Logistics
+337,Order Delivered,2024-02-25 13:00:00,Logistics
+338,Order Created,2024-01-14 18:00:00,Warehouse
+338,Order Approved,2024-01-16 21:00:00,Finance Team
+338,Credit Check,2024-01-17 14:00:00,System
+338,Payment Processed,2024-01-20 10:00:00,Logistics
+338,Order Packed,2024-01-23 00:00:00,Manager
+338,Order Shipped,2024-01-23 05:00:00,Manager
+338,Order Delivered,2024-01-25 02:00:00,Logistics
+339,Order Created,2024-02-25 23:00:00,Logistics
+339,Order Approved,2024-02-26 15:00:00,Manager
+339,Credit Check,2024-02-29 02:00:00,Warehouse
+339,Payment Processed,2024-02-29 04:00:00,System
+339,Order Packed,2024-03-01 07:00:00,Logistics
+339,Order Shipped,2024-03-01 20:00:00,Warehouse
+339,Order Delivered,2024-03-03 19:00:00,Manager
+340,Order Created,2024-02-26 10:00:00,Finance Team
+340,Order Approved,2024-02-29 09:00:00,Warehouse
+340,Credit Check,2024-03-01 16:00:00,Warehouse
+340,Payment Processed,2024-03-04 05:00:00,Manager
+340,Order Packed,2024-03-06 01:00:00,Warehouse
+340,Order Shipped,2024-03-07 01:00:00,Logistics
+340,Order Delivered,2024-03-09 08:00:00,Finance Team
+341,Order Created,2024-01-29 00:00:00,Warehouse
+341,Order Approved,2024-01-31 04:00:00,Warehouse
+341,Credit Check,2024-02-02 14:00:00,Finance Team
+341,Payment Processed,2024-02-03 07:00:00,Manager
+341,Order Packed,2024-02-04 13:00:00,System
+341,Order Shipped,2024-02-06 00:00:00,Finance Team
+341,Order Delivered,2024-02-09 00:00:00,Logistics
+342,Order Created,2024-02-26 01:00:00,Finance Team
+342,Order Approved,2024-02-26 20:00:00,Finance Team
+342,Credit Check,2024-02-29 09:00:00,System
+342,Payment Processed,2024-03-01 08:00:00,Logistics
+342,Order Packed,2024-03-04 00:00:00,Finance Team
+342,Order Shipped,2024-03-06 19:00:00,Manager
+342,Order Delivered,2024-03-08 12:00:00,Logistics
+343,Order Created,2024-01-21 09:00:00,Manager
+343,Order Approved,2024-01-21 16:00:00,Logistics
+343,Credit Check,2024-01-22 05:00:00,Finance Team
+343,Payment Processed,2024-01-22 13:00:00,Finance Team
+343,Order Packed,2024-01-23 22:00:00,Logistics
+343,Order Shipped,2024-01-24 11:00:00,Logistics
+343,Order Delivered,2024-01-26 06:00:00,Warehouse
+344,Order Created,2024-01-25 23:00:00,Manager
+344,Order Approved,2024-01-28 23:00:00,Warehouse
+344,Credit Check,2024-01-30 20:00:00,System
+344,Payment Processed,2024-02-02 01:00:00,System
+344,Order Packed,2024-02-03 22:00:00,Manager
+344,Order Shipped,2024-02-05 00:00:00,Manager
+344,Order Delivered,2024-02-07 21:00:00,Finance Team
+345,Order Created,2024-02-20 13:00:00,Warehouse
+345,Order Approved,2024-02-22 07:00:00,Manager
+345,Credit Check,2024-02-24 22:00:00,Logistics
+345,Payment Processed,2024-02-25 09:00:00,Logistics
+345,Order Packed,2024-02-26 22:00:00,Logistics
+345,Order Shipped,2024-02-27 17:00:00,Finance Team
+345,Order Delivered,2024-02-29 13:00:00,Logistics
+346,Order Created,2024-02-12 04:00:00,System
+346,Order Approved,2024-02-12 15:00:00,Finance Team
+346,Credit Check,2024-02-14 11:00:00,Finance Team
+346,Payment Processed,2024-02-16 04:00:00,Warehouse
+346,Order Packed,2024-02-17 18:00:00,Warehouse
+346,Order Shipped,2024-02-19 21:00:00,Warehouse
+346,Order Delivered,2024-02-22 06:00:00,Warehouse
+347,Order Created,2024-02-19 19:00:00,Logistics
+347,Order Approved,2024-02-22 00:00:00,Finance Team
+347,Credit Check,2024-02-23 00:00:00,System
+347,Payment Processed,2024-02-23 17:00:00,Finance Team
+347,Order Packed,2024-02-25 02:00:00,System
+347,Order Shipped,2024-02-26 05:00:00,Finance Team
+347,Order Delivered,2024-02-28 08:00:00,System
+348,Order Created,2024-01-07 09:00:00,Logistics
+348,Order Approved,2024-01-10 08:00:00,System
+348,Credit Check,2024-01-10 12:00:00,Logistics
+348,Payment Processed,2024-01-13 08:00:00,System
+348,Order Packed,2024-01-13 22:00:00,Warehouse
+348,Order Shipped,2024-01-14 18:00:00,System
+348,Order Delivered,2024-01-16 20:00:00,Warehouse
+349,Order Created,2024-01-16 08:00:00,Warehouse
+349,Order Approved,2024-01-18 17:00:00,Finance Team
+349,Credit Check,2024-01-19 10:00:00,Manager
+349,Payment Processed,2024-01-20 08:00:00,System
+349,Order Packed,2024-01-20 13:00:00,Warehouse
+349,Order Shipped,2024-01-22 07:00:00,Logistics
+349,Order Delivered,2024-01-24 19:00:00,Manager
+350,Order Created,2024-03-01 11:00:00,Manager
+350,Order Approved,2024-03-03 20:00:00,Finance Team
+350,Credit Check,2024-03-06 18:00:00,Finance Team
+350,Payment Processed,2024-03-09 05:00:00,Manager
+350,Order Packed,2024-03-11 13:00:00,Manager
+350,Order Shipped,2024-03-14 10:00:00,Warehouse
+350,Order Delivered,2024-03-16 07:00:00,Logistics
+351,Order Created,2024-02-05 06:00:00,System
+351,Order Approved,2024-02-07 15:00:00,Warehouse
+351,Credit Check,2024-02-09 14:00:00,Logistics
+351,Payment Processed,2024-02-11 00:00:00,Finance Team
+351,Order Packed,2024-02-12 15:00:00,System
+351,Order Shipped,2024-02-12 16:00:00,Manager
+351,Order Delivered,2024-02-13 10:00:00,Warehouse
+352,Order Created,2024-01-21 13:00:00,Manager
+352,Order Approved,2024-01-21 15:00:00,Logistics
+352,Credit Check,2024-01-24 05:00:00,Warehouse
+352,Payment Processed,2024-01-24 07:00:00,Logistics
+352,Order Packed,2024-01-25 21:00:00,Manager
+352,Order Shipped,2024-01-27 03:00:00,System
+352,Order Delivered,2024-01-30 02:00:00,Warehouse
+353,Order Created,2024-01-15 05:00:00,Manager
+353,Order Approved,2024-01-17 13:00:00,Logistics
+353,Credit Check,2024-01-18 21:00:00,Finance Team
+353,Payment Processed,2024-01-20 23:00:00,Logistics
+353,Order Packed,2024-01-22 04:00:00,Warehouse
+353,Order Shipped,2024-01-22 15:00:00,Logistics
+353,Order Delivered,2024-01-23 22:00:00,Manager
+354,Order Created,2024-02-19 11:00:00,Warehouse
+354,Order Approved,2024-02-22 08:00:00,Warehouse
+354,Credit Check,2024-02-24 13:00:00,Finance Team
+354,Payment Processed,2024-02-24 22:00:00,Finance Team
+354,Order Packed,2024-02-25 16:00:00,Warehouse
+354,Order Shipped,2024-02-26 07:00:00,Logistics
+354,Order Delivered,2024-02-28 17:00:00,Warehouse
+355,Order Created,2024-02-16 15:00:00,Finance Team
+355,Order Approved,2024-02-18 09:00:00,System
+355,Credit Check,2024-02-19 05:00:00,System
+355,Payment Processed,2024-02-22 02:00:00,System
+355,Order Packed,2024-02-23 02:00:00,System
+355,Order Shipped,2024-02-24 15:00:00,Warehouse
+355,Order Delivered,2024-02-25 08:00:00,Logistics
+356,Order Created,2024-02-16 02:00:00,Finance Team
+356,Order Approved,2024-02-16 14:00:00,Finance Team
+356,Credit Check,2024-02-16 16:00:00,Logistics
+356,Payment Processed,2024-02-17 20:00:00,Warehouse
+356,Order Packed,2024-02-20 02:00:00,Warehouse
+356,Order Shipped,2024-02-22 18:00:00,Warehouse
+356,Order Delivered,2024-02-25 06:00:00,System
+357,Order Created,2024-01-22 11:00:00,Finance Team
+357,Order Approved,2024-01-22 19:00:00,Warehouse
+357,Credit Check,2024-01-24 22:00:00,System
+357,Payment Processed,2024-01-27 20:00:00,Logistics
+357,Order Packed,2024-01-28 20:00:00,Finance Team
+357,Order Shipped,2024-01-30 05:00:00,Logistics
+357,Order Delivered,2024-01-30 07:00:00,System
+358,Order Created,2024-02-20 08:00:00,Logistics
+358,Order Approved,2024-02-22 17:00:00,Finance Team
+358,Credit Check,2024-02-22 22:00:00,Finance Team
+358,Payment Processed,2024-02-25 09:00:00,System
+358,Order Packed,2024-02-28 04:00:00,Finance Team
+358,Order Shipped,2024-03-01 17:00:00,Logistics
+358,Order Delivered,2024-03-03 09:00:00,Warehouse
+359,Order Created,2024-01-11 06:00:00,Manager
+359,Order Approved,2024-01-14 01:00:00,System
+359,Credit Check,2024-01-15 10:00:00,Logistics
+359,Payment Processed,2024-01-17 01:00:00,Finance Team
+359,Order Packed,2024-01-19 00:00:00,System
+359,Order Shipped,2024-01-20 04:00:00,System
+359,Order Delivered,2024-01-21 11:00:00,Logistics
+360,Order Created,2024-01-21 02:00:00,Finance Team
+360,Order Approved,2024-01-22 14:00:00,Manager
+360,Credit Check,2024-01-23 06:00:00,Logistics
+360,Payment Processed,2024-01-24 14:00:00,System
+360,Order Packed,2024-01-24 20:00:00,Manager
+360,Order Shipped,2024-01-27 09:00:00,Manager
+360,Order Delivered,2024-01-28 05:00:00,Warehouse
+361,Order Created,2024-02-19 12:00:00,Finance Team
+361,Order Approved,2024-02-20 09:00:00,Logistics
+361,Credit Check,2024-02-20 21:00:00,Manager
+361,Payment Processed,2024-02-22 17:00:00,System
+361,Order Packed,2024-02-23 01:00:00,Warehouse
+361,Order Shipped,2024-02-23 21:00:00,Manager
+361,Order Delivered,2024-02-24 11:00:00,Finance Team
+362,Order Created,2024-02-02 06:00:00,Warehouse
+362,Order Approved,2024-02-05 06:00:00,Warehouse
+362,Credit Check,2024-02-07 15:00:00,Finance Team
+362,Payment Processed,2024-02-07 18:00:00,Logistics
+362,Order Packed,2024-02-09 16:00:00,Finance Team
+362,Order Shipped,2024-02-11 01:00:00,System
+362,Order Delivered,2024-02-13 16:00:00,Logistics
+363,Order Created,2024-02-06 14:00:00,Manager
+363,Order Approved,2024-02-09 05:00:00,Finance Team
+363,Credit Check,2024-02-10 05:00:00,Manager
+363,Payment Processed,2024-02-12 02:00:00,Warehouse
+363,Order Packed,2024-02-14 14:00:00,Warehouse
+363,Order Shipped,2024-02-17 13:00:00,Finance Team
+363,Order Delivered,2024-02-17 22:00:00,Manager
+364,Order Created,2024-01-12 10:00:00,Warehouse
+364,Order Approved,2024-01-13 20:00:00,Manager
+364,Credit Check,2024-01-15 19:00:00,Logistics
+364,Payment Processed,2024-01-15 20:00:00,Manager
+364,Order Packed,2024-01-17 21:00:00,Finance Team
+364,Order Shipped,2024-01-18 00:00:00,Manager
+364,Order Delivered,2024-01-19 23:00:00,Manager
+365,Order Created,2024-01-17 18:00:00,System
+365,Order Approved,2024-01-20 15:00:00,Logistics
+365,Credit Check,2024-01-21 16:00:00,Manager
+365,Payment Processed,2024-01-24 08:00:00,Manager
+365,Order Packed,2024-01-25 04:00:00,Manager
+365,Order Shipped,2024-01-26 17:00:00,Warehouse
+365,Order Delivered,2024-01-28 22:00:00,Warehouse
+366,Order Created,2024-01-08 13:00:00,Manager
+366,Order Approved,2024-01-08 22:00:00,System
+366,Credit Check,2024-01-09 15:00:00,Finance Team
+366,Payment Processed,2024-01-09 20:00:00,Finance Team
+366,Order Packed,2024-01-10 10:00:00,Logistics
+366,Order Shipped,2024-01-11 11:00:00,System
+366,Order Delivered,2024-01-11 16:00:00,Manager
+367,Order Created,2024-02-13 02:00:00,Logistics
+367,Order Approved,2024-02-15 22:00:00,Manager
+367,Credit Check,2024-02-17 07:00:00,System
+367,Payment Processed,2024-02-19 06:00:00,Finance Team
+367,Order Packed,2024-02-19 16:00:00,System
+367,Order Shipped,2024-02-20 19:00:00,Logistics
+367,Order Delivered,2024-02-21 06:00:00,Logistics
+368,Order Created,2024-02-21 08:00:00,Warehouse
+368,Order Approved,2024-02-24 08:00:00,Logistics
+368,Credit Check,2024-02-26 08:00:00,System
+368,Payment Processed,2024-02-27 19:00:00,Manager
+368,Order Packed,2024-02-28 01:00:00,System
+368,Order Shipped,2024-02-29 16:00:00,System
+368,Order Delivered,2024-03-01 20:00:00,Manager
+369,Order Created,2024-01-07 13:00:00,Finance Team
+369,Order Approved,2024-01-10 10:00:00,Logistics
+369,Credit Check,2024-01-11 11:00:00,Finance Team
+369,Payment Processed,2024-01-14 07:00:00,Finance Team
+369,Order Packed,2024-01-15 06:00:00,Manager
+369,Order Shipped,2024-01-18 06:00:00,Logistics
+369,Order Delivered,2024-01-18 20:00:00,Manager
+370,Order Created,2024-01-25 11:00:00,Logistics
+370,Order Approved,2024-01-26 01:00:00,Finance Team
+370,Credit Check,2024-01-27 01:00:00,Manager
+370,Payment Processed,2024-01-29 05:00:00,Manager
+370,Order Packed,2024-01-31 01:00:00,Finance Team
+370,Order Shipped,2024-02-02 22:00:00,Manager
+370,Order Delivered,2024-02-05 07:00:00,Warehouse
+371,Order Created,2024-02-28 17:00:00,Manager
+371,Order Approved,2024-03-01 11:00:00,Warehouse
+371,Credit Check,2024-03-03 16:00:00,Logistics
+371,Payment Processed,2024-03-05 10:00:00,Manager
+371,Order Packed,2024-03-06 17:00:00,Manager
+371,Order Shipped,2024-03-09 15:00:00,Finance Team
+371,Order Delivered,2024-03-11 16:00:00,Manager
+372,Order Created,2024-03-01 09:00:00,Warehouse
+372,Order Approved,2024-03-03 19:00:00,Logistics
+372,Credit Check,2024-03-05 22:00:00,System
+372,Payment Processed,2024-03-06 03:00:00,Warehouse
+372,Order Packed,2024-03-06 06:00:00,Manager
+372,Order Shipped,2024-03-07 00:00:00,Warehouse
+372,Order Delivered,2024-03-07 01:00:00,Warehouse
+373,Order Created,2024-01-16 04:00:00,Warehouse
+373,Order Approved,2024-01-16 07:00:00,Warehouse
+373,Credit Check,2024-01-19 06:00:00,Manager
+373,Payment Processed,2024-01-22 06:00:00,Manager
+373,Order Packed,2024-01-23 02:00:00,System
+373,Order Shipped,2024-01-23 07:00:00,Logistics
+373,Order Delivered,2024-01-25 05:00:00,Finance Team
+374,Order Created,2024-01-10 10:00:00,Warehouse
+374,Order Approved,2024-01-11 18:00:00,Finance Team
+374,Credit Check,2024-01-13 03:00:00,Warehouse
+374,Payment Processed,2024-01-13 15:00:00,Manager
+374,Order Packed,2024-01-15 19:00:00,Manager
+374,Order Shipped,2024-01-16 23:00:00,System
+374,Order Delivered,2024-01-18 17:00:00,Logistics
+375,Order Created,2024-01-14 15:00:00,Manager
+375,Order Approved,2024-01-15 04:00:00,Manager
+375,Credit Check,2024-01-16 19:00:00,System
+375,Payment Processed,2024-01-18 20:00:00,System
+375,Order Packed,2024-01-19 04:00:00,Warehouse
+375,Order Shipped,2024-01-21 01:00:00,Logistics
+375,Order Delivered,2024-01-23 07:00:00,System
+376,Order Created,2024-02-26 06:00:00,Manager
+376,Order Approved,2024-02-26 08:00:00,Logistics
+376,Credit Check,2024-02-26 15:00:00,Warehouse
+376,Payment Processed,2024-02-29 11:00:00,System
+376,Order Packed,2024-03-02 04:00:00,Manager
+376,Order Shipped,2024-03-03 00:00:00,Warehouse
+376,Order Delivered,2024-03-05 17:00:00,Finance Team
+377,Order Created,2024-01-10 07:00:00,Logistics
+377,Order Approved,2024-01-12 17:00:00,Manager
+377,Credit Check,2024-01-15 10:00:00,System
+377,Payment Processed,2024-01-16 15:00:00,Logistics
+377,Order Packed,2024-01-18 05:00:00,Logistics
+377,Order Shipped,2024-01-19 00:00:00,Finance Team
+377,Order Delivered,2024-01-20 20:00:00,System
+378,Order Created,2024-01-31 07:00:00,Manager
+378,Order Approved,2024-02-02 11:00:00,Warehouse
+378,Credit Check,2024-02-02 22:00:00,Logistics
+378,Payment Processed,2024-02-05 15:00:00,Logistics
+378,Order Packed,2024-02-06 08:00:00,Finance Team
+378,Order Shipped,2024-02-08 22:00:00,Manager
+378,Order Delivered,2024-02-10 00:00:00,Logistics
+379,Order Created,2024-01-27 02:00:00,Manager
+379,Order Approved,2024-01-29 22:00:00,Finance Team
+379,Credit Check,2024-01-31 06:00:00,System
+379,Payment Processed,2024-02-01 17:00:00,Logistics
+379,Order Packed,2024-02-03 11:00:00,Manager
+379,Order Shipped,2024-02-03 23:00:00,System
+379,Order Delivered,2024-02-06 04:00:00,Logistics
+380,Order Created,2024-01-25 21:00:00,Finance Team
+380,Order Approved,2024-01-27 15:00:00,Warehouse
+380,Credit Check,2024-01-27 19:00:00,Warehouse
+380,Payment Processed,2024-01-28 17:00:00,Warehouse
+380,Order Packed,2024-01-31 02:00:00,Manager
+380,Order Shipped,2024-01-31 21:00:00,Logistics
+380,Order Delivered,2024-02-01 03:00:00,Finance Team
+381,Order Created,2024-01-15 00:00:00,Finance Team
+381,Order Approved,2024-01-15 11:00:00,System
+381,Credit Check,2024-01-15 18:00:00,Finance Team
+381,Payment Processed,2024-01-16 13:00:00,Warehouse
+381,Order Packed,2024-01-16 15:00:00,Warehouse
+381,Order Shipped,2024-01-17 06:00:00,Warehouse
+381,Order Delivered,2024-01-19 16:00:00,Logistics
+382,Order Created,2024-01-03 19:00:00,Finance Team
+382,Order Approved,2024-01-06 16:00:00,Finance Team
+382,Credit Check,2024-01-07 19:00:00,Manager
+382,Payment Processed,2024-01-10 14:00:00,Warehouse
+382,Order Packed,2024-01-13 13:00:00,Logistics
+382,Order Shipped,2024-01-14 08:00:00,System
+382,Order Delivered,2024-01-16 09:00:00,Manager
+383,Order Created,2024-02-29 20:00:00,System
+383,Order Approved,2024-03-02 05:00:00,Finance Team
+383,Credit Check,2024-03-02 13:00:00,Warehouse
+383,Payment Processed,2024-03-03 15:00:00,Manager
+383,Order Packed,2024-03-05 02:00:00,System
+383,Order Shipped,2024-03-07 14:00:00,System
+383,Order Delivered,2024-03-07 23:00:00,Logistics
+384,Order Created,2024-02-13 11:00:00,Warehouse
+384,Order Approved,2024-02-14 01:00:00,System
+384,Credit Check,2024-02-15 15:00:00,Logistics
+384,Payment Processed,2024-02-16 21:00:00,Logistics
+384,Order Packed,2024-02-19 15:00:00,System
+384,Order Shipped,2024-02-21 08:00:00,Logistics
+384,Order Delivered,2024-02-24 05:00:00,System
+385,Order Created,2024-01-13 02:00:00,Manager
+385,Order Approved,2024-01-15 13:00:00,Manager
+385,Credit Check,2024-01-15 16:00:00,System
+385,Payment Processed,2024-01-17 00:00:00,Manager
+385,Order Packed,2024-01-18 16:00:00,Warehouse
+385,Order Shipped,2024-01-21 07:00:00,Logistics
+385,Order Delivered,2024-01-22 04:00:00,System
+386,Order Created,2024-01-24 22:00:00,Warehouse
+386,Order Approved,2024-01-26 13:00:00,Finance Team
+386,Credit Check,2024-01-29 06:00:00,Warehouse
+386,Payment Processed,2024-01-29 14:00:00,Warehouse
+386,Order Packed,2024-01-31 16:00:00,System
+386,Order Shipped,2024-02-03 16:00:00,Warehouse
+386,Order Delivered,2024-02-04 21:00:00,Finance Team
+387,Order Created,2024-01-24 03:00:00,Finance Team
+387,Order Approved,2024-01-24 15:00:00,Logistics
+387,Credit Check,2024-01-27 10:00:00,Manager
+387,Payment Processed,2024-01-28 16:00:00,Logistics
+387,Order Packed,2024-01-29 23:00:00,Manager
+387,Order Shipped,2024-01-30 19:00:00,Logistics
+387,Order Delivered,2024-02-01 11:00:00,Manager
+388,Order Created,2024-01-24 10:00:00,Manager
+388,Order Approved,2024-01-25 03:00:00,Finance Team
+388,Credit Check,2024-01-25 21:00:00,Manager
+388,Payment Processed,2024-01-28 19:00:00,Finance Team
+388,Order Packed,2024-01-29 13:00:00,Warehouse
+388,Order Shipped,2024-02-01 09:00:00,Finance Team
+388,Order Delivered,2024-02-03 17:00:00,Finance Team
+389,Order Created,2024-02-11 21:00:00,Warehouse
+389,Order Approved,2024-02-12 06:00:00,Manager
+389,Credit Check,2024-02-15 03:00:00,System
+389,Payment Processed,2024-02-16 03:00:00,Warehouse
+389,Order Packed,2024-02-16 22:00:00,System
+389,Order Shipped,2024-02-18 15:00:00,Logistics
+389,Order Delivered,2024-02-20 20:00:00,Warehouse
+390,Order Created,2024-01-30 12:00:00,Finance Team
+390,Order Approved,2024-01-31 13:00:00,System
+390,Credit Check,2024-02-01 06:00:00,Finance Team
+390,Payment Processed,2024-02-01 10:00:00,Manager
+390,Order Packed,2024-02-02 21:00:00,Manager
+390,Order Shipped,2024-02-04 03:00:00,Manager
+390,Order Delivered,2024-02-05 09:00:00,Finance Team
+391,Order Created,2024-02-13 04:00:00,Warehouse
+391,Order Approved,2024-02-13 15:00:00,Logistics
+391,Credit Check,2024-02-14 09:00:00,Manager
+391,Payment Processed,2024-02-16 22:00:00,Warehouse
+391,Order Packed,2024-02-17 22:00:00,Logistics
+391,Order Shipped,2024-02-20 13:00:00,Logistics
+391,Order Delivered,2024-02-21 07:00:00,Finance Team
+392,Order Created,2024-01-14 05:00:00,System
+392,Order Approved,2024-01-16 10:00:00,System
+392,Credit Check,2024-01-17 21:00:00,Logistics
+392,Payment Processed,2024-01-19 02:00:00,Finance Team
+392,Order Packed,2024-01-20 05:00:00,System
+392,Order Shipped,2024-01-21 04:00:00,Logistics
+392,Order Delivered,2024-01-23 19:00:00,Warehouse
+393,Order Created,2024-02-27 11:00:00,Finance Team
+393,Order Approved,2024-02-29 18:00:00,Logistics
+393,Credit Check,2024-03-01 00:00:00,Manager
+393,Payment Processed,2024-03-03 01:00:00,Warehouse
+393,Order Packed,2024-03-05 04:00:00,Manager
+393,Order Shipped,2024-03-08 01:00:00,Manager
+393,Order Delivered,2024-03-08 06:00:00,Manager
+394,Order Created,2024-01-09 10:00:00,Logistics
+394,Order Approved,2024-01-09 16:00:00,Finance Team
+394,Credit Check,2024-01-12 11:00:00,Manager
+394,Payment Processed,2024-01-14 14:00:00,System
+394,Order Packed,2024-01-17 14:00:00,Logistics
+394,Order Shipped,2024-01-20 09:00:00,System
+394,Order Delivered,2024-01-21 10:00:00,Warehouse
+395,Order Created,2024-01-31 03:00:00,Warehouse
+395,Order Approved,2024-02-01 16:00:00,Logistics
+395,Credit Check,2024-02-02 14:00:00,Logistics
+395,Payment Processed,2024-02-04 04:00:00,Manager
+395,Order Packed,2024-02-04 11:00:00,Manager
+395,Order Shipped,2024-02-05 06:00:00,Logistics
+395,Order Delivered,2024-02-07 16:00:00,System
+396,Order Created,2024-02-18 17:00:00,System
+396,Order Approved,2024-02-19 17:00:00,Manager
+396,Credit Check,2024-02-22 15:00:00,Finance Team
+396,Payment Processed,2024-02-24 18:00:00,Logistics
+396,Order Packed,2024-02-26 12:00:00,Logistics
+396,Order Shipped,2024-02-26 16:00:00,Finance Team
+396,Order Delivered,2024-02-29 03:00:00,Manager
+397,Order Created,2024-02-28 02:00:00,Logistics
+397,Order Approved,2024-02-28 14:00:00,Warehouse
+397,Credit Check,2024-03-01 08:00:00,Finance Team
+397,Payment Processed,2024-03-02 00:00:00,System
+397,Order Packed,2024-03-02 15:00:00,Logistics
+397,Order Shipped,2024-03-04 14:00:00,System
+397,Order Delivered,2024-03-07 10:00:00,Logistics
+398,Order Created,2024-02-18 18:00:00,Manager
+398,Order Approved,2024-02-19 15:00:00,Logistics
+398,Credit Check,2024-02-22 14:00:00,Logistics
+398,Payment Processed,2024-02-22 20:00:00,Finance Team
+398,Order Packed,2024-02-24 15:00:00,Manager
+398,Order Shipped,2024-02-25 11:00:00,Finance Team
+398,Order Delivered,2024-02-26 06:00:00,Finance Team
+399,Order Created,2024-02-19 07:00:00,Logistics
+399,Order Approved,2024-02-20 23:00:00,Warehouse
+399,Credit Check,2024-02-23 09:00:00,Warehouse
+399,Payment Processed,2024-02-24 09:00:00,System
+399,Order Packed,2024-02-25 02:00:00,Finance Team
+399,Order Shipped,2024-02-25 03:00:00,Manager
+399,Order Delivered,2024-02-26 12:00:00,System
+400,Order Created,2024-02-01 16:00:00,Logistics
+400,Order Approved,2024-02-04 14:00:00,System
+400,Credit Check,2024-02-07 06:00:00,Finance Team
+400,Payment Processed,2024-02-08 10:00:00,Manager
+400,Order Packed,2024-02-10 23:00:00,Logistics
+400,Order Shipped,2024-02-13 04:00:00,Logistics
+400,Order Delivered,2024-02-13 15:00:00,Manager
+401,Order Created,2024-02-08 01:00:00,Finance Team
+401,Order Approved,2024-02-11 00:00:00,Warehouse
+401,Credit Check,2024-02-14 00:00:00,Finance Team
+401,Payment Processed,2024-02-14 07:00:00,Finance Team
+401,Order Packed,2024-02-15 02:00:00,System
+401,Order Shipped,2024-02-16 23:00:00,System
+401,Order Delivered,2024-02-17 18:00:00,System
+402,Order Created,2024-02-13 15:00:00,Warehouse
+402,Order Approved,2024-02-14 03:00:00,System
+402,Credit Check,2024-02-14 17:00:00,Logistics
+402,Payment Processed,2024-02-15 16:00:00,Finance Team
+402,Order Packed,2024-02-17 05:00:00,Manager
+402,Order Shipped,2024-02-20 05:00:00,Finance Team
+402,Order Delivered,2024-02-22 16:00:00,Manager
+403,Order Created,2024-01-24 05:00:00,System
+403,Order Approved,2024-01-25 20:00:00,Warehouse
+403,Credit Check,2024-01-27 20:00:00,Logistics
+403,Payment Processed,2024-01-28 05:00:00,Logistics
+403,Order Packed,2024-01-31 04:00:00,System
+403,Order Shipped,2024-02-01 18:00:00,Logistics
+403,Order Delivered,2024-02-02 12:00:00,System
+404,Order Created,2024-02-15 12:00:00,Warehouse
+404,Order Approved,2024-02-18 08:00:00,Logistics
+404,Credit Check,2024-02-21 04:00:00,Finance Team
+404,Payment Processed,2024-02-22 07:00:00,Manager
+404,Order Packed,2024-02-22 15:00:00,System
+404,Order Shipped,2024-02-25 11:00:00,System
+404,Order Delivered,2024-02-28 01:00:00,Manager
+405,Order Created,2024-03-01 13:00:00,Logistics
+405,Order Approved,2024-03-03 06:00:00,Warehouse
+405,Credit Check,2024-03-06 02:00:00,Manager
+405,Payment Processed,2024-03-08 00:00:00,Finance Team
+405,Order Packed,2024-03-10 16:00:00,Manager
+405,Order Shipped,2024-03-13 08:00:00,Logistics
+405,Order Delivered,2024-03-14 08:00:00,Manager
+406,Order Created,2024-01-16 14:00:00,Finance Team
+406,Order Approved,2024-01-16 15:00:00,System
+406,Credit Check,2024-01-16 19:00:00,Logistics
+406,Payment Processed,2024-01-17 11:00:00,Finance Team
+406,Order Packed,2024-01-19 17:00:00,Logistics
+406,Order Shipped,2024-01-19 23:00:00,Warehouse
+406,Order Delivered,2024-01-21 20:00:00,Manager
+407,Order Created,2024-02-22 04:00:00,System
+407,Order Approved,2024-02-23 06:00:00,Warehouse
+407,Credit Check,2024-02-24 15:00:00,System
+407,Payment Processed,2024-02-26 07:00:00,Warehouse
+407,Order Packed,2024-02-29 00:00:00,Manager
+407,Order Shipped,2024-03-01 18:00:00,System
+407,Order Delivered,2024-03-02 09:00:00,Warehouse
+408,Order Created,2024-01-24 03:00:00,Manager
+408,Order Approved,2024-01-24 07:00:00,Finance Team
+408,Credit Check,2024-01-25 08:00:00,Warehouse
+408,Payment Processed,2024-01-27 04:00:00,Logistics
+408,Order Packed,2024-01-29 17:00:00,System
+408,Order Shipped,2024-01-30 11:00:00,Logistics
+408,Order Delivered,2024-01-31 07:00:00,Logistics
+409,Order Created,2024-02-29 21:00:00,Warehouse
+409,Order Approved,2024-03-03 09:00:00,Logistics
+409,Credit Check,2024-03-03 17:00:00,Manager
+409,Payment Processed,2024-03-05 08:00:00,Manager
+409,Order Packed,2024-03-07 01:00:00,Manager
+409,Order Shipped,2024-03-09 22:00:00,System
+409,Order Delivered,2024-03-11 01:00:00,Manager
+410,Order Created,2024-02-14 19:00:00,Warehouse
+410,Order Approved,2024-02-15 04:00:00,Finance Team
+410,Credit Check,2024-02-16 16:00:00,System
+410,Payment Processed,2024-02-18 12:00:00,Logistics
+410,Order Packed,2024-02-21 09:00:00,Finance Team
+410,Order Shipped,2024-02-23 11:00:00,Finance Team
+410,Order Delivered,2024-02-24 02:00:00,Warehouse
+411,Order Created,2024-02-16 17:00:00,System
+411,Order Approved,2024-02-18 04:00:00,Logistics
+411,Credit Check,2024-02-18 16:00:00,Logistics
+411,Payment Processed,2024-02-19 23:00:00,Warehouse
+411,Order Packed,2024-02-22 09:00:00,Warehouse
+411,Order Shipped,2024-02-23 13:00:00,Manager
+411,Order Delivered,2024-02-25 04:00:00,Finance Team
+412,Order Created,2024-01-10 00:00:00,System
+412,Order Approved,2024-01-11 02:00:00,System
+412,Credit Check,2024-01-13 11:00:00,Manager
+412,Payment Processed,2024-01-13 15:00:00,Logistics
+412,Order Packed,2024-01-16 08:00:00,Finance Team
+412,Order Shipped,2024-01-17 09:00:00,Warehouse
+412,Order Delivered,2024-01-19 23:00:00,Manager
+413,Order Created,2024-01-21 18:00:00,Finance Team
+413,Order Approved,2024-01-22 07:00:00,Manager
+413,Credit Check,2024-01-23 00:00:00,Finance Team
+413,Payment Processed,2024-01-23 05:00:00,Logistics
+413,Order Packed,2024-01-25 07:00:00,Manager
+413,Order Shipped,2024-01-25 22:00:00,System
+413,Order Delivered,2024-01-27 14:00:00,System
+414,Order Created,2024-02-13 12:00:00,Warehouse
+414,Order Approved,2024-02-16 00:00:00,System
+414,Credit Check,2024-02-16 14:00:00,Manager
+414,Payment Processed,2024-02-18 06:00:00,System
+414,Order Packed,2024-02-19 22:00:00,Finance Team
+414,Order Shipped,2024-02-21 16:00:00,Finance Team
+414,Order Delivered,2024-02-22 17:00:00,Warehouse
+415,Order Created,2024-01-20 21:00:00,Warehouse
+415,Order Approved,2024-01-23 06:00:00,System
+415,Credit Check,2024-01-24 17:00:00,Finance Team
+415,Payment Processed,2024-01-25 14:00:00,Warehouse
+415,Order Packed,2024-01-26 05:00:00,System
+415,Order Shipped,2024-01-29 05:00:00,Manager
+415,Order Delivered,2024-01-29 19:00:00,Finance Team
+416,Order Created,2024-02-05 21:00:00,Manager
+416,Order Approved,2024-02-07 14:00:00,Warehouse
+416,Credit Check,2024-02-08 09:00:00,Warehouse
+416,Payment Processed,2024-02-09 17:00:00,Finance Team
+416,Order Packed,2024-02-10 03:00:00,Warehouse
+416,Order Shipped,2024-02-11 23:00:00,Manager
+416,Order Delivered,2024-02-14 08:00:00,System
+417,Order Created,2024-01-09 04:00:00,Logistics
+417,Order Approved,2024-01-09 11:00:00,System
+417,Credit Check,2024-01-11 13:00:00,System
+417,Payment Processed,2024-01-12 01:00:00,Logistics
+417,Order Packed,2024-01-14 04:00:00,Finance Team
+417,Order Shipped,2024-01-16 14:00:00,Manager
+417,Order Delivered,2024-01-18 12:00:00,Warehouse
+418,Order Created,2024-01-23 02:00:00,Manager
+418,Order Approved,2024-01-23 13:00:00,Logistics
+418,Credit Check,2024-01-24 06:00:00,System
+418,Payment Processed,2024-01-26 18:00:00,System
+418,Order Packed,2024-01-29 05:00:00,Warehouse
+418,Order Shipped,2024-01-31 17:00:00,Logistics
+418,Order Delivered,2024-02-01 23:00:00,Finance Team
+419,Order Created,2024-01-11 10:00:00,Warehouse
+419,Order Approved,2024-01-13 13:00:00,Finance Team
+419,Credit Check,2024-01-15 08:00:00,Warehouse
+419,Payment Processed,2024-01-17 19:00:00,Logistics
+419,Order Packed,2024-01-17 23:00:00,System
+419,Order Shipped,2024-01-20 12:00:00,System
+419,Order Delivered,2024-01-22 09:00:00,Logistics
+420,Order Created,2024-01-30 22:00:00,Warehouse
+420,Order Approved,2024-02-01 19:00:00,Manager
+420,Credit Check,2024-02-02 12:00:00,Manager
+420,Payment Processed,2024-02-03 02:00:00,Logistics
+420,Order Packed,2024-02-03 16:00:00,Warehouse
+420,Order Shipped,2024-02-06 16:00:00,System
+420,Order Delivered,2024-02-08 07:00:00,Manager
+421,Order Created,2024-02-01 04:00:00,Manager
+421,Order Approved,2024-02-03 09:00:00,Finance Team
+421,Credit Check,2024-02-04 17:00:00,Manager
+421,Payment Processed,2024-02-05 14:00:00,Logistics
+421,Order Packed,2024-02-07 16:00:00,System
+421,Order Shipped,2024-02-09 12:00:00,Finance Team
+421,Order Delivered,2024-02-11 20:00:00,Logistics
+422,Order Created,2024-02-07 20:00:00,Manager
+422,Order Approved,2024-02-09 03:00:00,Finance Team
+422,Credit Check,2024-02-09 13:00:00,Manager
+422,Payment Processed,2024-02-12 04:00:00,System
+422,Order Packed,2024-02-14 16:00:00,Warehouse
+422,Order Shipped,2024-02-17 16:00:00,System
+422,Order Delivered,2024-02-20 01:00:00,Finance Team
+423,Order Created,2024-01-22 04:00:00,System
+423,Order Approved,2024-01-22 18:00:00,Manager
+423,Credit Check,2024-01-24 19:00:00,Warehouse
+423,Payment Processed,2024-01-27 11:00:00,System
+423,Order Packed,2024-01-27 23:00:00,Finance Team
+423,Order Shipped,2024-01-28 17:00:00,Manager
+423,Order Delivered,2024-01-28 18:00:00,Finance Team
+424,Order Created,2024-02-12 20:00:00,Logistics
+424,Order Approved,2024-02-15 17:00:00,Warehouse
+424,Credit Check,2024-02-17 19:00:00,Manager
+424,Payment Processed,2024-02-20 05:00:00,Finance Team
+424,Order Packed,2024-02-21 08:00:00,Warehouse
+424,Order Shipped,2024-02-22 23:00:00,Manager
+424,Order Delivered,2024-02-24 14:00:00,Logistics
+425,Order Created,2024-02-16 21:00:00,System
+425,Order Approved,2024-02-16 23:00:00,Manager
+425,Credit Check,2024-02-19 17:00:00,Logistics
+425,Payment Processed,2024-02-20 10:00:00,Warehouse
+425,Order Packed,2024-02-20 18:00:00,Warehouse
+425,Order Shipped,2024-02-23 17:00:00,System
+425,Order Delivered,2024-02-23 18:00:00,Manager
+426,Order Created,2024-02-23 22:00:00,System
+426,Order Approved,2024-02-25 11:00:00,System
+426,Credit Check,2024-02-26 18:00:00,Logistics
+426,Payment Processed,2024-02-28 21:00:00,Warehouse
+426,Order Packed,2024-03-01 22:00:00,Logistics
+426,Order Shipped,2024-03-03 23:00:00,Logistics
+426,Order Delivered,2024-03-06 21:00:00,Finance Team
+427,Order Created,2024-02-12 23:00:00,Logistics
+427,Order Approved,2024-02-13 17:00:00,Finance Team
+427,Credit Check,2024-02-16 17:00:00,Logistics
+427,Payment Processed,2024-02-18 16:00:00,Logistics
+427,Order Packed,2024-02-19 12:00:00,Warehouse
+427,Order Shipped,2024-02-20 05:00:00,Finance Team
+427,Order Delivered,2024-02-20 07:00:00,System
+428,Order Created,2024-02-11 03:00:00,Finance Team
+428,Order Approved,2024-02-13 18:00:00,Logistics
+428,Credit Check,2024-02-14 12:00:00,System
+428,Payment Processed,2024-02-15 06:00:00,Logistics
+428,Order Packed,2024-02-17 17:00:00,Manager
+428,Order Shipped,2024-02-20 00:00:00,Manager
+428,Order Delivered,2024-02-21 00:00:00,Logistics
+429,Order Created,2024-02-04 07:00:00,Manager
+429,Order Approved,2024-02-06 17:00:00,Logistics
+429,Credit Check,2024-02-08 15:00:00,Finance Team
+429,Payment Processed,2024-02-09 15:00:00,Logistics
+429,Order Packed,2024-02-09 16:00:00,Manager
+429,Order Shipped,2024-02-12 08:00:00,Finance Team
+429,Order Delivered,2024-02-15 01:00:00,Warehouse
+430,Order Created,2024-01-29 22:00:00,Manager
+430,Order Approved,2024-01-31 21:00:00,System
+430,Credit Check,2024-02-01 02:00:00,Manager
+430,Payment Processed,2024-02-03 16:00:00,Warehouse
+430,Order Packed,2024-02-04 07:00:00,Manager
+430,Order Shipped,2024-02-06 21:00:00,System
+430,Order Delivered,2024-02-07 16:00:00,Manager
+431,Order Created,2024-02-25 12:00:00,Logistics
+431,Order Approved,2024-02-28 07:00:00,System
+431,Credit Check,2024-03-02 02:00:00,Manager
+431,Payment Processed,2024-03-02 14:00:00,Finance Team
+431,Order Packed,2024-03-05 03:00:00,System
+431,Order Shipped,2024-03-08 01:00:00,Manager
+431,Order Delivered,2024-03-09 17:00:00,Manager
+432,Order Created,2024-01-05 20:00:00,Manager
+432,Order Approved,2024-01-05 22:00:00,Logistics
+432,Credit Check,2024-01-08 09:00:00,Manager
+432,Payment Processed,2024-01-10 22:00:00,Manager
+432,Order Packed,2024-01-12 17:00:00,Logistics
+432,Order Shipped,2024-01-14 15:00:00,Warehouse
+432,Order Delivered,2024-01-16 05:00:00,Finance Team
+433,Order Created,2024-01-04 15:00:00,Manager
+433,Order Approved,2024-01-06 01:00:00,System
+433,Credit Check,2024-01-08 14:00:00,Manager
+433,Payment Processed,2024-01-09 12:00:00,Manager
+433,Order Packed,2024-01-09 19:00:00,Warehouse
+433,Order Shipped,2024-01-09 23:00:00,Warehouse
+433,Order Delivered,2024-01-12 14:00:00,System
+434,Order Created,2024-01-11 17:00:00,System
+434,Order Approved,2024-01-13 05:00:00,Warehouse
+434,Credit Check,2024-01-13 22:00:00,Manager
+434,Payment Processed,2024-01-15 10:00:00,Warehouse
+434,Order Packed,2024-01-16 19:00:00,System
+434,Order Shipped,2024-01-17 10:00:00,Manager
+434,Order Delivered,2024-01-18 09:00:00,Manager
+435,Order Created,2024-02-17 20:00:00,Logistics
+435,Order Approved,2024-02-19 20:00:00,Finance Team
+435,Credit Check,2024-02-21 06:00:00,Finance Team
+435,Payment Processed,2024-02-23 21:00:00,Finance Team
+435,Order Packed,2024-02-26 17:00:00,System
+435,Order Shipped,2024-02-28 13:00:00,System
+435,Order Delivered,2024-02-29 08:00:00,Manager
+436,Order Created,2024-02-29 20:00:00,Logistics
+436,Order Approved,2024-03-03 01:00:00,Logistics
+436,Credit Check,2024-03-04 08:00:00,Logistics
+436,Payment Processed,2024-03-05 06:00:00,Finance Team
+436,Order Packed,2024-03-07 03:00:00,System
+436,Order Shipped,2024-03-08 13:00:00,System
+436,Order Delivered,2024-03-08 20:00:00,Finance Team
+437,Order Created,2024-02-01 04:00:00,Logistics
+437,Order Approved,2024-02-02 19:00:00,Logistics
+437,Credit Check,2024-02-05 16:00:00,Finance Team
+437,Payment Processed,2024-02-07 17:00:00,Logistics
+437,Order Packed,2024-02-10 06:00:00,Warehouse
+437,Order Shipped,2024-02-11 01:00:00,Manager
+437,Order Delivered,2024-02-13 09:00:00,System
+438,Order Created,2024-01-21 10:00:00,Logistics
+438,Order Approved,2024-01-23 03:00:00,Manager
+438,Credit Check,2024-01-23 09:00:00,System
+438,Payment Processed,2024-01-26 06:00:00,Warehouse
+438,Order Packed,2024-01-28 14:00:00,Manager
+438,Order Shipped,2024-01-30 01:00:00,Warehouse
+438,Order Delivered,2024-01-31 12:00:00,Warehouse
+439,Order Created,2024-02-21 13:00:00,Warehouse
+439,Order Approved,2024-02-23 16:00:00,Logistics
+439,Credit Check,2024-02-24 23:00:00,Manager
+439,Payment Processed,2024-02-26 00:00:00,Manager
+439,Order Packed,2024-02-27 20:00:00,Finance Team
+439,Order Shipped,2024-02-29 13:00:00,Manager
+439,Order Delivered,2024-02-29 15:00:00,System
+440,Order Created,2024-02-23 09:00:00,System
+440,Order Approved,2024-02-25 14:00:00,System
+440,Credit Check,2024-02-28 10:00:00,System
+440,Payment Processed,2024-03-01 20:00:00,Warehouse
+440,Order Packed,2024-03-03 01:00:00,Warehouse
+440,Order Shipped,2024-03-04 10:00:00,Finance Team
+440,Order Delivered,2024-03-04 15:00:00,System
+441,Order Created,2024-02-09 12:00:00,System
+441,Order Approved,2024-02-10 16:00:00,Manager
+441,Credit Check,2024-02-11 08:00:00,System
+441,Payment Processed,2024-02-11 20:00:00,Manager
+441,Order Packed,2024-02-12 13:00:00,Logistics
+441,Order Shipped,2024-02-13 13:00:00,System
+441,Order Delivered,2024-02-14 13:00:00,Warehouse
+442,Order Created,2024-01-21 12:00:00,System
+442,Order Approved,2024-01-23 23:00:00,Warehouse
+442,Credit Check,2024-01-26 06:00:00,Warehouse
+442,Payment Processed,2024-01-27 15:00:00,Finance Team
+442,Order Packed,2024-01-28 01:00:00,Warehouse
+442,Order Shipped,2024-01-28 09:00:00,Logistics
+442,Order Delivered,2024-01-30 11:00:00,Warehouse
+443,Order Created,2024-01-05 10:00:00,Warehouse
+443,Order Approved,2024-01-06 09:00:00,Logistics
+443,Credit Check,2024-01-06 18:00:00,Logistics
+443,Payment Processed,2024-01-07 20:00:00,Manager
+443,Order Packed,2024-01-09 23:00:00,Finance Team
+443,Order Shipped,2024-01-12 14:00:00,System
+443,Order Delivered,2024-01-13 09:00:00,Manager
+444,Order Created,2024-02-21 08:00:00,Finance Team
+444,Order Approved,2024-02-21 22:00:00,Logistics
+444,Credit Check,2024-02-23 08:00:00,System
+444,Payment Processed,2024-02-23 13:00:00,System
+444,Order Packed,2024-02-23 23:00:00,Manager
+444,Order Shipped,2024-02-25 08:00:00,Logistics
+444,Order Delivered,2024-02-25 11:00:00,Logistics
+445,Order Created,2024-01-10 01:00:00,System
+445,Order Approved,2024-01-12 03:00:00,Warehouse
+445,Credit Check,2024-01-12 23:00:00,Warehouse
+445,Payment Processed,2024-01-15 02:00:00,Manager
+445,Order Packed,2024-01-15 03:00:00,Manager
+445,Order Shipped,2024-01-17 18:00:00,Logistics
+445,Order Delivered,2024-01-20 02:00:00,Logistics
+446,Order Created,2024-02-24 09:00:00,Manager
+446,Order Approved,2024-02-25 14:00:00,System
+446,Credit Check,2024-02-27 16:00:00,Logistics
+446,Payment Processed,2024-02-28 08:00:00,Manager
+446,Order Packed,2024-03-02 05:00:00,Warehouse
+446,Order Shipped,2024-03-04 00:00:00,Warehouse
+446,Order Delivered,2024-03-06 04:00:00,System
+447,Order Created,2024-02-10 12:00:00,Warehouse
+447,Order Approved,2024-02-13 09:00:00,Warehouse
+447,Credit Check,2024-02-13 20:00:00,Logistics
+447,Payment Processed,2024-02-15 10:00:00,Finance Team
+447,Order Packed,2024-02-16 09:00:00,Manager
+447,Order Shipped,2024-02-16 15:00:00,Logistics
+447,Order Delivered,2024-02-17 16:00:00,Warehouse
+448,Order Created,2024-02-16 02:00:00,System
+448,Order Approved,2024-02-18 00:00:00,Logistics
+448,Credit Check,2024-02-18 11:00:00,Logistics
+448,Payment Processed,2024-02-19 12:00:00,Finance Team
+448,Order Packed,2024-02-19 17:00:00,Finance Team
+448,Order Shipped,2024-02-19 21:00:00,Manager
+448,Order Delivered,2024-02-21 04:00:00,Logistics
+449,Order Created,2024-01-25 09:00:00,Manager
+449,Order Approved,2024-01-27 01:00:00,Logistics
+449,Credit Check,2024-01-29 22:00:00,Logistics
+449,Payment Processed,2024-01-30 01:00:00,System
+449,Order Packed,2024-01-31 21:00:00,System
+449,Order Shipped,2024-02-02 17:00:00,System
+449,Order Delivered,2024-02-04 21:00:00,System
+450,Order Created,2024-01-16 19:00:00,Logistics
+450,Order Approved,2024-01-19 16:00:00,Finance Team
+450,Credit Check,2024-01-20 22:00:00,System
+450,Payment Processed,2024-01-21 03:00:00,Finance Team
+450,Order Packed,2024-01-23 18:00:00,System
+450,Order Shipped,2024-01-26 07:00:00,Manager
+450,Order Delivered,2024-01-26 13:00:00,Finance Team
+451,Order Created,2024-02-14 17:00:00,System
+451,Order Approved,2024-02-15 16:00:00,System
+451,Credit Check,2024-02-17 08:00:00,System
+451,Payment Processed,2024-02-19 19:00:00,Manager
+451,Order Packed,2024-02-20 17:00:00,Manager
+451,Order Shipped,2024-02-21 02:00:00,System
+451,Order Delivered,2024-02-21 17:00:00,Logistics
+452,Order Created,2024-02-09 05:00:00,System
+452,Order Approved,2024-02-10 07:00:00,Logistics
+452,Credit Check,2024-02-12 03:00:00,Logistics
+452,Payment Processed,2024-02-13 21:00:00,System
+452,Order Packed,2024-02-16 19:00:00,Finance Team
+452,Order Shipped,2024-02-18 13:00:00,Finance Team
+452,Order Delivered,2024-02-18 19:00:00,Manager
+453,Order Created,2024-01-13 19:00:00,System
+453,Order Approved,2024-01-14 11:00:00,Warehouse
+453,Credit Check,2024-01-15 06:00:00,Logistics
+453,Payment Processed,2024-01-16 04:00:00,Warehouse
+453,Order Packed,2024-01-19 03:00:00,Finance Team
+453,Order Shipped,2024-01-21 12:00:00,Finance Team
+453,Order Delivered,2024-01-21 18:00:00,Finance Team
+454,Order Created,2024-01-09 01:00:00,Finance Team
+454,Order Approved,2024-01-09 04:00:00,Logistics
+454,Credit Check,2024-01-09 15:00:00,System
+454,Payment Processed,2024-01-09 16:00:00,Finance Team
+454,Order Packed,2024-01-10 04:00:00,Manager
+454,Order Shipped,2024-01-11 17:00:00,Logistics
+454,Order Delivered,2024-01-14 06:00:00,Finance Team
+455,Order Created,2024-01-14 19:00:00,Warehouse
+455,Order Approved,2024-01-17 14:00:00,Logistics
+455,Credit Check,2024-01-19 19:00:00,Finance Team
+455,Payment Processed,2024-01-20 18:00:00,Manager
+455,Order Packed,2024-01-20 23:00:00,Manager
+455,Order Shipped,2024-01-21 23:00:00,Logistics
+455,Order Delivered,2024-01-22 11:00:00,Warehouse
+456,Order Created,2024-01-25 06:00:00,System
+456,Order Approved,2024-01-28 06:00:00,Finance Team
+456,Credit Check,2024-01-29 07:00:00,System
+456,Payment Processed,2024-02-01 03:00:00,System
+456,Order Packed,2024-02-03 02:00:00,Manager
+456,Order Shipped,2024-02-05 19:00:00,Finance Team
+456,Order Delivered,2024-02-08 07:00:00,Finance Team
+457,Order Created,2024-01-18 07:00:00,Finance Team
+457,Order Approved,2024-01-18 22:00:00,Finance Team
+457,Credit Check,2024-01-21 11:00:00,Logistics
+457,Payment Processed,2024-01-22 10:00:00,Finance Team
+457,Order Packed,2024-01-22 16:00:00,System
+457,Order Shipped,2024-01-24 15:00:00,Warehouse
+457,Order Delivered,2024-01-25 18:00:00,Logistics
+458,Order Created,2024-01-18 19:00:00,Manager
+458,Order Approved,2024-01-21 06:00:00,System
+458,Credit Check,2024-01-21 20:00:00,System
+458,Payment Processed,2024-01-24 17:00:00,Finance Team
+458,Order Packed,2024-01-25 14:00:00,System
+458,Order Shipped,2024-01-28 05:00:00,Manager
+458,Order Delivered,2024-01-28 20:00:00,System
+459,Order Created,2024-02-28 07:00:00,Logistics
+459,Order Approved,2024-03-01 01:00:00,Logistics
+459,Credit Check,2024-03-02 03:00:00,Warehouse
+459,Payment Processed,2024-03-03 09:00:00,System
+459,Order Packed,2024-03-05 03:00:00,Finance Team
+459,Order Shipped,2024-03-05 16:00:00,Finance Team
+459,Order Delivered,2024-03-07 21:00:00,Finance Team
+460,Order Created,2024-01-26 05:00:00,System
+460,Order Approved,2024-01-28 18:00:00,Manager
+460,Credit Check,2024-01-31 09:00:00,System
+460,Payment Processed,2024-02-02 17:00:00,Finance Team
+460,Order Packed,2024-02-03 21:00:00,Manager
+460,Order Shipped,2024-02-06 08:00:00,Finance Team
+460,Order Delivered,2024-02-08 10:00:00,Warehouse
+461,Order Created,2024-01-11 11:00:00,Finance Team
+461,Order Approved,2024-01-13 09:00:00,Warehouse
+461,Credit Check,2024-01-14 11:00:00,Warehouse
+461,Payment Processed,2024-01-15 04:00:00,System
+461,Order Packed,2024-01-15 12:00:00,Warehouse
+461,Order Shipped,2024-01-16 06:00:00,System
+461,Order Delivered,2024-01-18 18:00:00,Logistics
+462,Order Created,2024-01-27 22:00:00,Warehouse
+462,Order Approved,2024-01-29 03:00:00,Warehouse
+462,Credit Check,2024-01-30 00:00:00,Manager
+462,Payment Processed,2024-01-30 22:00:00,Manager
+462,Order Packed,2024-02-02 21:00:00,Finance Team
+462,Order Shipped,2024-02-03 09:00:00,Logistics
+462,Order Delivered,2024-02-06 04:00:00,Logistics
+463,Order Created,2024-02-26 04:00:00,Manager
+463,Order Approved,2024-02-28 17:00:00,Logistics
+463,Credit Check,2024-03-01 05:00:00,System
+463,Payment Processed,2024-03-03 12:00:00,Finance Team
+463,Order Packed,2024-03-04 20:00:00,Warehouse
+463,Order Shipped,2024-03-07 04:00:00,Manager
+463,Order Delivered,2024-03-08 09:00:00,Manager
+464,Order Created,2024-03-01 20:00:00,Manager
+464,Order Approved,2024-03-01 21:00:00,Logistics
+464,Credit Check,2024-03-02 03:00:00,System
+464,Payment Processed,2024-03-04 16:00:00,Manager
+464,Order Packed,2024-03-04 21:00:00,Logistics
+464,Order Shipped,2024-03-07 17:00:00,Logistics
+464,Order Delivered,2024-03-10 07:00:00,System
+465,Order Created,2024-01-31 16:00:00,Finance Team
+465,Order Approved,2024-02-01 03:00:00,Manager
+465,Credit Check,2024-02-01 05:00:00,Logistics
+465,Payment Processed,2024-02-02 09:00:00,Finance Team
+465,Order Packed,2024-02-04 07:00:00,Warehouse
+465,Order Shipped,2024-02-05 14:00:00,System
+465,Order Delivered,2024-02-05 17:00:00,Logistics
+466,Order Created,2024-02-13 16:00:00,Finance Team
+466,Order Approved,2024-02-16 03:00:00,Manager
+466,Credit Check,2024-02-16 07:00:00,Logistics
+466,Payment Processed,2024-02-18 19:00:00,Finance Team
+466,Order Packed,2024-02-20 23:00:00,Finance Team
+466,Order Shipped,2024-02-22 23:00:00,Logistics
+466,Order Delivered,2024-02-23 00:00:00,System
+467,Order Created,2024-01-26 19:00:00,Manager
+467,Order Approved,2024-01-27 00:00:00,Warehouse
+467,Credit Check,2024-01-29 07:00:00,Warehouse
+467,Payment Processed,2024-02-01 05:00:00,Manager
+467,Order Packed,2024-02-02 08:00:00,System
+467,Order Shipped,2024-02-04 03:00:00,System
+467,Order Delivered,2024-02-06 21:00:00,Warehouse
+468,Order Created,2024-02-26 07:00:00,System
+468,Order Approved,2024-02-28 09:00:00,Warehouse
+468,Credit Check,2024-03-01 21:00:00,Manager
+468,Payment Processed,2024-03-02 03:00:00,Warehouse
+468,Order Packed,2024-03-04 02:00:00,Finance Team
+468,Order Shipped,2024-03-07 02:00:00,System
+468,Order Delivered,2024-03-10 02:00:00,Finance Team
+469,Order Created,2024-01-10 19:00:00,Finance Team
+469,Order Approved,2024-01-13 17:00:00,System
+469,Credit Check,2024-01-16 07:00:00,Manager
+469,Payment Processed,2024-01-17 10:00:00,Finance Team
+469,Order Packed,2024-01-19 04:00:00,Warehouse
+469,Order Shipped,2024-01-20 15:00:00,Manager
+469,Order Delivered,2024-01-22 22:00:00,Warehouse
+470,Order Created,2024-01-04 09:00:00,Warehouse
+470,Order Approved,2024-01-06 06:00:00,Logistics
+470,Credit Check,2024-01-08 21:00:00,Manager
+470,Payment Processed,2024-01-11 17:00:00,System
+470,Order Packed,2024-01-14 06:00:00,Manager
+470,Order Shipped,2024-01-17 03:00:00,Warehouse
+470,Order Delivered,2024-01-19 13:00:00,Manager
+471,Order Created,2024-01-24 09:00:00,Finance Team
+471,Order Approved,2024-01-26 20:00:00,System
+471,Credit Check,2024-01-27 07:00:00,Logistics
+471,Payment Processed,2024-01-28 06:00:00,Warehouse
+471,Order Packed,2024-01-28 16:00:00,System
+471,Order Shipped,2024-01-29 14:00:00,Warehouse
+471,Order Delivered,2024-01-30 05:00:00,Finance Team
+472,Order Created,2024-02-01 20:00:00,Finance Team
+472,Order Approved,2024-02-04 15:00:00,System
+472,Credit Check,2024-02-06 05:00:00,Logistics
+472,Payment Processed,2024-02-09 03:00:00,Finance Team
+472,Order Packed,2024-02-11 16:00:00,Warehouse
+472,Order Shipped,2024-02-13 22:00:00,Logistics
+472,Order Delivered,2024-02-14 01:00:00,Warehouse
+473,Order Created,2024-01-13 09:00:00,System
+473,Order Approved,2024-01-14 15:00:00,Manager
+473,Credit Check,2024-01-16 10:00:00,Logistics
+473,Payment Processed,2024-01-18 06:00:00,Warehouse
+473,Order Packed,2024-01-20 21:00:00,Manager
+473,Order Shipped,2024-01-23 17:00:00,Manager
+473,Order Delivered,2024-01-26 02:00:00,Logistics
+474,Order Created,2024-01-20 17:00:00,Warehouse
+474,Order Approved,2024-01-21 15:00:00,Warehouse
+474,Credit Check,2024-01-22 21:00:00,Logistics
+474,Payment Processed,2024-01-24 21:00:00,Warehouse
+474,Order Packed,2024-01-25 04:00:00,Finance Team
+474,Order Shipped,2024-01-27 02:00:00,Warehouse
+474,Order Delivered,2024-01-29 13:00:00,Finance Team
+475,Order Created,2024-02-09 21:00:00,Manager
+475,Order Approved,2024-02-11 10:00:00,Finance Team
+475,Credit Check,2024-02-12 09:00:00,Finance Team
+475,Payment Processed,2024-02-13 06:00:00,Finance Team
+475,Order Packed,2024-02-13 21:00:00,System
+475,Order Shipped,2024-02-15 14:00:00,Manager
+475,Order Delivered,2024-02-16 07:00:00,Logistics
+476,Order Created,2024-01-19 00:00:00,Finance Team
+476,Order Approved,2024-01-20 03:00:00,Manager
+476,Credit Check,2024-01-20 08:00:00,Warehouse
+476,Payment Processed,2024-01-22 05:00:00,Finance Team
+476,Order Packed,2024-01-24 05:00:00,Logistics
+476,Order Shipped,2024-01-27 03:00:00,Finance Team
+476,Order Delivered,2024-01-30 00:00:00,Warehouse
+477,Order Created,2024-01-08 04:00:00,Logistics
+477,Order Approved,2024-01-10 20:00:00,Finance Team
+477,Credit Check,2024-01-13 07:00:00,Warehouse
+477,Payment Processed,2024-01-14 03:00:00,System
+477,Order Packed,2024-01-17 01:00:00,Manager
+477,Order Shipped,2024-01-18 20:00:00,Warehouse
+477,Order Delivered,2024-01-21 09:00:00,Warehouse
+478,Order Created,2024-03-01 19:00:00,Manager
+478,Order Approved,2024-03-04 04:00:00,Warehouse
+478,Credit Check,2024-03-04 19:00:00,Logistics
+478,Payment Processed,2024-03-05 01:00:00,Finance Team
+478,Order Packed,2024-03-08 00:00:00,System
+478,Order Shipped,2024-03-09 16:00:00,System
+478,Order Delivered,2024-03-11 20:00:00,Manager
+479,Order Created,2024-02-24 05:00:00,Logistics
+479,Order Approved,2024-02-26 03:00:00,System
+479,Credit Check,2024-02-27 21:00:00,System
+479,Payment Processed,2024-02-28 22:00:00,Manager
+479,Order Packed,2024-03-02 18:00:00,Finance Team
+479,Order Shipped,2024-03-04 06:00:00,Finance Team
+479,Order Delivered,2024-03-04 09:00:00,System
+480,Order Created,2024-02-06 10:00:00,System
+480,Order Approved,2024-02-09 04:00:00,Logistics
+480,Credit Check,2024-02-10 05:00:00,Logistics
+480,Payment Processed,2024-02-11 22:00:00,Manager
+480,Order Packed,2024-02-14 16:00:00,System
+480,Order Shipped,2024-02-16 15:00:00,Logistics
+480,Order Delivered,2024-02-17 10:00:00,Logistics
+481,Order Created,2024-01-26 02:00:00,Warehouse
+481,Order Approved,2024-01-26 04:00:00,Warehouse
+481,Credit Check,2024-01-28 01:00:00,Warehouse
+481,Payment Processed,2024-01-29 17:00:00,Logistics
+481,Order Packed,2024-02-01 17:00:00,System
+481,Order Shipped,2024-02-02 21:00:00,Logistics
+481,Order Delivered,2024-02-05 03:00:00,Logistics
+482,Order Created,2024-01-19 21:00:00,Logistics
+482,Order Approved,2024-01-22 03:00:00,Finance Team
+482,Credit Check,2024-01-22 15:00:00,Finance Team
+482,Payment Processed,2024-01-23 18:00:00,Warehouse
+482,Order Packed,2024-01-26 07:00:00,Manager
+482,Order Shipped,2024-01-28 02:00:00,System
+482,Order Delivered,2024-01-30 03:00:00,System
+483,Order Created,2024-01-03 05:00:00,Warehouse
+483,Order Approved,2024-01-05 11:00:00,Finance Team
+483,Credit Check,2024-01-08 11:00:00,Logistics
+483,Payment Processed,2024-01-09 05:00:00,Finance Team
+483,Order Packed,2024-01-10 05:00:00,Logistics
+483,Order Shipped,2024-01-11 19:00:00,Manager
+483,Order Delivered,2024-01-14 10:00:00,System
+484,Order Created,2024-02-23 15:00:00,Manager
+484,Order Approved,2024-02-25 06:00:00,Logistics
+484,Credit Check,2024-02-28 06:00:00,Logistics
+484,Payment Processed,2024-02-29 11:00:00,System
+484,Order Packed,2024-02-29 12:00:00,Finance Team
+484,Order Shipped,2024-03-01 22:00:00,Warehouse
+484,Order Delivered,2024-03-04 11:00:00,System
+485,Order Created,2024-02-12 13:00:00,Logistics
+485,Order Approved,2024-02-13 12:00:00,Logistics
+485,Credit Check,2024-02-14 20:00:00,System
+485,Payment Processed,2024-02-15 12:00:00,Warehouse
+485,Order Packed,2024-02-18 04:00:00,System
+485,Order Shipped,2024-02-20 03:00:00,Manager
+485,Order Delivered,2024-02-22 17:00:00,Manager
+486,Order Created,2024-01-29 10:00:00,Logistics
+486,Order Approved,2024-01-30 02:00:00,Warehouse
+486,Credit Check,2024-02-01 20:00:00,Manager
+486,Payment Processed,2024-02-01 23:00:00,Warehouse
+486,Order Packed,2024-02-02 20:00:00,Manager
+486,Order Shipped,2024-02-03 04:00:00,Finance Team
+486,Order Delivered,2024-02-04 21:00:00,Logistics
+487,Order Created,2024-02-26 18:00:00,Warehouse
+487,Order Approved,2024-02-27 15:00:00,System
+487,Credit Check,2024-02-29 02:00:00,Warehouse
+487,Payment Processed,2024-03-02 08:00:00,Warehouse
+487,Order Packed,2024-03-02 15:00:00,Warehouse
+487,Order Shipped,2024-03-04 05:00:00,Manager
+487,Order Delivered,2024-03-04 15:00:00,Manager
+488,Order Created,2024-01-14 00:00:00,System
+488,Order Approved,2024-01-14 22:00:00,Manager
+488,Credit Check,2024-01-16 16:00:00,Warehouse
+488,Payment Processed,2024-01-18 07:00:00,Warehouse
+488,Order Packed,2024-01-20 06:00:00,System
+488,Order Shipped,2024-01-23 03:00:00,Manager
+488,Order Delivered,2024-01-25 01:00:00,Finance Team
+489,Order Created,2024-01-01 18:00:00,Manager
+489,Order Approved,2024-01-03 07:00:00,Warehouse
+489,Credit Check,2024-01-05 22:00:00,Logistics
+489,Payment Processed,2024-01-07 18:00:00,Finance Team
+489,Order Packed,2024-01-08 08:00:00,Finance Team
+489,Order Shipped,2024-01-09 04:00:00,Manager
+489,Order Delivered,2024-01-10 09:00:00,Finance Team
+490,Order Created,2024-02-23 00:00:00,Manager
+490,Order Approved,2024-02-25 20:00:00,Manager
+490,Credit Check,2024-02-28 19:00:00,System
+490,Payment Processed,2024-03-02 01:00:00,Logistics
+490,Order Packed,2024-03-02 11:00:00,System
+490,Order Shipped,2024-03-03 04:00:00,System
+490,Order Delivered,2024-03-05 18:00:00,Warehouse
+491,Order Created,2024-01-21 23:00:00,Finance Team
+491,Order Approved,2024-01-24 08:00:00,Manager
+491,Credit Check,2024-01-27 03:00:00,Warehouse
+491,Payment Processed,2024-01-28 02:00:00,Warehouse
+491,Order Packed,2024-01-28 06:00:00,System
+491,Order Shipped,2024-01-29 11:00:00,Finance Team
+491,Order Delivered,2024-01-30 06:00:00,Finance Team
+492,Order Created,2024-01-20 17:00:00,Finance Team
+492,Order Approved,2024-01-21 10:00:00,System
+492,Credit Check,2024-01-23 17:00:00,System
+492,Payment Processed,2024-01-24 03:00:00,System
+492,Order Packed,2024-01-26 17:00:00,Logistics
+492,Order Shipped,2024-01-26 23:00:00,Finance Team
+492,Order Delivered,2024-01-27 13:00:00,System
+493,Order Created,2024-02-22 18:00:00,Manager
+493,Order Approved,2024-02-23 02:00:00,Logistics
+493,Credit Check,2024-02-23 18:00:00,Warehouse
+493,Payment Processed,2024-02-24 00:00:00,System
+493,Order Packed,2024-02-25 15:00:00,System
+493,Order Shipped,2024-02-26 04:00:00,System
+493,Order Delivered,2024-02-27 07:00:00,Manager
+494,Order Created,2024-02-28 02:00:00,Finance Team
+494,Order Approved,2024-02-29 23:00:00,System
+494,Credit Check,2024-03-01 11:00:00,Finance Team
+494,Payment Processed,2024-03-02 23:00:00,Manager
+494,Order Packed,2024-03-04 20:00:00,Warehouse
+494,Order Shipped,2024-03-05 17:00:00,Manager
+494,Order Delivered,2024-03-07 00:00:00,Manager
+495,Order Created,2024-02-06 09:00:00,System
+495,Order Approved,2024-02-06 11:00:00,Manager
+495,Credit Check,2024-02-07 15:00:00,Finance Team
+495,Payment Processed,2024-02-09 04:00:00,Finance Team
+495,Order Packed,2024-02-12 01:00:00,System
+495,Order Shipped,2024-02-12 14:00:00,Finance Team
+495,Order Delivered,2024-02-15 07:00:00,Logistics
+496,Order Created,2024-01-25 00:00:00,Logistics
+496,Order Approved,2024-01-25 14:00:00,Finance Team
+496,Credit Check,2024-01-27 12:00:00,Logistics
+496,Payment Processed,2024-01-29 19:00:00,Finance Team
+496,Order Packed,2024-02-01 13:00:00,Finance Team
+496,Order Shipped,2024-02-03 18:00:00,System
+496,Order Delivered,2024-02-05 11:00:00,System
+497,Order Created,2024-01-30 15:00:00,Manager
+497,Order Approved,2024-01-31 09:00:00,Logistics
+497,Credit Check,2024-02-02 08:00:00,Warehouse
+497,Payment Processed,2024-02-05 08:00:00,System
+497,Order Packed,2024-02-05 19:00:00,Warehouse
+497,Order Shipped,2024-02-08 11:00:00,System
+497,Order Delivered,2024-02-10 13:00:00,Warehouse
+498,Order Created,2024-01-31 16:00:00,Logistics
+498,Order Approved,2024-02-01 21:00:00,Manager
+498,Credit Check,2024-02-04 02:00:00,Warehouse
+498,Payment Processed,2024-02-06 09:00:00,Finance Team
+498,Order Packed,2024-02-06 18:00:00,Logistics
+498,Order Shipped,2024-02-08 18:00:00,Finance Team
+498,Order Delivered,2024-02-08 20:00:00,Logistics
+499,Order Created,2024-02-13 14:00:00,Logistics
+499,Order Approved,2024-02-15 23:00:00,Manager
+499,Credit Check,2024-02-16 10:00:00,System
+499,Payment Processed,2024-02-17 05:00:00,Logistics
+499,Order Packed,2024-02-19 09:00:00,Manager
+499,Order Shipped,2024-02-19 23:00:00,Finance Team
+499,Order Delivered,2024-02-20 08:00:00,Warehouse
+500,Order Created,2024-01-14 20:00:00,Finance Team
+500,Order Approved,2024-01-17 00:00:00,System
+500,Credit Check,2024-01-18 06:00:00,Logistics
+500,Payment Processed,2024-01-20 22:00:00,Warehouse
+500,Order Packed,2024-01-22 09:00:00,Logistics
+500,Order Shipped,2024-01-24 07:00:00,Logistics
+500,Order Delivered,2024-01-26 11:00:00,Logistics
