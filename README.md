@@ -26,8 +26,6 @@ Supported process optimization and operational efficiency analysis.
 
 Python | Pandas | NumPy | Data Cleaning | EDA | Process Mining Concepts | Data Visualization
 
-If you want a shorter resume version (2–3 bullets only):
-
 Process Event Log Analysis (Python)
 
 Analyzed timestamp-based workflow logs to compute case cycle time and activity transitions.
